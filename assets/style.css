@@ -17,7 +17,7 @@ body {
     min-height: 100vh;
 
     margin: 0 24px;
-    color: #2F383E
+    background-color: #2F383E
 }
 
 @media only screen and (max-width: 468px) {
