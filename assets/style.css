@@ -42,6 +42,7 @@ body {
 nav a {
     margin: 0 12px;
     font-size: 1.25em;
+    color: #D1C4A9
 }
 
 main {
@@ -106,7 +107,7 @@ small {font-size: 0.8em; color: #D1C4A9}
 .backlinks-default {
     margin-top: 0;
     margin-left: 16px;
-    color: var(--grey);
+    color: #D1C4A9;
 }
 
 .backlink__preview {
