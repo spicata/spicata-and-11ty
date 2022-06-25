@@ -77,6 +77,8 @@ a[href]:focus {
 /* Typography */
 p {margin-bottom: 1.15rem; color:#D1C4A9}
 
+a {color: #D1C4A9}
+
 h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
   font-weight: 400;
@@ -164,4 +166,8 @@ strong {
 
 s {
     color: #859289;
+}
+
+::marker {
+    color: #D1C4A9;
 }

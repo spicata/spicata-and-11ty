@@ -4,12 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "b0eb3dd88c070824",
+        "id": "bd9754c29911cff1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Formatting.md",
+            "file": "notes/Digital Gardens.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4847c80ac01f217e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/The Connections.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "935123e28f3c972c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Going Backwards.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a0f2843f56c8c1cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/index.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -69,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Formatting.md",
+                "file": "notes/Going Backwards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,20 +118,63 @@
             }
           }
         ]
+      },
+      {
+        "id": "b17b5d900ec7737c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05fd47898524e154",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notes/Going Backwards.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.86488782051282,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8975162716347982,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b0eb3dd88c070824",
+  "active": "935123e28f3c972c",
   "lastOpenFiles": [
+    "notes/Going Backwards.md",
+    "notes/Digital Gardens.md",
+    "notes/The Connections.md",
+    "notes/index.md",
     "notes/Formatting.md",
+    "notes/Untitled.md",
     "notes/test.md",
-    "about.md",
-    "index.md",
-    "CONTRIBUTING.md",
-    "README.md",
-    "assets/avatar.png"
+    "notes/food.md",
+    "notes/easter egg.md",
+    "notes/bar.md"
   ]
 }
