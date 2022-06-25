@@ -151,18 +151,14 @@ small {font-size: 0.8em; color: #B87B9D}
     display: block;
 }
 
-.cm-mark {
-    background-color: rgba(215, 153, 33, 0.4);
-}
-
-.cm-em {
+em {
     color: #55ac83;
 }
 
-.cm-strong {
+strong {
   color: #DA6362;
 }
 
-.cm-strikethrough {
+del {
     color: #859289;
 }

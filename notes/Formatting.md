@@ -9,5 +9,3 @@
 *Italics*
 
 ~~Strikethrough~~
-
-==Highlighted==
