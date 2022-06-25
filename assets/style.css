@@ -82,17 +82,17 @@ h1, h2, h3, h4, h5 {
   line-height: 1.15;
 }
 
-h1 {font-size: 3.052em;}
+h1 {font-size: 3.052em; color: #DA6362}
 
-h2 {font-size: 2.441em;}
+h2 {font-size: 2.441em; color: #D77F48}
 
-h3 {font-size: 1.953em;}
+h3 {font-size: 1.953em; color: #BF983D}
 
-h4 {font-size: 1.563em;}
+h4 {font-size: 1.563em; color: #899C40}
 
-h5, .larger {font-size: 1.25em;}
+h5, .larger {font-size: 1.25em; color: #569D79}
 
-small {font-size: 0.8em;}
+small {font-size: 0.8em; color: #B87B9D}
 
 /* backlinks */
 .backlinks-title {
@@ -149,4 +149,20 @@ small {font-size: 0.8em;}
 
 .backlink:hover .backlink__preview {
     display: block;
+}
+
+.cm-mark {
+    background-color: rgba(215, 153, 33, 0.4);
+}
+
+.cm-em {
+    color: #55ac83;
+}
+
+.cm-strong {
+  color: #DA6362;
+}
+
+.cm-strikethrough {
+    color: #859289;
 }

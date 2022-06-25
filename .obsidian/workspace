@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/test.md",
-            "mode": "source",
+            "file": "notes/Formatting.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/test.md",
+                "file": "notes/Formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "b0eb3dd88c070824",
   "lastOpenFiles": [
+    "notes/Formatting.md",
     "notes/test.md",
     "about.md",
     "index.md",

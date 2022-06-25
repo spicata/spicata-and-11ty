@@ -1,4 +1,9 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "useMarkdownLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "showLineNumber": true
 }
