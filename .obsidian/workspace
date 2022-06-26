@@ -4,48 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bd9754c29911cff1",
+        "id": "b36983278846fa79",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Digital Gardens.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4847c80ac01f217e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/The Connections.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "935123e28f3c972c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Going Backwards.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a0f2843f56c8c1cb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/index.md",
+            "file": "notes/Hyperlink Styling.md",
             "mode": "source",
             "source": false
           }
@@ -106,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Digital Gardens.md",
+                "file": "notes/Hyperlink Styling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,11 +93,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Digital Gardens.md",
+                "file": "notes/Hyperlink Styling.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -147,7 +111,7 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 2.86488782051282,
                   "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
@@ -164,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bd9754c29911cff1",
+  "active": "b36983278846fa79",
   "lastOpenFiles": [
-    "notes/Digital Gardens.md",
-    "notes/Going Backwards.md",
+    "notes/Hyperlink Styling.md",
     "notes/The Connections.md",
+    "notes/Digital Gardens.md",
+    "notes/Learning.md",
     "notes/index.md",
-    "notes/Formatting.md",
-    "notes/Untitled.md",
-    "notes/test.md",
-    "notes/food.md",
-    "notes/easter egg.md",
-    "notes/bar.md"
+    "notes/Getting Lost.md",
+    "notes/Going Backwards.md",
+    "assets/Pasted image 20220626133356.png",
+    "assets/Pasted image 20220626133408.png",
+    "index.md"
   ]
 }
