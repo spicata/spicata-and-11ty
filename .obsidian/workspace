@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Going Backwards.md",
+                "file": "notes/Digital Gardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Going Backwards.md",
+                "file": "notes/Digital Gardens.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,10 +164,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "935123e28f3c972c",
+  "active": "bd9754c29911cff1",
   "lastOpenFiles": [
-    "notes/Going Backwards.md",
     "notes/Digital Gardens.md",
+    "notes/Going Backwards.md",
     "notes/The Connections.md",
     "notes/index.md",
     "notes/Formatting.md",

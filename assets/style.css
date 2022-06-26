@@ -171,3 +171,11 @@ s {
 ::marker {
     color: #D1C4A9;
 }
+
+a:link {
+    color: #2ddb58;
+}
+
+a:visited {
+    color: #ffd000;
+}
