@@ -179,3 +179,10 @@ a:link {
 a:visited {
     color: #ffd000;
 }
+
+pre {
+    padding:10px;
+    border-radius:5px;
+    background-color:#272F34;
+    color:white
+}
