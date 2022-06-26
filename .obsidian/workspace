@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Hyperlink Styling.md",
+            "file": "notes/index.md",
             "mode": "preview",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Hyperlink Styling.md",
+                "file": "notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Hyperlink Styling.md",
+                "file": "notes/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,12 +130,12 @@
   },
   "active": "b36983278846fa79",
   "lastOpenFiles": [
-    "notes/Hyperlink Styling.md",
-    "notes/Getting Lost.md",
-    "notes/The Connections.md",
-    "notes/Digital Gardens.md",
-    "notes/Learning.md",
     "notes/index.md",
+    "notes/Digital Gardens.md",
+    "notes/Hyperlink Styling.md",
+    "notes/The Connections.md",
+    "notes/Getting Lost.md",
+    "notes/Learning.md",
     "notes/Going Backwards.md",
     "assets/Pasted image 20220626133356.png",
     "assets/Pasted image 20220626133408.png",

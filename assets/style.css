@@ -186,3 +186,11 @@ pre {
     background-color:#272F34;
     color:white
 }
+
+blockquote {
+    padding-left:7px;
+    border:1px solid #525C62;
+    border-left:5px solid #525C62;
+    background-color:#272F34;
+    border-radius:0px 5px 5px 0px
+}
