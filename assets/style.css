@@ -215,34 +215,35 @@ h5 {
     font-weight: 800;
     line-height: 1.3;
     overflow-wrap: break-word;
+    font-family: Poppins, Inter, sans-serif;
 }
 
 h1 {
-    background: -webkit-linear-gradient(45deg, --cyan, --lime);
+    background: -webkit-linear-gradient(45deg, var(--cyan), var(--lime));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 h2 {
-    background: -webkit-linear-gradient(45deg, --lime, --yellow);
+    background: -webkit-linear-gradient(45deg, var(--lime), var(--yellow));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 h3 {
-    background: -webkit-linear-gradient(45deg, --yellow, --gold);
+    background: -webkit-linear-gradient(45deg, var(--yellow), var(--gold));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 h4 {
-    background: -webkit-linear-gradient(45deg, --gold, --red);
+    background: -webkit-linear-gradient(45deg, var(--gold), var(--red));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 h5 {
-    background: -webkit-linear-gradient(45deg, --red, --magenta);
+    background: -webkit-linear-gradient(45deg, var(--red), var(--magenta));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
