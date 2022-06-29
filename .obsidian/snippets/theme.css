@@ -6,6 +6,7 @@
     --red: #eb3e38;
     --magenta: #f53df2;
     --violet: #a53df5;
+    --grey: #859289;
 }
 
 /* This changes the whole page */
@@ -39,23 +40,29 @@ h5 {
     font-family: Poppins, Inter, sans-serif;
 }
 
-h1 {
+h1,
+.cm-header-1 {
     color: var(--cyan);
+    
 }
 
-h2 {
+h2,
+.cm-header-2 {
     color: var(--lime);
 }
 
-h3 {
+h3,
+.cm-header-3 {
     color: var(--yellow);
 }
 
-h4 {
+h4,
+.cm-header-4 {
     color:var(--gold);
 }
 
-h5 {
+h5,
+.cm-header-5 {
     color:var(--red);
 }
 
@@ -63,3 +70,16 @@ p {
     color:#fff7e5
 }
 
+em,
+.cm-em {
+    color: var(--cyan);
+}
+
+strong,
+.cm-strong {
+  color: var(--gold);
+}
+
+del {
+    color: var(--grey);
+}

@@ -6,6 +6,7 @@
     --red: #eb3e38;
     --magenta: #f53df2;
     --violet: #a53df5;
+    --grey: #859289;
 }
 
 html {
@@ -142,17 +143,7 @@ small {font-size: 0.8em; color: #D1C4A9}
     display: block;
 }
 
-em {
-    color: #55ac83;
-}
 
-strong {
-  color: #DA6362;
-}
-
-s {
-    color: #859289;
-}
 
 ::marker {
     color: #D1C4A9;
@@ -251,3 +242,14 @@ p {
     color:#fff7e5
 }
 
+em {
+    color: var(--cyan);
+}
+
+strong {
+  color: var(--gold);
+}
+
+s {
+    color: var(--grey);
+}
