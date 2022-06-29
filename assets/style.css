@@ -149,7 +149,9 @@ body {
     margin: 0 24px;
 
     /* background-color: #252328;*/
-    animation: color-change 1s infinite;
+    background: -webkit-linear-gradient(45deg, var(--blue-black), var(--purple-black));
+    background-size: 400% 400%;
+    animation: color-change 10s ease infinite;
 }
 
 /* This changes the text block in the middle */
@@ -238,7 +240,13 @@ a[href]:hover {
 }
 
 @keyframes color-change {
-    0% { color: -webkit-linear-gradient(45deg, var(--blue-black), var(--purple-black)); }
-    50% { color: -webkit-linear-gradient(45deg, var(--purple-black), var(--blue-black)); }
-    100% { color: -webkit-linear-gradient(45deg, var(--blue-black), var(--purple-black)); }
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
   }
