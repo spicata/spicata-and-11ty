@@ -123,7 +123,7 @@ main {
 pre {
     padding:10px;
     border-radius:5px;
-    background-color:#080708;
+    background-color:#1b1a1d;
     color:white
 }
 
@@ -131,7 +131,7 @@ blockquote {
     padding-left:7px;
     border:1px solid #363c41;
     border-left:5px solid #363c41;
-    background-color:#080708;
+    background-color:#1b1a1d;
     border-radius:0px 5px 5px 0px
 }
 
