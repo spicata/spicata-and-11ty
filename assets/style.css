@@ -7,6 +7,8 @@
     --magenta: #f53df2;
     --violet: #a53df5;
     --grey: #859289;
+    --blue-black: #232528;
+    --purple-black: #252328;
 }
 
 html {
@@ -146,7 +148,8 @@ body {
 
     margin: 0 24px;
 
-    background-color: #252328;
+    /* background-color: #252328;*/
+    animation: color-change 1s infinite;
 }
 
 /* This changes the text block in the middle */
@@ -233,3 +236,9 @@ a:visited {
 a[href]:hover {
     text-decoration: none;
 }
+
+@keyframes color-change {
+    0% { color: -webkit-linear-gradient(45deg, var(--blue-black), var(--purple-black)); }
+    50% { color: -webkit-linear-gradient(45deg, var(--purple-black), var(--blue-black)); }
+    100% { color: -webkit-linear-gradient(45deg, var(--blue-black), var(--purple-black)); }
+  }
