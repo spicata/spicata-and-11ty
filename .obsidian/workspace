@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b36983278846fa79",
+        "id": "58fd556f4784f290",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Hyperlink Styling.md",
+            "file": "notes/index.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +69,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Hyperlink Styling.md",
+                "file": "notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae65f52a2efa7f64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/index.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -92,11 +104,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Hyperlink Styling.md",
+                "file": "notes/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -127,17 +139,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b36983278846fa79",
+  "active": "58fd556f4784f290",
   "lastOpenFiles": [
-    "notes/Hyperlink Styling.md",
-    "notes/Formatting.md",
-    "notes/Digital Gardens.md",
-    "notes/The Connections.md",
     "notes/index.md",
-    "notes/Getting Lost.md",
-    "notes/Learning.md",
-    "notes/Going Backwards.md",
-    "assets/Pasted image 20220626133356.png",
-    "assets/Pasted image 20220626133408.png"
+    "notes/Conclusion of Reactions.md",
+    "notes/Synthesis.md",
+    "notes/Reactions (Chemistry).md",
+    "notes/Combustion.md",
+    "notes/Neutralisation.md",
+    "notes/Decomposition.md",
+    "notes/Redox.md",
+    "notes/Precipitation.md",
+    "notes/Displacement.md"
   ]
 }

@@ -23,5 +23,13 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
   ]
 }
