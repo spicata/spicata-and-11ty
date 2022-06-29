@@ -1,6 +1,7 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Everforest",
   "enabledCssSnippets": [
-    "theme"
+    "theme",
+    "Snippet"
   ]
 }

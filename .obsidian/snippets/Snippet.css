@@ -1,0 +1,43 @@
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: #DA6362 !important;
+}
+
+
+/* Different color for italic */
+.cm-em {
+    color: #55ac83;
+}
+
+.markdown-preview-section em {
+  color: #55ac83 !important;
+}
+
+.cm-strikethrough {
+  color: #859289
+}
+
+del {
+  color: #859289
+}
+
+.tag[href^="#🌰"],
+.tag[href^="#seed🌰"] {
+  color: #8b5c47;
+  border: 1px solid #8b5c47;
+}
+.tag[href^="#🌱"],
+.tag[href^="#sapling🌱"],
+.tag[href^="#🪴"],
+.tag[href^="#young🪴"],
+.tag[href^="#🌳"],
+.tag[href^="#mature🌳"] {
+  color: #569D79;
+  border: 1px solid #569D79;
+}
+.tag[href^="#🍎"],
+.tag[href^="#fruiting🍎"] {
+  color: #F8312F;
+  border: 1px solid #F8312F;
+}
