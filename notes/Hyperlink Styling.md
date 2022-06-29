@@ -13,4 +13,4 @@ a:visited {
 	color: white;
 }
 ```
-Pretty simple. For choosing the colour, I just got one accent colour and another colour that was somewhat similar to the colour of the text, but different enough. That's about it.
+Pretty simple. For choosing the colour, I just got one accent colour and another colour that was somewhat similar to the colour of the text, but different enough. That's about it.0
