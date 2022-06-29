@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/index.md",
-            "mode": "preview",
+            "file": "notes/Hyperlink Styling.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/Hyperlink Styling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/Hyperlink Styling.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,10 +130,10 @@
   },
   "active": "b36983278846fa79",
   "lastOpenFiles": [
-    "notes/index.md",
-    "notes/Digital Gardens.md",
     "notes/Hyperlink Styling.md",
     "notes/The Connections.md",
+    "notes/Digital Gardens.md",
+    "notes/index.md",
     "notes/Getting Lost.md",
     "notes/Learning.md",
     "notes/Going Backwards.md",
