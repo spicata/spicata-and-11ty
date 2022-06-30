@@ -1,4 +1,14 @@
 # Game Theory...
-> "[is] branch of applied mathematics that provides tools for analysing situations in which parties, called players, make decisions that are interdependent" - Britannica
+> ... [is] branch of applied mathematics that provides tools for analyzing situations in which parties, called players, make decisions that are interdependent.
 
-**Game theory** is essentially the study of strategy in games. It can be applied in a large amount of places in our modern world: profit and loss estimations, economics, Go, war, etc. 
+That's Britannica's definition, but it could be put much more simple. Essentially:
+### Game theory is the study of strategies
+In games, which I hope is pretty clear.
+
+Game theory could be used in a variety of places:
+- Economics,
+- Go (the board game),
+- Politics,
+- War
+
+Essentially, to apply it, we need some [[Players|people]] and a "game".

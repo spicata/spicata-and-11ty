@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "58fd556f4784f290",
+        "id": "e5f7401c160bd4f6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Solving the Problem.md",
+            "file": "notes/Category by Sums.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Solving the Problem.md",
+                "file": "notes/Category by Sums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Solving the Problem.md",
+                "file": "notes/Category by Sums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Solving the Problem.md",
+                "file": "notes/Category by Sums.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +127,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8975162716347982,
+                  "scale": 0.6895773887546124,
                   "close": true
                 }
               }
@@ -139,17 +139,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "58fd556f4784f290",
+  "active": "e5f7401c160bd4f6",
   "lastOpenFiles": [
+    "notes/Category by Sums.md",
+    "notes/Games.md",
+    "notes/Category by Players.md",
+    "notes/One-player games & two-player games & n-player games.md",
+    "notes/Game Theory....md",
+    "notes/Nature.md",
+    "notes/Players.md",
     "notes/Solving the Problem.md",
     "notes/A Problem about Game Theory.md",
-    "assets/Button.png",
-    "notes/You Clicked It.md",
-    "notes/You Didn't Click it.md",
-    "notes/Game Theory....md",
-    "notes/index.md",
-    "notes/Conclusion of Reactions.md",
-    "notes/Synthesis.md",
-    "notes/Reactions (Chemistry).md"
+    "assets/Button.png"
   ]
 }
