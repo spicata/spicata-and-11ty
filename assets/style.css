@@ -244,3 +244,8 @@ a:visited {
 a[href]:hover {
     text-decoration: none;
 }
+
+li {
+    margin-bottom: 1.15rem; 
+    color:#fff7e5;
+}
