@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/index.md",
+            "file": "notes/Solving the Problem.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/Solving the Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/Solving the Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/Solving the Problem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,15 +141,15 @@
   },
   "active": "58fd556f4784f290",
   "lastOpenFiles": [
+    "notes/Solving the Problem.md",
+    "notes/A Problem about Game Theory.md",
+    "assets/Button.png",
+    "notes/You Clicked It.md",
+    "notes/You Didn't Click it.md",
+    "notes/Game Theory....md",
     "notes/index.md",
     "notes/Conclusion of Reactions.md",
     "notes/Synthesis.md",
-    "notes/Reactions (Chemistry).md",
-    "notes/Combustion.md",
-    "notes/Neutralisation.md",
-    "notes/Decomposition.md",
-    "notes/Redox.md",
-    "notes/Precipitation.md",
-    "notes/Displacement.md"
+    "notes/Reactions (Chemistry).md"
   ]
 }

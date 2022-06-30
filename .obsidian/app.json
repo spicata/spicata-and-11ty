@@ -2,7 +2,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "strictLineBreaks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "showLineNumber": true,

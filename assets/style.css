@@ -1,6 +1,7 @@
 :root {
     --cyan: #52e7f7;
     --lime: #5df752;
+    --grass: #b3ff1b;
     --yellow: #f5eb27;
     --gold: #f2c138;
     --red: #eb3e38;
@@ -148,10 +149,7 @@ body {
 
     margin: 0 24px;
 
-    /* background-color: #252328;*/
-    background: -webkit-linear-gradient(45deg, var(--blue-black), var(--purple-black));
-    background-size: 400% 400%;
-    animation: color-change 10s ease infinite;
+    background-color: var(--blue-black);
 }
 
 /* This changes the text block in the middle */
@@ -216,11 +214,15 @@ p {
 }
 
 em {
-    color: var(--cyan);
+    background: -webkit-linear-gradient(45deg, var(--cyan), var(--violet));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 strong {
-  color: var(--gold);
+    background: -webkit-linear-gradient(45deg, var(--violet), var(--magenta));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 s {
@@ -228,25 +230,17 @@ s {
 }
 
 a:link {
-    color: #4bff78;
+    background: -webkit-linear-gradient(45deg, var(--lime), var(--grass));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 a:visited {
-    color: #ffd000;
+    background: -webkit-linear-gradient(45deg, var(--gold), var(--yellow));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 a[href]:hover {
     text-decoration: none;
 }
-
-@keyframes color-change {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
-  }
