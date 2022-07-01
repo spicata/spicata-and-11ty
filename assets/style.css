@@ -236,9 +236,7 @@ a:link {
 }
 
 a:visited {
-    background: -webkit-linear-gradient(45deg, var(--gold), var(--yellow));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(45deg, var(--gold), var(--yellow)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
 }
 
 a[href]:hover {
