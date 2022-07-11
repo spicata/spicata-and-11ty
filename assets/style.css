@@ -12,6 +12,8 @@
     --purple-black: #252328;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap');
+
 html {
     font-size:  100%;
     scroll-behavior: smooth;
@@ -211,6 +213,7 @@ h5 {
 p {
     margin-bottom: 1.15rem; 
     color:#fff7e5;
+    font-family: Poppins, Inter, sans-serif;
 }
 
 em {
@@ -245,4 +248,16 @@ a[href]:hover {
 
 li {
     color:#fff7e5;
+}
+
+.navigation {
+
+}
+
+svg {
+    fill: white;
+}
+
+svg:hover {
+    fill: #5FE88D
 }
