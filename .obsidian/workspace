@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Category by Sums.md",
+            "file": "timeline.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "f0b28b442e39b397",
+        "id": "d9296c69934d3e44",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Games.md",
+            "file": "notes/index.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Category by Sums.md",
+                "file": "timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Category by Sums.md",
+                "file": "timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Category by Sums.md",
+                "file": "timeline.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,15 +153,15 @@
   },
   "active": "e5f7401c160bd4f6",
   "lastOpenFiles": [
+    "timeline.md",
+    "about.md",
+    "notes/index.md",
+    "notes/About these Notes.md",
+    "notes/Games.md",
     "notes/Category by Sums.md",
     "notes/Category by Cooperation.md",
-    "notes/Games.md",
     "notes/Category by Players.md",
     "notes/One-player games & two-player games & n-player games.md",
-    "notes/Game Theory....md",
-    "notes/Nature.md",
-    "notes/Players.md",
-    "notes/Solving the Problem.md",
-    "notes/A Problem about Game Theory.md"
+    "notes/Game Theory....md"
   ]
 }
