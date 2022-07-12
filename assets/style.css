@@ -260,3 +260,9 @@ svg {
 svg:hover {
     fill: #5FE88D
 }
+
+.nav-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

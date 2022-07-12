@@ -3,4 +3,7 @@ layout: default
 title: About Me
 ---
 # About Me
-I'm a plant
+Just a plant making a website.
+## Contacts
+Email: pixelandian@gmail.com
+Discord: spicata#9966

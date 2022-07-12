@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/index.md",
+            "file": "about.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "d9296c69934d3e44",
+        "id": "a0a362a757f241cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/index.md",
+            "file": "projects.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/index.md",
+                "file": "projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/index.md",
+                "file": "projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/index.md",
+                "file": "projects.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,19 +150,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e5f7401c160bd4f6",
+  "active": "a0a362a757f241cd",
   "lastOpenFiles": [
+    "projects.md",
+    "about.md",
+    "timeline.md",
     "notes/index.md",
     "index.md",
-    "timeline.md",
-    "about.md",
     "notes/About these Notes.md",
     "notes/Games.md",
     "notes/Category by Sums.md",
     "notes/Category by Cooperation.md",
-    "notes/Category by Players.md",
-    "notes/One-player games & two-player games & n-player games.md"
+    "notes/Category by Players.md"
   ]
 }
