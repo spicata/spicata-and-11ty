@@ -213,7 +213,6 @@ h5 {
 p {
     margin-bottom: 1.15rem; 
     color:#fff7e5;
-    font-family: 'Roboto Slab', Inter, sans-serif;
 }
 
 em {
@@ -251,7 +250,7 @@ li {
 }
 
 .navigation {
-
+    margin: 12px auto;
 }
 
 svg {
