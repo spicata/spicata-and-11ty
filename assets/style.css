@@ -12,7 +12,7 @@
     --purple-black: #252328;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto+Slab&display=swap');
 
 html {
     font-size:  100%;
@@ -213,7 +213,7 @@ h5 {
 p {
     margin-bottom: 1.15rem; 
     color:#fff7e5;
-    font-family: Poppins, Inter, sans-serif;
+    font-family: 'Roboto Slab', Inter, sans-serif;
 }
 
 em {
