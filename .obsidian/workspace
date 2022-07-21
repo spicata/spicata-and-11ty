@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Philosophy.md",
-            "mode": "preview",
+            "file": "notes/index.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -143,13 +143,13 @@
   },
   "active": "05b950bfdcc69be9",
   "lastOpenFiles": [
-    "notes/Energy.md",
     "notes/Philosophy.md",
+    "notes/index.md",
+    "notes/Energy.md",
     "notes/Epi....md",
     "about.md",
     "projects.md",
     "timeline.md",
-    "notes/index.md",
     "index.md",
     "notes/About these Notes.md",
     "notes/Games.md"
