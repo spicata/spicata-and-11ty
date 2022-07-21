@@ -15,6 +15,13 @@ Philosophy is not a discipline, it is more of a natural human disposition
 - Philosophy of Religion
 ## Notable People
 ### Socrates
+>"The unexamined life in not one worth living"
 
+- Born in Athens in 459 BC
+- Thinking logically of our lives can help us
+	- Philosophy can sent us free
+	- Be confident in our own beliefs
+		- Humans often follow others
+- Greatest philosopher??? but also the ugliest
 ### Aristotle
 ### Rene Descartes 

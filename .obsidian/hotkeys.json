@@ -32,5 +32,13 @@
       "key": "\\"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "obsidian-outliner:indent-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
 }
