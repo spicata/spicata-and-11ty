@@ -31,6 +31,8 @@ Philosophy is not a discipline, it is more of a natural human disposition
 ---
 - Socrates died because the majority didn't like his philosophy, execution (Drink Hemlock)
 	- F
+
+> "I wasn't born in Athens, I was born in the world"
 ### Aristotle
 > Happiness is good I guess
 ### Rene Descartes 
