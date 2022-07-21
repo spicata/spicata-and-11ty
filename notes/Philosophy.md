@@ -1,15 +1,18 @@
 # Philosophy
-> "The junkyard of the other disciplines"
+> "The junkyard of the other disciplines" - Dr Drie
 
-Philosophy is not a discipline, it is more of a natural human disposition
-## Fundamental Beliefs
-- Logic
-- Ethics
+Philosophy is not a discipline, it is more of a natural human disposition; the pursuit of problems and subsequent pursuit of answers. On top of that, it looks into reality, knowledge, and existence, as well as many other topics.
+## Branches
+### Logic...
+... is the study of reasoning and good arguments, often in a numerical or scientific sense. Assumptions and such.
+### Ethics...
+... is the study of morality, the study of good character. *You know what it is*
+### Epistemology
 - Epistemology
 - Metaphysics
 ## Main Branches
 - Philosophy of Science
-- Philosophy of M.... (aths?)
+- Philosophy of Moral
 - Philosophy of Arts
 - Philosophy of Language
 - Philosophy of Religion
