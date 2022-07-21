@@ -7,9 +7,10 @@ Philosophy is not a discipline, it is more of a natural human disposition; the p
 ... is the study of reasoning and good arguments, often in a numerical or scientific sense. Assumptions and such.
 ### Ethics...
 ... is the study of morality, the study of good character. *You know what it is*
-### Epistemology
-- Epistemology
-- Metaphysics
+### Epistemology...
+... is the study of knowledge, its nature, scope, and origin.
+### Metaphysics...
+... is the study of realism as well as abstract "things". What is something real? Religion often contains metaphysical things, such as a deity.
 ## Main Branches
 - Philosophy of Science
 - Philosophy of Moral
