@@ -12,37 +12,31 @@ Philosophy is not a discipline, it is more of a natural human disposition; the p
 ### Metaphysics...
 ... is the study of realism as well as abstract "things". What is something real? Religion often contains metaphysical things, such as a deity.
 ## Main Branches
-- Philosophy of Science
-- Philosophy of Moral
-- Philosophy of Arts
-- Philosophy of Language
-- Philosophy of Religion
-## Notable People
+- Philosophy of Science (epistemology)
+- Philosophy of Morals (ethics)
+- Philosophy of Arts (TBA)
+- Philosophy of Language (metaphysics, epistemology)
+- Philosophy of Religion (TBA)
+## Notable Philosophers
 ### Socrates
->"The unexamined life is not one worth living"
+>"The unexamined life is not worth living" - Socrates
 
-- Born in Athens in 459 BC
-- Thinking logically of our lives can help us
-	- Humans often follow others (conformist)
-		- Be confident in our own beliefs
-		- Following those in power is common, but it is a fallacy
-	- Philosophy can sent us free
-- Greatest philosopher??? but also the ugliest
+Socrates was born in Athens, Greece in 470 BC, well known for being put to death for his philosophy (399 BC). Most everything we know about Socrates was due to the *Socratic dialogue* by Plato.
+
 ---
-- People accept opinion, whether they are well thought out of not.
-	- Socrates don't like that. He likes logic and reason
-		- Socrates would not like modern democracy
+Socrates believed that thinking logically would benefit humanity. He observed that his fellow Athenians often simply followed other - the majority or those of power. Instead, he believed that people should be confident in their own beliefs. 
+
+Following this, he also found that people accept popular opinion, regardless of whether they are well thought out or not. Socrates was against this thought, and believed that humans should think logically and with reason. *In this sense, he would disapprove of modern politics.*
+
 ---
-- Socrates died because the majority didn't like his philosophy, execution (Drink Hemlock)
-	- F
+Socrates would be executed due to his beliefs, drinking hemlock and dying from the paralysis caused.
+
 ---
+#### tl;dr
 - Care of the soul
 - Question everything - do not follow the majority (ignorance/stupidity)
 - The truth/reason will set you free
 - Back yourself up as an individual thinker
-- 
-
-> "I wasn't born in Athens, I was born in the world"
 ### Aristotle
 > Happiness is good I guess
 ### Rene Descartes 
