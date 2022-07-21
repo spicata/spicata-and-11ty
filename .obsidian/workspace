@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Philosophy.md",
+            "file": "notes/Energy.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/Energy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -143,8 +143,8 @@
   },
   "active": "05b950bfdcc69be9",
   "lastOpenFiles": [
-    "notes/Epi....md",
     "notes/Philosophy.md",
+    "notes/Epi....md",
     "about.md",
     "projects.md",
     "timeline.md",
