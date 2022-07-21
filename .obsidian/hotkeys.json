@@ -33,12 +33,29 @@
     }
   ],
   "editor:delete-paragraph": [],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:save-file": [],
   "obsidian-outliner:indent-list": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "ArrowRight"
+      "key": "]"
+    }
+  ],
+  "obsidian-outliner:outdent-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
     }
   ]
 }

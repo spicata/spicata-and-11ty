@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "notes/Philosophy.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -144,6 +144,7 @@
   "active": "05b950bfdcc69be9",
   "lastOpenFiles": [
     "notes/Epi....md",
+    "notes/Philosophy.md",
     "about.md",
     "projects.md",
     "timeline.md",
@@ -151,7 +152,6 @@
     "index.md",
     "notes/About these Notes.md",
     "notes/Games.md",
-    "notes/Category by Sums.md",
-    "notes/Category by Cooperation.md"
+    "notes/Category by Sums.md"
   ]
 }

@@ -19,9 +19,12 @@ Philosophy is not a discipline, it is more of a natural human disposition
 
 - Born in Athens in 459 BC
 - Thinking logically of our lives can help us
+	- Humans often follow others (conformist)
+		- Be confident in our own beliefs
+		- Following those in power is common, but it is a fallacy
 	- Philosophy can sent us free
-	- Be confident in our own beliefs
-		- Humans often follow others
 - Greatest philosopher??? but also the ugliest
 ### Aristotle
+> Happiness is good I guess
 ### Rene Descartes 
+> Mind is indivisible or something
