@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "projects.md",
+                "file": "about.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,10 +153,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0a362a757f241cd",
+  "active": "e5f7401c160bd4f6",
   "lastOpenFiles": [
-    "about.md",
     "projects.md",
+    "about.md",
     "timeline.md",
     "notes/index.md",
     "index.md",
