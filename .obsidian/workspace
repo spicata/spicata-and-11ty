@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e5f7401c160bd4f6",
+        "id": "05b950bfdcc69be9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a0a362a757f241cd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "projects.md",
+            "file": "notes/Philosophy.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "notes/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "notes/Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "about.md",
+                "file": "notes/Philosophy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5f7401c160bd4f6",
+  "active": "05b950bfdcc69be9",
   "lastOpenFiles": [
-    "projects.md",
+    "notes/Epi....md",
     "about.md",
+    "projects.md",
     "timeline.md",
     "notes/index.md",
     "index.md",
     "notes/About these Notes.md",
     "notes/Games.md",
     "notes/Category by Sums.md",
-    "notes/Category by Cooperation.md",
-    "notes/Category by Players.md"
+    "notes/Category by Cooperation.md"
   ]
 }
