@@ -5,7 +5,7 @@ Philosophy is not a discipline, it is more of a natural human disposition
 ## Fundamental Beliefs
 - Logic
 - Ethics
-- Epistimoology
+- Epistemology
 - Metaphysics
 ## Main Branches
 - Philosophy of Science
@@ -15,7 +15,7 @@ Philosophy is not a discipline, it is more of a natural human disposition
 - Philosophy of Religion
 ## Notable People
 ### Socrates
->"The unexamined life in not one worth living"
+>"The unexamined life is not one worth living"
 
 - Born in Athens in 459 BC
 - Thinking logically of our lives can help us
@@ -24,6 +24,13 @@ Philosophy is not a discipline, it is more of a natural human disposition
 		- Following those in power is common, but it is a fallacy
 	- Philosophy can sent us free
 - Greatest philosopher??? but also the ugliest
+---
+- People accept opinion, whether they are well thought out of not.
+	- Socrates don't like that. He likes logic and reason
+		- Socrates would not like modern democracy
+---
+- Socrates died because the majority didn't like his philosophy, execution (Drink Hemlock)
+	- F
 ### Aristotle
 > Happiness is good I guess
 ### Rene Descartes 
