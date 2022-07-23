@@ -35,7 +35,7 @@ Socrates would be executed due to his beliefs, drinking hemlock and dying from t
 2. Find a way to contradict it naturally
 	1. If the exception works, then the statement is not true
 3. Change initial statement to accommodate contradiction
-4. Repeat'
+4. Repeat
 
 This method would take you closer to the universal truth
 #### tl;dr
