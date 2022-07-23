@@ -3,4 +3,4 @@ title: Featured
 ---
 # Featured
 Follow my learning of:
-- [[Philosophy|Philosophy]]
+- [[Philosophy|Philosophy]] aa
