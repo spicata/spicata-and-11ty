@@ -169,7 +169,7 @@ h5 {
     font-weight: 800;
     line-height: 1.3;
     overflow-wrap: break-word;
-    font-family: 'Poppins', Inter, sans-serif;
+    font-family: 'Poppins', 'Inter', sans-serif;
 }
 
 h1 {
@@ -210,7 +210,7 @@ h5 {
 p {
     margin-bottom: 1.15rem; 
     color:#fff7e5;
-    font-family: 'Flow Circular';
+    font-family: 'Roboto Slab', sans-serif;
 }
 
 em {
@@ -236,7 +236,9 @@ a:link {
 }
 
 a:visited {
-    background: -webkit-linear-gradient(45deg, var(--gold), var(--yellow)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(45deg, var(--gold), var(--yellow)); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
 }
 
 a[href]:hover {
@@ -253,6 +255,7 @@ li {
 
 svg {
     fill: white;
+    transition: 0.3s;
 }
 
 svg:hover {
