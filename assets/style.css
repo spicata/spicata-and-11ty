@@ -209,7 +209,6 @@ body {
     min-height: 100vh;
 
     background-color: var(--white);
-    overflow: hidden;
 }
 
 .page-header {
@@ -218,8 +217,20 @@ body {
     justify-content: space-between;
     align-items: center;
 
-    background: -webkit-linear-gradient(270deg, var(--light-grey) 80%, var(--white));
+    background-color: var(--light-grey);
+    
+    border-bottom: 5px solid --dark-grey
 }
+
+/* Scrollbar */
+.example::-webkit-scrollbar {
+    display: none;
+}
+
+.example {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
 
 /* Colours */
 p,
