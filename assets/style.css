@@ -1,20 +1,10 @@
 :root {
-    --cyan: #52e7f7;
-    --lime: #5df752;
-    --grass: #b3ff1b;
-    --yellow: #f5eb27;
-    --gold: #f2c138;
-    --red: #eb3e38;
-    --magenta: #f53df2;
-    --violet: #a53df5;
-    --grey: #859289;
-    --blue-black: #252823;
-    --purple-black: #252328;
+    --primary: #d6d6d6;
+    --secondary: #ababab;
+    --tertiary: #303030;
 
-    --white: #d6d6d6;
-    --light-grey: #ababab;
-    --dark-grey: #303030;
-    --black: #121212;
+    --emphasis1: #00067a;
+    --emphasis2: #7a0070;
 }
 
 /* This changes the whole page */
@@ -36,12 +26,6 @@ html {
 .page-header nav a:not(:hover):not(:focus) {
     color: currentColor;
     text-decoration: none;
-}
-
-nav a {
-    margin: 0 12px;
-    font-size: 1.25em;
-    color: #fff7e5
 }
 
 main {
@@ -125,20 +109,7 @@ main {
     color: #D1C4A9;
 }
 
-pre {
-    padding:10px;
-    border-radius:5px;
-    background-color:#1b1a1d;
-    color:white
-}
 
-blockquote {
-    padding-left:7px;
-    border:1px solid #363c41;
-    border-left:5px solid #363c41;
-    background-color:#1b1a1d;
-    border-radius:0px 5px 5px 0px
-}
 
 
 
@@ -151,6 +122,127 @@ main {
 }
 
 /* Typography */
+
+
+
+/* --- Web Page --- */
+body {
+    line-height: 1.65;
+    
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    background-color: var(--primary);
+}
+
+.page-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: var(--secondary);
+    
+    border-bottom: 5px solid var(--tertiary);
+}
+
+nav div {
+    margin: 0 12px;
+}
+
+.navigation {
+    margin: 12px auto;
+}
+
+/* Code Blocks */
+pre {
+    padding: 10px;
+    border-radius:5px;
+    background-color: var(--tertiary);
+    color: var(--primary);
+}
+
+/* Quotes */
+blockquote {
+    padding: 10px;
+    border: 1px solid var(--tertiary);
+    border-radius: 5px;
+}
+
+/* Scrollbar */
+body::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Lines */
+hr {
+    height: 0.1em;
+    background-color: var(--secondary);
+    border: none;
+}
+
+/* --- Colours --- */
+p,
+li,
+::marker {
+    color: var(--tertiary);
+}
+
+svg {
+    fill: var(--tertiary);
+    transition: 0.3s;
+}
+
+svg:hover {
+    fill: var(--primary)
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: var(--tertiary);
+}
+
+a:link {
+    color: var(--emphasis1);
+}
+
+a:visited {
+    color: var(--emphasis2);
+}
+
+a[href]:hover {
+    color: var(--secondary);
+}
+
+/* --- Typography --- */
+p,
+li,
+::marker {
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 400;
+}
+
+p {
+    margin-bottom: 1.15rem; 
+}
+
+em {
+    font-weight: 400;
+}
+
+strong {
+    font-weight: 800;
+}
+
 h1,
 h2,
 h3,
@@ -163,113 +255,9 @@ h5 {
     font-family: 'Poppins', 'Inter', sans-serif;
 }
 
-
-
-p {
-    margin-bottom: 1.15rem; 
-    color:#fff7e5;
-    font-family: 'Roboto Slab', sans-serif;
-}
-
-s {
-    color: var(--grey);
-}
-
-a:link {
-    background: -webkit-linear-gradient(45deg, var(--lime), var(--grass));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-a:visited {
-    background: -webkit-linear-gradient(45deg, var(--gold), var(--yellow)); 
-    -webkit-background-clip: text; 
-    -webkit-text-fill-color: transparent;
-}
-
-a[href]:hover {
-    text-decoration: none;
-}
-
-
-.navigation {
-    margin: 12px auto;
-}
-
-svg:hover {
-    fill: #5FE88D
-}
-
-/* Web Page */
-body {
-    line-height: 1.65;
-    
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-
-    background-color: var(--white);
-}
-
-.page-header {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-
-    background-color: var(--light-grey);
-    
-    border-bottom: 5px solid --dark-grey
-}
-
-/* Scrollbar */
-.example::-webkit-scrollbar {
-    display: none;
-}
-
-.example {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-
-/* Colours */
-p,
-li,
-::marker {
-    color: var(--dark-grey);
-}
-
-svg {
-    fill: var(--dark-grey);
-    transition: 0.3s;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5 {
-    color: var(--dark-grey);
-}
-
-/* Typography */
-p,
-li,
-::marker {
-    font-family: 'Roboto Slab', sans-serif;
-    font-weight: 400;
-}
-
-em {
-    font-weight: 400;
-}
-
-strong {
-    font-weight: 800;
-}
-
 h1 {
     font-size: 2.8em;
+    text-align: center;
 }
 
 h2 {
