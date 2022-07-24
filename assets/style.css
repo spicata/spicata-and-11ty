@@ -263,7 +263,7 @@ body {
     justify-content: space-between;
     align-items: center;
 
-    background: -webkit-linear-gradient(0deg, var(--light-grey) 90%, var(--dark-grey));
+    background: -webkit-linear-gradient(90deg, var(--light-grey) 90%, var(--white));
 }
 
 /* Colours */
