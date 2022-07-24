@@ -10,6 +10,31 @@
     --grey: #859289;
     --blue-black: #252823;
     --purple-black: #252328;
+
+    --white: #d6d6d6;
+    --light-grey: #ababab;
+    --dark-grey: #303030;
+    --black: #121212;
+}
+
+/* This changes the whole page */
+body {
+    line-height: 1.65;
+    
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    background-color: var(--white);
+}
+
+.page-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: var(--light-grey);
 }
 
 html {
@@ -23,13 +48,6 @@ html {
     }
 }
 
-.page-header {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 8px;
-}
 
 .page-header nav a:not(:hover):not(:focus) {
     color: currentColor;
@@ -138,18 +156,7 @@ blockquote {
     border-radius:0px 5px 5px 0px
 }
 
-/* This changes the whole page */
-body {
-    line-height: 1.65;
-    
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
 
-    margin: 0 24px;
-
-    background-color: var(--blue-black);
-}
 
 /* This changes the text block in the middle */
 main {
@@ -254,7 +261,7 @@ li {
 }
 
 svg {
-    fill: white;
+    fill: var(--dark-grey);
     transition: 0.3s;
 }
 
@@ -269,4 +276,5 @@ figure {
 p,
 li {
     font-family: 'Roboto Slab', sans-serif;
+    color: var(--dark-grey);
 }
