@@ -133,10 +133,15 @@ a[href]:hover {
     color: var(--secondary);
 }
 
+nav a {
+    color: transparent
+}
+
 /* --- Typography --- */
 p,
 li,
-::marker {
+::marker,
+small {
     font-family: 'Roboto Slab', sans-serif;
     font-weight: 400;
 }
