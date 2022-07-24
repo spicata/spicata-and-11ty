@@ -163,57 +163,12 @@ h5 {
     font-family: 'Poppins', 'Inter', sans-serif;
 }
 
-h1 {
-    background: -webkit-linear-gradient(45deg, var(--cyan), var(--lime));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 3.1em;
-}
 
-h2 {
-    background: -webkit-linear-gradient(45deg, var(--lime), var(--yellow));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 2.8em;
-}
-
-h3 {
-    background: -webkit-linear-gradient(45deg, var(--yellow), var(--gold));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 2.5em;
-}
-
-h4 {
-    background: -webkit-linear-gradient(45deg, var(--gold), var(--red));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 2.2em;
-}
-
-h5 {
-    background: -webkit-linear-gradient(45deg, var(--red), var(--magenta));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 1.9em;
-}
 
 p {
     margin-bottom: 1.15rem; 
     color:#fff7e5;
     font-family: 'Roboto Slab', sans-serif;
-}
-
-em {
-    background: -webkit-linear-gradient(45deg, var(--cyan), var(--violet));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-strong {
-    background: -webkit-linear-gradient(45deg, var(--violet), var(--magenta));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 
 s {
@@ -263,7 +218,7 @@ body {
     justify-content: space-between;
     align-items: center;
 
-    background: -webkit-linear-gradient(90deg, var(--light-grey) 90%, var(--white));
+    background: -webkit-linear-gradient(270deg, var(--light-grey) 80%, var(--white));
 }
 
 /* Colours */
@@ -300,4 +255,24 @@ em {
 
 strong {
     font-weight: 800;
+}
+
+h1 {
+    font-size: 2.8em;
+}
+
+h2 {
+    font-size: 2.3em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+h4 {
+    font-size: 1.7em;
+}
+
+h5 {
+    font-size: 1.4em;
 }
