@@ -5,4 +5,14 @@ Maslow's Hierarchy of Needs is a diagram depicting 5 tiers of human needs, each 
 3. Love and belonging, including friendship, intimacy, and family;
 4. Esteem, including respect, self-esteem, status, and recognition; and
 5. Self-actualisation, the desire to become the most of one can be.
-Physiological needs include things such as ; things that humans need to survive. Above of that lies safety needs, 
+
+These goals are split into deficiency needs and growth needs. A deficiency need is a need that arises due to deprivation and the incentive to meet these needs lessen as they are more achieved, but increasing the longer it isn't met. the deficiency needs are:
+- Physiological needs,
+- Safety needs,
+- Love and belonging, and
+- Esteem
+
+Growth needs, on the other hand, are needs which increase the more they are fulfilled. The growth needs are:
+- Self-actualisation
+## How Socrates plays in
+Socrates believed in the betterment of the lives of his fellow Athenians through philosophy; similar in idea to the need of self-actualisation in Maslow's Hierarchy of Needs. Socrates believed that humanity had plateaued due to having all their needs met, and made no effort to become the best that one could become, rather opting to simply follow the majority.
