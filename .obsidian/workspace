@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b6339f89ad1ef2b2",
+        "id": "cd861df599a7fd69",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "markdown",
+          "state": {
+            "file": "notes/Maslow's Hierarchy of Needs.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c1dc95d020b97cae",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "94377f2bf00c0c1a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Philosophy.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,41 +107,64 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b17b5d900ec7737c",
+        "type": "tabs",
+        "children": [
           {
-            "id": "aa961a50c36cd49f",
+            "id": "05fd47898524e154",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "localgraph",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "notes/Philosophy.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.86488782051282,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6895773887546124,
+                  "close": true
+                }
               }
             }
-          },
-          {
-            "id": "759b98dcbff15ce9",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "b6339f89ad1ef2b2",
+  "active": "c1dc95d020b97cae",
   "lastOpenFiles": [
-    "notes/Philosophy.md",
     "notes/Maslow's Hierarchy of Needs.md",
+    "notes/Philosophy.md",
     "notes/index.md",
     "notes/Energy.md",
     "notes/Epi....md",

@@ -1,9 +1,7 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Everforest",
   "enabledCssSnippets": [
     "theme",
     "Snippet"
-  ],
-  "baseFontSize": 14,
-  "translucency": true
+  ]
 }
