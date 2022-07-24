@@ -49,6 +49,7 @@ main {
 
 nav div {
     margin: 0 12px;
+    display: inline;
 }
 
 .navigation {
