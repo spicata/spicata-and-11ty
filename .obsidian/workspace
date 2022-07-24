@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "10d2ec8388f87ad2",
+        "id": "a7bd061f100785f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Philosophy.md",
+            "file": "notes/Maslow's Hierarchy of Needs.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/Maslow's Hierarchy of Needs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/Maslow's Hierarchy of Needs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/Maslow's Hierarchy of Needs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,10 +141,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "10d2ec8388f87ad2",
+  "active": "a7bd061f100785f8",
   "lastOpenFiles": [
-    "notes/index.md",
     "notes/Philosophy.md",
+    "notes/index.md",
     "notes/Energy.md",
     "notes/Epi....md",
     "about.md",

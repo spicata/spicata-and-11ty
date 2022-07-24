@@ -265,3 +265,8 @@ svg:hover {
 figure {
     text-align: center;
 }
+
+p,
+li {
+    font-family: 'Roboto Slab', sans-serif;
+}
