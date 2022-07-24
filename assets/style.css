@@ -18,24 +18,8 @@
 }
 
 /* This changes the whole page */
-body {
-    line-height: 1.65;
-    
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
 
-    background-color: var(--white);
-}
 
-.page-header {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-
-    background-color: var(--light-grey);
-}
 
 html {
     font-size:  100%;
@@ -252,12 +236,41 @@ a[href]:hover {
     text-decoration: none;
 }
 
-li {
-    color:#fff7e5;
-}
 
 .navigation {
     margin: 12px auto;
+}
+
+svg:hover {
+    fill: #5FE88D
+}
+
+/* Web Page */
+body {
+    line-height: 1.65;
+    
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    background-color: var(--white);
+    overflow: hidden;
+}
+
+.page-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    background: -webkit-linear-gradient(0deg, var(--light-grey) 90%, var(--dark-grey));
+}
+
+/* Colours */
+p,
+li,
+::marker {
+    color: var(--dark-grey);
 }
 
 svg {
@@ -265,16 +278,26 @@ svg {
     transition: 0.3s;
 }
 
-svg:hover {
-    fill: #5FE88D
-}
-
-figure {
-    text-align: center;
-}
-
-p,
-li {
-    font-family: 'Roboto Slab', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5 {
     color: var(--dark-grey);
+}
+
+/* Typography */
+p,
+li,
+::marker {
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 400;
+}
+
+em {
+    font-weight: 400;
+}
+
+strong {
+    font-weight: 800;
 }
