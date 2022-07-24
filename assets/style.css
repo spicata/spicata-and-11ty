@@ -45,7 +45,6 @@ main {
     background-color: var(--secondary);
     
     border-bottom: 5px solid var(--tertiary);
-    position: fixed;
 }
 
 nav div {
@@ -127,15 +126,15 @@ nav a {
     color: transparent;
 }
 
-a:link {
+a:link:not(nav a) {
     color: var(--emphasis1);
 }
 
-a:visited {
+a:visited:not(nav a) {
     color: var(--emphasis2);
 }
 
-a[href]:hover {
+a:hover:not(nav a) {
     color: var(--secondary);
 }
 
