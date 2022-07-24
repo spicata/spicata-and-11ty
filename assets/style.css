@@ -45,6 +45,7 @@ main {
     background-color: var(--secondary);
     
     border-bottom: 5px solid var(--tertiary);
+    position: fixed;
 }
 
 nav div {
@@ -122,6 +123,10 @@ h5 {
     color: var(--tertiary);
 }
 
+nav a {
+    color: transparent;
+}
+
 a:link {
     color: var(--emphasis1);
 }
@@ -132,10 +137,6 @@ a:visited {
 
 a[href]:hover {
     color: var(--secondary);
-}
-
-nav a {
-    color: transparent;
 }
 
 /* --- Typography --- */
