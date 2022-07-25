@@ -53,6 +53,17 @@
 - Natural gas needs close to no processing to be used, being piped from the ground to homes.
 - Very concentrated in Russia and Iran.
 #### Effect on Environment
-- *You've already read this.* Increases CO<sub>2</sub> in the air.
+- *You already know this.* Increases CO<sub>2</sub> in the air.
 
 > Oops
+
+![[Pasted image 20220725141635.png]]
+Carbon Cycle
+##### Greenhouse Gasses
+Greenhouse gasses are gasses that trap infrared radiation, thus trapping heat. Some of them include:
+- Water Vapor
+- Carbon Dioxide
+- Methane
+- Nitrous Oxide
+- CFC
+- HCFC
