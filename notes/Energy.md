@@ -52,3 +52,7 @@
 #### Natural Gas
 - Natural gas needs close to no processing to be used, being piped from the ground to homes.
 - Very concentrated in Russia and Iran.
+#### Effect on Environment
+- *You've already read this.* Increases CO<sub>2</sub> in the air.
+
+> Oops
