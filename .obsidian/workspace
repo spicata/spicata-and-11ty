@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Energy.md",
+            "file": "notes/bruh.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Energy.md",
+                "file": "notes/bruh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Energy.md",
+                "file": "notes/bruh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,10 +122,10 @@
   },
   "active": "b6339f89ad1ef2b2",
   "lastOpenFiles": [
+    "notes/Energy.md",
     "notes/Philosophy.md",
     "notes/Maslow's Hierarchy of Needs.md",
     "notes/index.md",
-    "notes/Energy.md",
     "notes/Epi....md",
     "about.md",
     "projects.md",
