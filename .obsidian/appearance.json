@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "theme",
     "Snippet"
-  ]
+  ],
+  "translucency": true
 }
