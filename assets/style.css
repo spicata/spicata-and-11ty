@@ -97,7 +97,7 @@ hr {
 }
 
 /* Theme Switcher */
-.theme-switcher {
+.theme-switches {
     display: flex;
     justify-content: center;
 }
