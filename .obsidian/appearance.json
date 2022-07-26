@@ -1,8 +1,9 @@
 {
   "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
-    "theme",
-    "Snippet"
+    "theme"
   ],
-  "translucency": false
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 19
 }

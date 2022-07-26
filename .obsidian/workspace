@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3029f57b66b38010",
+        "id": "f7929a0273654e46",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "ac01fd7ca87c1a7a",
+        "id": "42c55996807eb011",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/Maslow's Hierarchy of Needs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Philosophy.md",
+                "file": "notes/Maslow's Hierarchy of Needs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +129,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ac01fd7ca87c1a7a",
+  "active": "f7929a0273654e46",
   "lastOpenFiles": [
     "notes/Philosophy.md",
     "notes/Maslow's Hierarchy of Needs.md",
