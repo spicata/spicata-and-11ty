@@ -1,10 +1,11 @@
 :root {
-    --primary: #f2f2f2;
-    --secondary: #d1d1d1;
-    --tertiary: #303030;
+    --primary: #f2f2f2; /* For background */
+    --secondary: #d1d1d1; /* For midground? */
+    --tertiary: #a1a1a1; /* Foreground */
+    --quarterly: #303030; /* Text and things */
 
-    --emphasis1: #00067a;
-    --emphasis2: #7a0070;
+    --emphasis1: #00067a; /* Links and emphasis */
+    --emphasis2: #7a0070; /* Visited links and emphasis*/
 }
 
 html {
@@ -43,8 +44,6 @@ main {
     align-items: center;
 
     background-color: var(--secondary);
-    
-    border-bottom: 5px solid var(--tertiary);
 }
 
 nav div {
@@ -69,14 +68,14 @@ nav div {
 pre {
     padding: 10px;
     border-radius:5px;
-    background-color: var(--tertiary);
+    background-color: var(--quarterly);
     color: var(--primary);
 }
 
 /* Quotes */
 blockquote {
     padding: 10px;
-    border: 1px solid var(--tertiary);
+    border: 1px solid var(--quarterly);
     border-radius: 5px;
 }
 
@@ -102,11 +101,11 @@ p,
 li,
 ::marker,
 small {
-    color: var(--tertiary);
+    color: var(--quarterly);
 }
 
 svg {
-    fill: var(--tertiary);
+    fill: var(--quarterly);
     transition: 0.3s;
 }
 
@@ -119,7 +118,7 @@ h2,
 h3,
 h4,
 h5 {
-    color: var(--tertiary);
+    color: var(--quarterly);
 }
 
 nav a {

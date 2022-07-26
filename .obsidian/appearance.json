@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
     "theme",
     "Snippet"
   ],
-  "translucency": true
+  "translucency": false
 }

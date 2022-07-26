@@ -1,5 +1,5 @@
 # Philosophy
-> "The junkyard of the other disciplines" - Dr Drie
+> "The junkyard of the other disciplines" - Dr Driehuis
 
 Philosophy is not a discipline, it is more of a natural human disposition; the pursuit of problems and subsequent pursuit of answers. On top of that, it looks into reality, knowledge, and existence, as well as many other topics.
 ## Branches
@@ -13,7 +13,7 @@ Philosophy is not a discipline, it is more of a natural human disposition; the p
 ... is the study of realism as well as abstract "things". What is something real? Religion often contains metaphysical things, such as a deity.
 ## Main Branches
 - Philosophy of Science (epistemology)
-- Philosophy of Morals (ethics)
+- Philosophy of Mind (ethics)
 - Philosophy of Arts (TBA)
 - Philosophy of Language (metaphysics, epistemology)
 - Philosophy of Religion (TBA)
