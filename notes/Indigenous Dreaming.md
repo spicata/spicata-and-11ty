@@ -25,7 +25,10 @@
 		- Many deities (part human (mind), part animal (body), part supernatural (powers)) form the Universe
 - Interactions between deities (spirits?) made the Earth the way it is
 #### What is the Dreaming
-
+- In the beginning, the world was very "mixed up", very different to what it is now.
+- Ancestor (anthropomorphs) brought the world into order (from chaos)
+- They made life:
+	- Geographical features, animals, and humans, are all descendants of these ancestors
 ### Earthly
 - It is sustainable, strict social contracts for life
 	- Respect of kin, of land, and for spirits
@@ -35,6 +38,14 @@
 - Responsible for the totems
 - Very important
 	- Can be decided before birth
+---
+- Resting places and descendants of the great beings became totems
+- Totems create a sense of identity in Indigenous culture
+	- through understanding themselves in terms of totems
+	- Obligated and responsible for totems
+- Through totemism, everything is part of a whole
+- Aboriginal culture is more linked to time than place
+	- Seen when asked to order in chronological order (does it based on directions)
 ### Oral
 - Passed down by oral tradition
 	- Lack of writing, lots of speaking
@@ -42,7 +53,7 @@
 - Confusing
 - Elders
 ## Colonial Perspective vs Now
-- European colonist believed that Aboriginal cultures was:
+- European colonist describes Aboriginal Australian cultures as:
 	- Stone-age-like
 	- Pre-literate
 	- Undeveloped
