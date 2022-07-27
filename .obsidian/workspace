@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f7929a0273654e46",
+        "id": "abab8982329f93db",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Maslow's Hierarchy of Needs.md",
+            "file": "notes/Indigenous Dreaming.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "42c55996807eb011",
+        "id": "e1a0fccae45b8940",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "notes/Philosophy.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Maslow's Hierarchy of Needs.md",
+                "file": "notes/Indigenous Dreaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Maslow's Hierarchy of Needs.md",
+                "file": "notes/Indigenous Dreaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7929a0273654e46",
+  "active": "abab8982329f93db",
   "lastOpenFiles": [
     "notes/Philosophy.md",
+    "notes/Indigenous Dreaming.md",
+    "notes/phik.md",
     "notes/Maslow's Hierarchy of Needs.md",
+    "assets/Pasted image 20220726111122.png",
     "notes/Formatting.md",
     "notes/bruh.md",
     "notes/Energy.md",
     "notes/index.md",
-    "notes/Epi....md",
-    "about.md",
-    "projects.md",
-    "timeline.md"
+    "notes/Epi....md"
   ]
 }

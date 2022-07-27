@@ -25,4 +25,4 @@ Similarly, Socrates believed in the betterment and completion of life through ph
 
 Having observed how humans tended to follow others and the majority rather than think for themselves, even without logical reasoning, Socrates believed that thinking logically for themselves would benefit humanity. This prompted him to question everything.
 Maslow's differentiation between deficiency and growth needs supports Socrates' observations; creating a well where people can live comfortably without any incentive to change, where they can follow others without achieving self-actualisation.
-As well as this, Maslow believed that everyone's "self-actualisation" would be different: achieved in different ways and appearing in different forms; and thus can only be achieved by the individual, similar to the ideas of Socrates.
+As well as this, Maslow believed that everyone's "self-actualisation" would be different: achieved in different ways and appearing in different forms; and thus can only be achieved by the individual, similar to the ideas of Socrates' belief on individualism.
