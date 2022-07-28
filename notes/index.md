@@ -2,5 +2,6 @@
 title: Featured
 ---
 # Featured
-Follow my learning of:
+Learn:
 - [[Philosophy|Philosophy]]
+- [[Organic Chemistry|Organic Chemistry]]
