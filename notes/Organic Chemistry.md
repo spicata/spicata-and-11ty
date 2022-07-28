@@ -1,5 +1,5 @@
 # What is Organic Chemistry
-Organic Chemistry is the study of carbon-containing compounds. These compounds form the majority of known compounds; approximately 20 million (20,000,000) carbon-containing compounds are known as of know. 
+Organic Chemistry is the study of carbon-containing compounds (excluding carbonates and oxides). These compounds form the majority of known compounds; approximately 20 million (20,000,000) carbon-containing compounds are known as of know. 
 On the flip side, we have inorganic compounds, those that do not contain carbon atoms. There are about 100 thousand (100,000) known inorganic compounds.
 
 Hydrocarbons are the most basic form of organic compounds, being a combination of hydrogen and carbon **only**. 
