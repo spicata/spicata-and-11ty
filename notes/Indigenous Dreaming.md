@@ -16,7 +16,6 @@
 	- Secretive
 	- Thus, there is no good explanation as of yet
 - English is not great at representing Aboriginal culture
-- 
 ## Aboriginal Spirituality
 ### Animism
 - Aboriginal Spirituality is animistic, meaning that there are intangible spirits that affect the course of nature
