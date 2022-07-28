@@ -25,3 +25,27 @@ Please note that these aren't my opinions, and just notes from this book. It's p
 - Each part is part/expression of a whole
 - Dreamings aren't split into more sub-dreamings
 - IA (Indigenous Australian is too long) ≠ Western but getting there
+- Over a long period of time, IA have built up a large collection of knowledge
+## Epistemology
+### Causation:
+- Differs to European (but I mean, they were isolated for 80,000 years wdy expect)
+### Time:
+- In E, time is centered on the individual, and is measured strictly, mathmatically.
+- In IA, time is not measured this way.
+	- Very lax about schedules
+	- They will come, eventually
+		- Angers anthropologist.
+		- But for IA, there is no delay.
+	- No account for E time
+### Space:
+- In E, space is strictly measured in distance
+- In IA, who needs distance, if you just know all of it. The entire way.
+### Number
+- In E, numbers are key
+- In IA, not really.
+	- As they live in the present, they don't need to keep track of numbers
+	- Instead of keeping track, he can describe every single little thing.
+		- Not 20 rocks, but 20 different things characterised by... something
+### Ownership
+- No need for excess
+	- Needs are respected, however,
