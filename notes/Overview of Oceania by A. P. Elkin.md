@@ -7,30 +7,30 @@ Please note that these aren't my opinions, and just notes from this book. It's p
 	- Not always the same
 ## Philosophy
 - Indigenous Australians are pre-literate, their ideas similar to the 'primitive philosophers' of Europe
-	- Extremely rudimentry
+	- Extremely rudimentary
 	- Despite this, they still have intelligence
 - Aboriginals have a limited capacity in logic.
-	- Argueably not only pre-literate, but also pre-logical.
+	- Arguably not only pre-literate, but also pre-logical.
 		- Author disagrees; they have quite logical systems
-## Cosmongy
+## Cosmogony
 - Recounts how everyone has no comprehension of what came before,
 	- This includes Indigenous Australians
 	- Shows the Indigenous belief on the creation of the world
 	- In this regard, similar to European culture
 ## Cosmology
-- As opposed to cause and effect in European culture, Indigenous Australian's think of the world as a phenoma-based
+- As opposed to cause and effect in European culture, Indigenous Australian's think of the world as a phenomena-based
 	- Is this due to the urgency of acquiring food?
 	- Not future/forward-thinking, rather thinking of the present more
 - Likened to cult in its potency.
 - Each part is part/expression of a whole
-- Dreamings aren't split into more sub-dreamings
+- Dreaming aren't split into more sub-dreaming
 - IA (Indigenous Australian is too long) ≠ Western but getting there
 - Over a long period of time, IA have built up a large collection of knowledge
 ## Epistemology
 ### Causation:
 - Differs to European (but I mean, they were isolated for 80,000 years wdy expect)
 ### Time:
-- In E, time is centered on the individual, and is measured strictly, mathmatically.
+- In E, time is centered on the individual, and is measured strictly, mathematically.
 - In IA, time is not measured this way.
 	- Very lax about schedules
 	- They will come, eventually
