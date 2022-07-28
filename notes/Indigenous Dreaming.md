@@ -10,6 +10,13 @@
 	- Not about empirical (like Chemistry)
 	- Truths about (friendship, family)
 - What is a totem???
+
+---
+- There is quite a high knowledge barrier, it is insulated/closed off to other cultures
+	- Secretive
+	- Thus, there is no good explanation as of yet
+- English is not great at representing Aboriginal culture
+- 
 ## Aboriginal Spirituality
 ### Animism
 - Aboriginal Spirituality is animistic, meaning that there are intangible spirits that affect the course of nature
@@ -45,7 +52,13 @@
 	- Obligated and responsible for totems
 - Through totemism, everything is part of a whole
 - Aboriginal culture is more linked to time than place
-	- Seen when asked to order in chronological order (does it based on directions)
+	- Chronological order based on directions)
+---
+- Many ceremonies
+	- Increase (ties to land) ceremony
+	- Initiation (of people into culture) rites
+	- Mourning (spirits to guide them back) ceremonies
+	- Healing and harming (others using spirits)
 ### Oral
 - Passed down by oral tradition
 	- Lack of writing, lots of speaking

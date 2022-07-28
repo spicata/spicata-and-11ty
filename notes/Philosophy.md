@@ -1,4 +1,5 @@
 # Philosophy
+Also, look at [[Indigenous Dreaming|indigenous philosophy]] as well
 > "The junkyard of the other disciplines" - Dr Driehuis
 
 Philosophy is not a discipline, it is more of a natural human disposition; the pursuit of problems and subsequent pursuit of answers; unlikely to ever run out. On top of that, it looks into reality, knowledge, and existence, as well as many other topics.
@@ -45,10 +46,6 @@ This method would take you closer to the universal truth
 - Back yourself up as an individual thinker
 
 > "I am not an Athenian or a Greek, but a citizen of the world." - Socrates
-### Aristotle
-> Happiness is good I guess
-### Rene Descartes 
-> Mind is indivisible or something
 
 ## The Greeks and Democracy
 The Ancient Greeks were distrustful of democracy because they believed that it could have descended into tyranny (dictatorship) easily. This was because democracy relies too heavily on human emotions, which can bring rise to demagogues - a political leader that appeals to desires of the people rather than logic.
