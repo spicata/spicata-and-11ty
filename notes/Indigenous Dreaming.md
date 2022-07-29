@@ -25,6 +25,13 @@
 - Respect for spirits creates gain
 	- Rain, hunting, eg
 - Disrespect causes loss
+
+---
+- Pre-industrial communities have to take care of the environment
+	- *Not that they can do much to it though*
+- Animals and plants are living, breathing things; not resources to be used.
+- Everything is connected
+	- For the community
 ### Cosmogony
 - How the Earth came to be
 	- Explored in 'Dreamtime'
