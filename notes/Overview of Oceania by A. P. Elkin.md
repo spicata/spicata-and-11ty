@@ -30,7 +30,7 @@ Please note that these aren't my opinions, and just notes from this book. It's p
 ### Causation:
 - Differs to European (but I mean, they were isolated for 80,000 years wdy expect)
 ### Time:
-- In E, time is centered on the individual, and is measured strictly, mathematically.
+- In E, time is centred on the individual, and is measured strictly, mathematically.
 - In IA, time is not measured this way.
 	- Very lax about schedules
 	- They will come, eventually

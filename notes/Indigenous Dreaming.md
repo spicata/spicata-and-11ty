@@ -18,7 +18,7 @@
 - English is not great at representing Aboriginal culture
 ## Aboriginal Spirituality
 ### Animism
-- Aboriginal Spirituality is animistic, meaning that there are intangible spirits that affect the course of nature
+Aboriginal Spirituality is animistic, meaning that there are intangible spirits that affect the course of nature
 - Nothing is inanimate
 - Human = nature = animals
 	- Respect
@@ -45,12 +45,19 @@
 ### Earthly
 - It is sustainable, strict social contracts for life
 	- Respect of kin, of land, and for spirits
+- "The Law" is just a social contract essentially.
+
+---
+- Equally as complex as other religions
 ### Totemic
+> A totem might make you a steward of a part of the environment.
+
 - Totems are an inherited thing that represents a spirit
 	- Defines person's role in life
 - Responsible for the totems
 - Very important
 	- Can be decided before birth
+
 ---
 - Resting places and descendants of the great beings became totems
 - Totems create a sense of identity in Indigenous culture
@@ -59,6 +66,7 @@
 - Through totemism, everything is part of a whole
 - Aboriginal culture is more linked to time than place
 	- Chronological order based on directions)
+
 ---
 - Many ceremonies
 	- Increase (ties to land) ceremony
@@ -71,6 +79,7 @@
 ### Hierarchical
 - Confusing
 - Elders
+	- More important than others.
 ## Colonial Perspective vs Now
 - European colonist describes Aboriginal Australian cultures as:
 	- Stone-age-like
