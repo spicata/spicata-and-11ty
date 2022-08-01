@@ -4,6 +4,8 @@ As with many things with science, we need to define a few terms before entering 
 - **Homologous series** are groups of molecules of the same functional group but containing different number of CH<sub>2</sub> (differing in the number of carbons), thus determining its physical properties: boiling point, melting point, etc
 - **Saturated hydrocarbons** are hydrocarbons that only contains single bonds between carbon atoms; due to this, they are fairly unreactive.
 
+Hydrocarbons are split into three unique functional groups: alkanes; alkenes' and alkynes, the difference being that:
+
 Name | Functional Group
 --- | ---
 Alkane | None
