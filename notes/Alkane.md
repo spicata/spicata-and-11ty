@@ -1,6 +1,6 @@
 # Alkanes
-- Saturated hydrocarbons that can be arranged in straight lines, branched chains, and rings
-# Naming convention
+Alkanes are hydrocarbons that only contain single bonds; when saturated, they can be arranged in straight lines, branched chains, and rings.
+## Naming convention
 - Smallest branch-able chain is C<sub>2</sub>H<sub>6</sub>
 - For straight lines:
 
