@@ -115,7 +115,7 @@ hr {
 th, td {
     padding: 8px;
     text-align: left;
-    border: 2px solid var(--quarterly);
+    border: 0.1em solid var(--secondary);
 }  
 
 table {
