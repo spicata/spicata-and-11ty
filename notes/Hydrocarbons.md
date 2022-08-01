@@ -1,7 +1,8 @@
 # Hydrocarbons
-- Functional groups: is an atom or group of atoms responsible for the typical chemical reactions of a molecule. Determines pattern of reactivity of homologous series. (Chemical propeties)
-- Homologous series: group of molecules of the same functional group but a different number of CH<sub>2</sub>, differs in the number of carbons (Physical properties - boiling point, etc)
-- Saturated hydrocarbons: Only contains single bonds between carbon atoms, fairly unreactive
+As with many things with science, we need to define a few terms before entering the meat of the topic.
+- **Functional groups** are an atom or groups of atoms (alkyl groups) that are responsible for the typical chemical properties of a molecule - these functional groups replaces hydrogen atoms within organic compounds.
+- **Homologous series** are groups of molecules of the same functional group but containing different number of CH<sub>2</sub> (differing in the number of carbons), thus determining its physical properties: boiling point, melting point, etc
+- **Saturated hydrocarbons** are hydrocarbons that only contains single bonds between carbon atoms; due to this, they are fairly unreactive.
 
 Name | Functional Group
 --- | ---
