@@ -115,9 +115,13 @@ hr {
 th, td {
     padding: 8px;
     text-align: left;
-    border-bottom: 1px solid var(--quarterly);
-    border-left: 1px solid var(--quarterly);
+    border: 2px solid var(--quarterly);
 }  
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
 
 /* --- Colours --- */
 p,
@@ -167,8 +171,7 @@ p,
 li,
 ::marker,
 small,
-td,
-th {
+td {
     font-family: 'Roboto Slab', sans-serif;
     font-weight: 400;
 }
@@ -181,7 +184,9 @@ em {
     font-weight: 400;
 }
 
-strong {
+strong,
+th {
+    font-family: 'Roboto Slab', sans-serif;
     font-weight: 800;
 }
 
