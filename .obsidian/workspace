@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8c8a412042e44697",
+        "id": "7c31bbcd31cc1722",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TO BE NAMED.md",
+            "file": "notes/Philosophy.md",
             "mode": "source",
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TO BE NAMED.md",
+                "file": "notes/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/TO BE NAMED.md",
+                "file": "notes/Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c8a412042e44697",
+  "active": "7c31bbcd31cc1722",
   "lastOpenFiles": [
-    "notes/Pasted image 20220725135421.png",
+    "assets/Pasted image 20220801113212.png",
+    "notes/Hydrocarbons.md",
+    "notes/Organic Chemistry.md",
+    "assets/Pasted image 20220725140142.png",
+    "assets/Pasted image 20220725135546.png",
+    "assets/Pasted image 20220725135421.png",
+    "notes/Overview of Oceania by A. P. Elkin.md",
     "notes/TO BE NAMED.md",
     "notes/Philosophy.md",
-    "notes/Indigenous Dreaming.md",
-    "notes/Hydrocarbons.md",
-    "notes/Alkane.md",
-    "notes/Line-testing.md",
-    "notes/Organic Chemistry.md",
-    "notes/Overview of Oceania by A. P. Elkin.md",
-    "notes/Complements.md"
+    "notes/Indigenous Dreaming.md"
   ]
 }
