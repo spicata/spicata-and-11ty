@@ -1,22 +1,22 @@
 # Alkanes
-Alkanes are hydrocarbons that only contain single bonds; when saturated, they can be arranged in straight lines, branched chains, and rings.
+Alkanes are hydrocarbons that only contain single bonds; when saturated, they can be arranged in straight lines, branched chains, and rings. However, due to the different forms (structural isomers) that these alkanes can take, it is common for two alkanes to have the same chemical formula but have different structures. This is why they have an agreed upon naming convention known as the *IUPAC Nomenclature of Organic Chemistry*.
 ## Naming convention
-- Smallest branch-able chain is C<sub>2</sub>H<sub>6</sub>
-- For straight lines:
-
 Alkane | Chemical Formula
 --- | ---
-Meth-ane | CH<sub>4</sub>
-Eth-ane | C<sub>2</sub>H<sub>6</sub>
-Prop-ane | C<sub>3</sub>H<sub>8</sub>
-But-ane | C<sub>4</sub>H<sub>10</sub>
-Pent-ane | C<sub>5</sub>H<sub>12</sub>
-Hex-ane | C<sub>6</sub>H<sub>14</sub>
-Hept-ane | ...
-Oct-ane | ...
+**Meth**ane | CH<sub>4</sub>
+**Eth**ane | C<sub>2</sub>H<sub>6</sub>
+**Prop**ane | C<sub>3</sub>H<sub>8</sub>
+**But**ane | C<sub>4</sub>H<sub>10</sub>
+**Pent**ane | C<sub>5</sub>H<sub>12</sub>
+**Hex**ane | C<sub>6</sub>H<sub>14</sub>
+**Hept**ane | C<sub>7</sub>H<sub>16</sub>
+**Oct**ane | C<sub>8</sub>H<sub>18</sub>
+**Non**ane | C<sub>9</sub>H<sub>20</sub>
+**Dec**ane | C<sub>10</sub>H<sub>22</sub>
 
-- Isomer: Organic compounds with same formula but different structure
-- Different names, different shapes, different properties.
+Alkanes always end with a "-ane", and has a prefix depending on the amount of carbon atoms there are. As a general rule for the chemical formula for straight line alkanes, it is **C<sub>n</sub>H<sub>2n+2</sub>**. 
+The smallest branch-able alkane is butane (C<sub>4</sub>H<sub>10</sub>), meaning that methane, ethane, and propane cannot have any branches. 
+
 - For branched chains
 	1. Find the parent chain (longest continuous)
 	2. Number the carbon atoms: from the side with a branch closest to end.
