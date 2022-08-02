@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "notes/Chinese Grammar.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -150,15 +150,15 @@
   },
   "active": "9d3361834a6d4f60",
   "lastOpenFiles": [
+    "notes/Future tense.md",
+    "notes/Chinese Grammar.md",
+    "notes/Past tense.md",
+    "notes/Present tense.md",
     "notes/Alkane.md",
     "notes/d.md",
     "notes/Hydrocarbons.md",
     "about.md",
     "index.md",
-    "notes/Indigenous Dreaming.md",
-    "notes/Philosophy.md",
-    "notes/Overview of Oceania by A. P. Elkin.md",
-    "assets/Pasted image 20220801113212.png",
-    "notes/Organic Chemistry.md"
+    "notes/Indigenous Dreaming.md"
   ]
 }

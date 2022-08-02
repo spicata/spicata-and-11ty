@@ -155,13 +155,13 @@ nav a {
 }
 
 a:link:not(nav a) {
-    border-radius: 0.5em;
+    border-radius: 0.25em;
     color: var(--emphasis1);
     transition: all 0.3s ease;
 }
 
 a:visited:not(nav a) {
-    border-radius: 0.5em;
+    border-radius: 0.25em;
     color: var(--emphasis2);
     transition: all 0.3s ease;
 }
