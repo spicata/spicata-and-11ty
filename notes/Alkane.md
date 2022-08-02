@@ -32,3 +32,5 @@ The smallest branch-able alkane is butane (C<sub>4</sub>H<sub>10</sub>), meaning
 		- 1,2-dimethyl
 	6. Arrange it alphabetically (ignore step 5 prefixes)
 	7. Fin (e.g. 5-ethyl-3-methyloctane)
+
+##### [[Organic Chemistry]]

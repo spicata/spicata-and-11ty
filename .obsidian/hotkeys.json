@@ -73,5 +73,13 @@
       ],
       "key": ";"
     }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
