@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Alkane.md",
-            "mode": "preview",
+            "file": "notes/Chinese Grammar.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Alkane.md",
+                "file": "notes/Chinese Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Alkane.md",
+                "file": "notes/Chinese Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Alkane.md",
+                "file": "notes/Chinese Grammar.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,8 +150,8 @@
   },
   "active": "9d3361834a6d4f60",
   "lastOpenFiles": [
-    "notes/d.md",
     "notes/Alkane.md",
+    "notes/d.md",
     "notes/Hydrocarbons.md",
     "about.md",
     "index.md",
