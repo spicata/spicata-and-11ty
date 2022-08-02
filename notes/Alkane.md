@@ -32,5 +32,25 @@ The smallest branch-able alkane is butane (C<sub>4</sub>H<sub>10</sub>), meaning
 		- 1,2-dimethyl
 	6. Arrange it alphabetically (ignore step 5 prefixes)
 	7. Fin (e.g. 5-ethyl-3-methyloctane)
+## Melting and Boiling Point
+- Alkanes have low melting points and boiling points
+	- Due to the very weak intermolecular forces between molecules
+	- Methane to butane are gases in room temperature
+- As hydrocarbons lengths increase, the intermolecular forces become greater, increasing boiling and melting temperatures, as well as increasing the viscosity.
+- Alkanes with sidechains have higher volatility as their branches decrease the intermolecular forces between molecules
+## Balancing Combustion
+1. Write the equation
+	- C<sub>4</sub>H<sub>10 (g)</sub> + O<sub>2 (g)</sub> --> CO<sub>2 (g)</sub> + H<sub>2</sub>O<sub>(g)</sub>
+2. First, list the amount of each element on each side:
+	- C: 4 / C: 1
+	- H: 10 / H: 2
+	- O: 2 / O: 3
+3. Then balance all other elements **EXCEPT** oxygen, and list the amount of  each element there is
+	- C<sub>4</sub>H<sub>10 (g)</sub> + O<sub>2 (g)</sub> --> 4CO<sub>2 (g)</sub> + 5H<sub>2</sub>O<sub>(g)</sub>
+	- C: 4 / C: 4
+	- H: 10 /  H: 10
+	- O: 2 / O: 13
+4. Finally, add the RHS oxygen count to the LHS oxygen, then double everything
+	- 2C<sub>4</sub>H<sub>10 (g)</sub> + 13O<sub>2 (g)</sub> --> 8CO<sub>2 (g)</sub> + 10H<sub>2</sub>O<sub>(g)</sub>
 
 ##### [[Organic Chemistry]]

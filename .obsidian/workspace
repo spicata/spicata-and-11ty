@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "notes/Alkane.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c620534039166d03",
@@ -137,7 +136,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8269080547301664,
+                  "scale": 0.7042947195391804,
                   "close": true
                 }
               }
@@ -151,6 +150,7 @@
   },
   "active": "9d3361834a6d4f60",
   "lastOpenFiles": [
+    "notes/d.md",
     "notes/Alkane.md",
     "notes/Hydrocarbons.md",
     "about.md",
@@ -159,7 +159,6 @@
     "notes/Philosophy.md",
     "notes/Overview of Oceania by A. P. Elkin.md",
     "assets/Pasted image 20220801113212.png",
-    "notes/Organic Chemistry.md",
-    "assets/Pasted image 20220725140142.png"
+    "notes/Organic Chemistry.md"
   ]
 }

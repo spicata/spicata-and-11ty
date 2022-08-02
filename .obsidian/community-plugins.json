@@ -2,5 +2,6 @@
   "obsidian-git",
   "sliding-panes-obsidian",
   "obsidian-plugin-todo",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "persistent-graph"
 ]
