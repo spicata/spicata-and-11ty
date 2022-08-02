@@ -162,8 +162,14 @@ a:visited:not(nav a) {
     color: var(--emphasis2);
 }
 
-a:hover:not(nav a) {
+a:hover:not(nav a):not(:visited) {
     color: var(--secondary);
+    background-color: var(--emphasis1);
+}
+
+a:hover:visited:not(nav a) {
+    color: var(--secondary);
+    background-color: var(--emphasis2);
 }
 
 /* --- Typography --- */
