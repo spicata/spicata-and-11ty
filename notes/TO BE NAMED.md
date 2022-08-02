@@ -7,7 +7,7 @@
 - E cultures measure other cultures in capitalist consumer societies
 	- Why not their longevity
 
-- Canon means yardstick in jewish? A way that one uses to judge other things???
+- Canon means yardstick? A way that one uses to judge other things???
 	- "The law"
 ## Dreaming
 - The Genesis of IA
@@ -18,3 +18,4 @@
 - IA related to the species and landscape as kin
 
 - Sharing is essential
+- Similarly to God, IA "law" is fixed, immutable, and constant.
