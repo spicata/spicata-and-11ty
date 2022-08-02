@@ -37,6 +37,7 @@ Aboriginal Spirituality is animistic, meaning that there are intangible spirits 
 	- Explored in 'Dreamtime'
 		- Many deities (part human (mind), part animal (body), part supernatural (powers)) form the Universe
 - Interactions between deities (spirits?) made the Earth the way it is
+- Everything is made for a reason
 #### What is the Dreaming
 - In the beginning, the world was very "mixed up", very different to what it is now.
 - Ancestor (anthropomorphs) brought the world into order (from chaos)
@@ -77,9 +78,9 @@ Aboriginal Spirituality is animistic, meaning that there are intangible spirits 
 - Passed down by oral tradition
 	- Lack of writing, lots of speaking
 ### Hierarchical
-- Confusing
-- Elders
-	- More important than others.
+- I haven't quite understood yet.
+- Elders, Custodians, stewardships, rank
+	- Some people are more essential than others to the culture.
 ## Colonial Perspective vs Now
 - European colonist describes Aboriginal Australian cultures as:
 	- Stone-age-like
