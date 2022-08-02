@@ -156,10 +156,12 @@ nav a {
 
 a:link:not(nav a) {
     color: var(--emphasis1);
+    transition: 0.5s;
 }
 
 a:visited:not(nav a) {
     color: var(--emphasis2);
+    transition: 0.5s;
 }
 
 a:hover:not(nav a):not(:visited) {
