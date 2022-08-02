@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Overview of Oceania by A. P. Elkin.md",
-            "mode": "source",
+            "file": "notes/Indigenous Dreaming.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Overview of Oceania by A. P. Elkin.md",
+                "file": "notes/Indigenous Dreaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Overview of Oceania by A. P. Elkin.md",
+                "file": "notes/Indigenous Dreaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,13 +123,13 @@
   "active": "7c31bbcd31cc1722",
   "lastOpenFiles": [
     "notes/Philosophy.md",
+    "notes/Overview of Oceania by A. P. Elkin.md",
     "assets/Pasted image 20220801113212.png",
     "notes/Hydrocarbons.md",
     "notes/Organic Chemistry.md",
     "assets/Pasted image 20220725140142.png",
     "assets/Pasted image 20220725135546.png",
     "assets/Pasted image 20220725135421.png",
-    "notes/Overview of Oceania by A. P. Elkin.md",
     "notes/TO BE NAMED.md",
     "notes/Indigenous Dreaming.md"
   ]
