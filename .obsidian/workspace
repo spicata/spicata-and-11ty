@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Indigenous Dreaming.md",
-            "mode": "preview",
+            "file": "about.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306,
-    "collapsed": true
+    "width": 306
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Indigenous Dreaming.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Indigenous Dreaming.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +121,8 @@
   },
   "active": "7c31bbcd31cc1722",
   "lastOpenFiles": [
+    "index.md",
+    "notes/Indigenous Dreaming.md",
     "notes/Philosophy.md",
     "notes/Overview of Oceania by A. P. Elkin.md",
     "assets/Pasted image 20220801113212.png",
@@ -129,8 +130,6 @@
     "notes/Organic Chemistry.md",
     "assets/Pasted image 20220725140142.png",
     "assets/Pasted image 20220725135546.png",
-    "assets/Pasted image 20220725135421.png",
-    "notes/TO BE NAMED.md",
-    "notes/Indigenous Dreaming.md"
+    "assets/Pasted image 20220725135421.png"
   ]
 }
