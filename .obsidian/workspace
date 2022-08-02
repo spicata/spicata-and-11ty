@@ -137,7 +137,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7346784004304051,
+                  "scale": 0.8269080547301664,
                   "close": true
                 }
               }
@@ -149,7 +149,7 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "0112a032dbd714ba",
+  "active": "9d3361834a6d4f60",
   "lastOpenFiles": [
     "notes/Alkane.md",
     "notes/Hydrocarbons.md",
