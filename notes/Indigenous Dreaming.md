@@ -92,5 +92,7 @@ Aboriginal Spirituality is animistic, meaning that there are intangible spirits 
 - Religious practices inform actions in a Aboriginal person's day to day life.
 	- Known as "The Law" [^2]
 
+##### [[Overview of Oceania by A. P. Elkin]]
+
 [^1]: [Aboriginal spirituality | Australians Together](https://australianstogether.org.au/discover/indigenous-culture/aboriginal-spirituality)
 [^2]:[Aboriginal Wisdom & Philosophy | Culture | Awabakal | AMRHD | The University of Newcastle | Australia](https://downloads.newcastle.edu.au/library/cultural%20collections/awaba/culture/wisdom.html#:~:text=Aboriginal%20philosophy%20is%20a%20wholistic,of%20the%20conditions%20for%20survival)

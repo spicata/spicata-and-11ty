@@ -7,24 +7,8 @@
         "id": "24056e22638f7487",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Alkane.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "452cd60303a4cdd6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Melting and Boiling points for Alkanes.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -75,6 +59,7 @@
       {
         "id": "96edea13ec8ee058",
         "type": "tabs",
+        "dimension": 39.26247288503254,
         "children": [
           {
             "id": "46057ce80371597f",
@@ -82,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Alkane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Alkane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +101,7 @@
       {
         "id": "c620534039166d03",
         "type": "tabs",
+        "dimension": 60.73752711496746,
         "children": [
           {
             "id": "0112a032dbd714ba",
@@ -125,11 +109,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Alkane.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -140,15 +123,15 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": true,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1.5,
                   "nodeSizeMultiplier": 3.03357785602504,
                   "lineSizeMultiplier": 5,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3377450752954764,
+                  "scale": 0.30907868961285073,
                   "close": true
                 }
               }
@@ -162,15 +145,15 @@
   },
   "active": "24056e22638f7487",
   "lastOpenFiles": [
-    "notes/Melting and Boiling points for Alkanes.md",
     "notes/Alkane.md",
-    "notes/Naming Conventions for Alkanes.md",
-    "notes/Copyrighting.md",
-    "index.md",
-    "README.md",
-    "CONTRIBUTING.md",
-    "about.md",
+    "notes/Hydrocarbons.md",
+    "notes/Organic Chemistry.md",
     "notes/index.md",
-    "notes/Complements.md"
+    "notes/Socrates.md",
+    "notes/Melting and Boiling points for Alkanes.md",
+    "notes/Philosophy.md",
+    "notes/Greeks and Democracy.md",
+    "notes/Indigenous Dreaming.md",
+    "notes/Naming Conventions for Alkanes.md"
   ]
 }
