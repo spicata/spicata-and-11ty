@@ -1,16 +1,15 @@
 # Oceania by A. P. Elkin
 > Is there an Indigenous Philosophy? - (essentially) Elkin
 
-Elkins posed that humans adapted to their environment not only physically, but also mentally; stating that humans across every culture has developed a theory about the world around them since pre-literate times. This is the roots of religion and philosophy - an aspect of human culture that, although widespread, is never the same.
-## Philosophy
-In 1969, it was widely accept that Indigenous Australians were not only 
-- Indigenous Australians are pre-literate, their ideas similar to the 'primitive philosophers' of Europe
-	- Extremely rudimentary
-	- Despite this, they still have intelligence
-- Aboriginals have a limited capacity in logic.
-	- Arguably not only pre-literate, but also pre-logical.
-		- Author disagrees; they have quite logical systems
-## Cosmogony
+Elkins posed that humans adapted to their environment not only physically, but also mentally; stating that humans across every culture has developed a theory about the world around them since pre-literate times[^2]. This is the roots of religion and philosophy - an aspect of human culture that, although widespread, is never the same. Seemingly inevitably, cosmogony and cosmology was formed over time.
+
+[^2]: This is essentially universal. See [a priori](https://en.wiktionary.org/wiki/a_priori) and innate or [a posteriori](https://en.wiktionary.org/wiki/a_posteriori)
+
+In 1969, it was widely accept that Indigenous Australians were not only pre-literate - their ideas aligning with the 'primitive philosophers' of Europe[^1] - but also pre-logical; a stance that A. P. Elkin disagrees with. 
+
+[^1]: Colonialists believed that Indigenous Australian culture was extremely rudimentary, despite having intelligence.
+
+
 - Recounts how everyone has no comprehension of what came before,
 	- This includes Indigenous Australians
 	- Shows the Indigenous belief on the creation of the world
