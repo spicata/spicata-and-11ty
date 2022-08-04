@@ -9,7 +9,7 @@ In 1969, it was widely accept that Indigenous Australians were not only pre-lite
 
 [^1]: Colonialists believed that Indigenous Australian culture was extremely rudimentary, despite having intelligence.
 
-
+This tied into the European beliefs that philosophy required logical thought and ability to create abstraction, and the former belief caused colonists to believe that Indigenous Australians lacked a philosop 
 - Recounts how everyone has no comprehension of what came before,
 	- This includes Indigenous Australians
 	- Shows the Indigenous belief on the creation of the world
