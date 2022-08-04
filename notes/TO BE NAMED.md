@@ -19,3 +19,5 @@
 
 - Sharing is essential
 - Similarly to God, IA "law" is fixed, immutable, and constant.
+
+Western Australia was the most affected by anti-Indigenous legislature in Australia

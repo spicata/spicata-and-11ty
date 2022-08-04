@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "24056e22638f7487",
+        "id": "a7a284e06a3b1519",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/TO BE NAMED.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "2df5bf2ff0f22a99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Overview of Oceania by A. P. Elkin.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -67,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Overview of Oceania by A. P. Elkin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Overview of Oceania by A. P. Elkin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/Overview of Oceania by A. P. Elkin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -131,7 +150,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.30907868961285073,
+                  "scale": 0.34818599615337203,
                   "close": true
                 }
               }
@@ -143,8 +162,10 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "24056e22638f7487",
+  "active": "0112a032dbd714ba",
   "lastOpenFiles": [
+    "notes/TO BE NAMED.md",
+    "notes/Overview of Oceania by A. P. Elkin.md",
     "notes/Alkane.md",
     "notes/Hydrocarbons.md",
     "notes/Organic Chemistry.md",
@@ -152,8 +173,6 @@
     "notes/Socrates.md",
     "notes/Melting and Boiling points for Alkanes.md",
     "notes/Philosophy.md",
-    "notes/Greeks and Democracy.md",
-    "notes/Indigenous Dreaming.md",
-    "notes/Naming Conventions for Alkanes.md"
+    "notes/Greeks and Democracy.md"
   ]
 }

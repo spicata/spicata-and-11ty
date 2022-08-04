@@ -1,11 +1,9 @@
 # Oceania by A. P. Elkin
-Please note that these aren't my opinions, and just notes from this book. It's pretty hard to find so these notes should be enough. (This version of the book was written in 1969)
+> Is there an Indigenous Philosophy? - (essentially) Elkin
 
-- Humans adapt mentally as well as physically
-- Humans developed a theory about the world around them since pre-literate times
-	- This is religion and philosophy
-	- Not always the same
+Elkins posed that humans adapted to their environment not only physically, but also mentally; stating that humans across every culture has developed a theory about the world around them since pre-literate times. This is the roots of religion and philosophy - an aspect of human culture that, although widespread, is never the same.
 ## Philosophy
+In 1969, it was widely accept that Indigenous Australians were not only 
 - Indigenous Australians are pre-literate, their ideas similar to the 'primitive philosophers' of Europe
 	- Extremely rudimentary
 	- Despite this, they still have intelligence
@@ -48,4 +46,8 @@ Please note that these aren't my opinions, and just notes from this book. It's p
 		- Not 20 rocks, but 20 different things characterised by... something
 ### Ownership
 - No need for excess
-	- Needs are respected, however,
+	- Needs are respected
+
+1. Develop an appreciation of Dreaming as a focus of moral philosophy about being-in-the-world or dasein, and being-qua-being
+2. To make epistemological connections between Dreaming and other moral philosophical accounts of being/Being in story e.g. Aesop's Fables, Genesis, the Gospels and its parables, the Dao
+3. Develop an appreciations of story-telling as a form of knowledge in human life, especially about being, and not just "fiction" e.g. the Jewish Midrash
