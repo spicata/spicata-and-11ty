@@ -49,4 +49,4 @@ In 1969, it was widely accept that Indigenous Australians were not only pre-lite
 
 1. Develop an appreciation of Dreaming as a focus of moral philosophy about being-in-the-world or dasein, and being-qua-being
 2. To make epistemological connections between Dreaming and other moral philosophical accounts of being/Being in story e.g. Aesop's Fables, Genesis, the Gospels and its parables, the Dao
-3. Develop an appreciations of story-telling as a form of knowledge in human life, especially about being, and not just "fiction" e.g. the Jewish Midrash.
+3. Develop an appreciations of story-telling as a form of knowledge in human life, especially about being, and not just "fiction" e.g. the Jewish Midrash
