@@ -9,7 +9,7 @@ Hydrocarbons are split into three unique functional groups: alkanes; alkenes; an
 Name | Functional Group
 --- | ---
 [[Alkane]] | None
-Alkene | At least one double bond, minimum 2 carbons
+[[Alkene]] | At least one double bond, minimum 2 carbons
 Alkyne | At least one triple bond, minimum 2 carbons
 
 ![[Pasted image 20220801113212.png]]

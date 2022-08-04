@@ -3,7 +3,7 @@
   "enabledCssSnippets": [
     "theme"
   ],
-  "translucency": false,
+  "translucency": true,
   "theme": "obsidian",
   "baseFontSize": 19
 }
