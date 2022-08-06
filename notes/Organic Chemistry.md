@@ -4,3 +4,5 @@ On the flip side, we have inorganic compounds, those that do not contain carbon 
 
 [[Hydrocarbons|Hydrocarbons]] are the most basic form of organic compounds, being a combination of hydrogen and carbon **only**. 
 Hydrocarbons can be found in crude oil, and it is separated through a process of [[Distillation|fractional distillation]]. 
+
+##### [[Energy]]

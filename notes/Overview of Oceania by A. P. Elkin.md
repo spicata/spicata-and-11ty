@@ -58,7 +58,7 @@ However, this idea was not new, as on the other side of the world, the Indigenou
 - Every part is a part of the whole
 - Dreaming is the whole. There is no sub-dreaming. No super-dreaming
 	- On the other hand, a Dao consists of many Dao, and is a part of a bigger Dao
-	- What is determinism
+	- What is [[Determinism|determinism]]
 
 1. Develop an appreciation of Dreaming as a focus of moral philosophy about being-in-the-world or dasein, and being-qua-being
 2. To make epistemological connections between Dreaming and other moral philosophical accounts of being/Being in story e.g. Aesop's Fables, Genesis, the Gospels and its parables, the Dao

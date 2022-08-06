@@ -4,7 +4,7 @@ As with many things with science, we need to define a few terms before entering 
 - **Homologous series** are groups of molecules of the same functional group but containing different number of CH<sub>2</sub> (differing in the number of carbons), thus determining its physical properties: boiling point, melting point, etc
 - **Saturated hydrocarbons** are hydrocarbons that only contains single bonds between carbon atoms; due to this, they are fairly unreactive.
 
-Hydrocarbons are split into three unique functional groups: alkanes; alkenes; and alkynes, the difference being that:
+Hydrocarbons are split into three homologous series: alkanes; alkenes; and alkynes, the difference being that:
 
 Name | Functional Group
 --- | ---
@@ -16,3 +16,5 @@ Alkyne | At least one triple bond, minimum 2 carbons
 
 ---
 Carbon is essential to hydrocarbons ~~who could have thought~~, and thus it is essential to know some properties of carbon. Carbon has a bonding capacity of 4, meaning that it can covalently share one electron with 4 other atoms, creating 4 single bonds. This is why alkanes have their distinct shape.
+
+##### [Flashcards](https://www.mint-garden.netlify.app/anki/Hydrocarbons)

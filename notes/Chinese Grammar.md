@@ -17,3 +17,6 @@ Combined with 是 | ❌ | ✔
 Combined with 有 | ✔ | ❌
 with verbs | ✔ | ✔
 with adjective | ❌ | ✔
+
+## Complement
+In Chinese, a complement is a grammatical term that adds additional information to the verb.

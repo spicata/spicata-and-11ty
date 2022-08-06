@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "72123b4941471d9f",
+        "id": "742db19935b3252c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "e67374aae2a7db7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/How did the Indigenous Australians Get Here.md",
+            "file": "notes/Hydrocarbons.md",
             "mode": "source",
             "source": true
           }
@@ -49,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -72,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/How did the Indigenous Australians Get Here.md",
+                "file": "notes/Hydrocarbons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/How did the Indigenous Australians Get Here.md",
+                "file": "notes/Hydrocarbons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/How did the Indigenous Australians Get Here.md",
+                "file": "notes/Hydrocarbons.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +146,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.27024288160430726,
+                  "scale": 0.20107329127469234,
                   "close": true
                 }
               }
@@ -151,17 +158,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "72123b4941471d9f",
+  "active": "e67374aae2a7db7d",
   "lastOpenFiles": [
-    "notes/How did the Indigenous Australians Get Here.md",
-    "notes/Determinism.md",
-    "notes/Alkene.md",
-    "notes/Melting and Boiling points.md",
-    "notes/Naming Convention for Alkene.md",
-    "notes/Alkane.md",
+    "notes/Indigenous Dreaming.md",
     "notes/Hydrocarbons.md",
+    "notes/Chinese Grammar.md",
+    "notes/Complements.md",
     "notes/Organic Chemistry.md",
-    "notes/Naming Conventions for Alkanes.md",
+    "notes/Energy.md",
+    "notes/Overview of Oceania by A. P. Elkin.md",
+    "notes/How did the Indigenous Australians Get Here.md",
+    "notes/TO BE NAMED.md",
     "notes/index.md"
   ]
 }

@@ -87,7 +87,7 @@ Aboriginal Spirituality is animistic, meaning that there are intangible spirits 
 	- Pre-literate
 	- Undeveloped
 	- Rudimentary
-- But Aboriginal culture is now widely accepted to the longest continuous culture(s) in the history of the world. (80,000 years)
+- But Aboriginal culture is now widely accepted to the longest continuous culture(s) in the history of the world. ([[How did the Indigenous Australians Get Here|80,000 years]])
 	- They were able to overcome the risk of over-exploiting nature
 - Religious practices inform actions in a Aboriginal person's day to day life.
 	- Known as "The Law" [^2]
