@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Combustion.md",
+            "file": "notes/How did the Indigenous Australians Get Here.md",
             "mode": "source",
             "source": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Combustion.md",
+                "file": "notes/How did the Indigenous Australians Get Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Combustion.md",
+                "file": "notes/How did the Indigenous Australians Get Here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Combustion.md",
+                "file": "notes/How did the Indigenous Australians Get Here.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,15 +153,15 @@
   },
   "active": "ed713424f5b9c3fa",
   "lastOpenFiles": [
-    "notes/Balancing Combustion.md",
+    "notes/index.md",
+    "notes/How did the Indigenous Australians Get Here.md",
     "notes/Combustion.md",
+    "notes/Balancing Combustion.md",
     "notes/Hydrocarbons.md",
     "notes/(looks complicated).md",
     "notes/Naming Convention for Alkene.md",
     "notes/Alkene.md",
     "notes/Alkane.md",
-    "notes/Untitled.md",
-    "notes/Chinese Grammar.md",
-    "notes/Melting and Boiling points.md"
+    "notes/Untitled.md"
   ]
 }
