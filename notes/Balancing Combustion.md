@@ -1,4 +1,4 @@
-## Balancing Combustion
+# Balancing Combustion
 Combustion reactions are rather hard to balance, due to the large amount of carbons, hydrogens, and oxygen atoms on each side, thus, I have ~~copied~~ "prepared" a simple way to balance combustion.
 1. Write the equation, e.g.:
 	- C<sub>4</sub>H<sub>10 (g)</sub> + O<sub>2 (g)</sub> --> CO<sub>2 (g)</sub> + H<sub>2</sub>O<sub>(g)</sub>
