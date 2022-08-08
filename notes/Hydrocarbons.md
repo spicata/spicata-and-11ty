@@ -17,4 +17,4 @@ Alkyne | At least one triple bond, minimum 2 carbons
 ---
 Carbon is essential to hydrocarbons ~~who could have thought~~, and thus it is essential to know some properties of carbon. Carbon has a bonding capacity of 4, meaning that it can covalently share one electron with 4 other atoms, creating 4 single bonds. This is why alkanes have their distinct shape.
 
-##### 
+##### [[Combustion]]

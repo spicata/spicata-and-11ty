@@ -4,5 +4,6 @@
   "obsidian-plugin-todo",
   "obsidian-pandoc",
   "persistent-graph",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-html-tags-autocomplete"
 ]
