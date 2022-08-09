@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Naming Conventions for Alkanes.md",
+            "file": "notes/LaTeX Test.md",
             "mode": "source",
             "source": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Naming Conventions for Alkanes.md",
+                "file": "notes/LaTeX Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Naming Conventions for Alkanes.md",
+                "file": "notes/LaTeX Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Naming Conventions for Alkanes.md",
+                "file": "notes/LaTeX Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,6 +153,7 @@
   },
   "active": "66944350a782e9e7",
   "lastOpenFiles": [
+    "notes/Naming Conventions for Alkanes.md",
     "notes/Alkane.md",
     "notes/Hydrocarbons.md",
     "notes/Organic Chemistry.md",
@@ -161,7 +162,6 @@
     "assets/Pasted image 20220805151547.png",
     "notes/Overview of Oceania by A. P. Elkin.md",
     "notes/Determinism.md",
-    "notes/Indigenous Dreaming.md",
-    "notes/Melting and Boiling points - ane, ene, yne.md"
+    "notes/Indigenous Dreaming.md"
   ]
 }

@@ -8,6 +8,9 @@ module.exports = function(eleventyConfig) {
     
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
+    .use(tm, { engine: require('katex'),
+            delimiters: 'dollars',
+            katexOptions: { macros: {"\\RR": "\\mathbb{R}"} } })
     .use(require('markdown-it-attrs'))
     .use(function(md) {
         // Recognize Mediawiki links ([[text]])
