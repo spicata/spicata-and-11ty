@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7d67a20f1e705450",
+        "id": "66944350a782e9e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Melting and Boiling points - ane, ene, yne.md",
+            "file": "notes/Naming Conventions for Alkanes.md",
             "mode": "source",
             "source": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Melting and Boiling points - ane, ene, yne.md",
+                "file": "notes/Naming Conventions for Alkanes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Melting and Boiling points - ane, ene, yne.md",
+                "file": "notes/Naming Conventions for Alkanes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Melting and Boiling points - ane, ene, yne.md",
+                "file": "notes/Naming Conventions for Alkanes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "0112a032dbd714ba",
+  "active": "66944350a782e9e7",
   "lastOpenFiles": [
-    "notes/Alkene.md",
-    "notes/Melting and Boiling points - ane, ene, yne.md",
     "notes/Alkane.md",
+    "notes/Hydrocarbons.md",
     "notes/Organic Chemistry.md",
     "notes/index.md",
-    "notes/Philosophy.md",
-    "notes/(looks complicated).md",
     "notes/How did the Indigenous Australians Get Here.md",
-    "notes/Combustion.md",
-    "notes/Balancing Combustion.md"
+    "assets/Pasted image 20220805151547.png",
+    "notes/Overview of Oceania by A. P. Elkin.md",
+    "notes/Determinism.md",
+    "notes/Indigenous Dreaming.md",
+    "notes/Melting and Boiling points - ane, ene, yne.md"
   ]
 }

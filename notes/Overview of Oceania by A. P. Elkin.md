@@ -59,7 +59,22 @@ However, this idea was not new, as on the other side of the world, the Indigenou
 - Dreaming is the whole. There is no sub-dreaming. No super-dreaming
 	- On the other hand, a Dao consists of many Dao, and is a part of a bigger Dao
 	- What is [[Determinism|determinism]]
+		- Is totemism "hard" determinism?
+			- It is determined before birth, and it dictates your life
+				- you have to care for country
 
 1. Develop an appreciation of Dreaming as a focus of moral philosophy about being-in-the-world or dasein, and being-qua-being
 2. To make epistemological connections between Dreaming and other moral philosophical accounts of being/Being in story e.g. Aesop's Fables, Genesis, the Gospels and its parables, the Dao
 3. Develop an appreciations of story-telling as a form of knowledge in human life, especially about being, and not just "fiction" e.g. the Jewish Midrash
+
+- IA didn't just come into existence
+	- Determinism is weird because otherwise, can people get punished?
+
+- In Greece
+	- Kairos -> before the world, a mythic time
+		- determinism is kairos-ish, because it is determined by what happened here
+	- Chronos -> the world
+- In IA
+	- The two are inextricably linked, occurring simultaneously
+
+- The flowering of a tree is the sign that yams are ready to be gathered
