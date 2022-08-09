@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ed713424f5b9c3fa",
+        "id": "7d67a20f1e705450",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/How did the Indigenous Australians Get Here.md",
+            "file": "notes/Melting and Boiling points - ane, ene, yne.md",
             "mode": "source",
             "source": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/How did the Indigenous Australians Get Here.md",
+                "file": "notes/Melting and Boiling points - ane, ene, yne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/How did the Indigenous Australians Get Here.md",
+                "file": "notes/Melting and Boiling points - ane, ene, yne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/How did the Indigenous Australians Get Here.md",
+                "file": "notes/Melting and Boiling points - ane, ene, yne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1698177290441969,
+                  "scale": 0.15474933162372193,
                   "close": true
                 }
               }
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "ed713424f5b9c3fa",
+  "active": "0112a032dbd714ba",
   "lastOpenFiles": [
+    "notes/Alkene.md",
+    "notes/Melting and Boiling points - ane, ene, yne.md",
+    "notes/Alkane.md",
+    "notes/Organic Chemistry.md",
     "notes/index.md",
+    "notes/Philosophy.md",
+    "notes/(looks complicated).md",
     "notes/How did the Indigenous Australians Get Here.md",
     "notes/Combustion.md",
-    "notes/Balancing Combustion.md",
-    "notes/Hydrocarbons.md",
-    "notes/(looks complicated).md",
-    "notes/Naming Convention for Alkene.md",
-    "notes/Alkene.md",
-    "notes/Alkane.md",
-    "notes/Untitled.md"
+    "notes/Balancing Combustion.md"
   ]
 }
