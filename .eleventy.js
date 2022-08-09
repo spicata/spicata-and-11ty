@@ -1,7 +1,6 @@
 module.exports = function(eleventyConfig) {
     
     const markdownIt = require('markdown-it');
-    const tm = require('markdown-it-texmath');
     const markdownItOptions = {
         html: true,
         linkify: true
@@ -9,7 +8,7 @@ module.exports = function(eleventyConfig) {
     
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
-    .use(tm, { engine: require('katex'),
+    .use(require('markdown-it-texmath'), { engine: require('katex'),
             delimiters: 'dollars',
             katexOptions: { macros: {"\\RR": "\\mathbb{R}"} } })
     .use(require('markdown-it-attrs'))
