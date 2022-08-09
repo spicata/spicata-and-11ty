@@ -1,7 +1,6 @@
 module.exports = function(eleventyConfig) {
     
     const markdownIt = require('markdown-it');
-    const tm = require('markdown-it-texmath');
     const markdownItOptions = {
         html: true,
         linkify: true
