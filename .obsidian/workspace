@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cf4d73024c7f1773",
+        "id": "66944350a782e9e7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/LaTeX Test.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -68,6 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/LaTeX Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/LaTeX Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/LaTeX Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,9 +151,8 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "cf4d73024c7f1773",
+  "active": "66944350a782e9e7",
   "lastOpenFiles": [
-    "notes/LaTeX Test.md",
     "notes/Naming Conventions for Alkanes.md",
     "notes/Alkane.md",
     "notes/Hydrocarbons.md",
@@ -155,6 +161,7 @@
     "notes/How did the Indigenous Australians Get Here.md",
     "assets/Pasted image 20220805151547.png",
     "notes/Overview of Oceania by A. P. Elkin.md",
-    "notes/Determinism.md"
+    "notes/Determinism.md",
+    "notes/Indigenous Dreaming.md"
   ]
 }
