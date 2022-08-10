@@ -50,8 +50,14 @@ However, this idea was not new, as on the other side of the world, the Indigenou
 	- Instead of keeping track, he can describe every single little thing.
 		- Not 20 rocks, but 20 different things characterised by... something
 ### Ownership
+- They do have ownership, but not excess
+	- In E, that includes land and life
 - No need for excess
 	- Needs are respected
+
+- They belong to the country, not the other way around.
+	- Belongs to the lord (feudalism)
+- Body is owned by the spirit. It is his 
 
 - Universal (similarities) vs Particular (differences)
 - [[Maslow's Hierarchy of Needs]]
