@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "faffefb7a6f376ac",
+        "id": "a74a3566e38f60f4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Enthalpy.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -49,13 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306,
-    "collapsed": true
+    "width": 306
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -72,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Enthalpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Enthalpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +108,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Enthalpy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,12 +150,12 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "faffefb7a6f376ac",
+  "active": "a74a3566e38f60f4",
   "lastOpenFiles": [
-    "assets/Enthalpy Profile Diagram - Exothermic.png",
+    "notes/Enthalpy Profile Diagram - Endothermic.png",
     "notes/Enthalpy.md",
-    "assets/Enthalpy Profile Diagram - Endothermic.png",
     "notes/Thermic Reactions.md",
+    "notes/Enthalpy Profile Diagram - Exothermic.png",
     "notes/Collision Theory.md",
     "index.md",
     "notes/Maslow's Hierarchy of Needs.md",

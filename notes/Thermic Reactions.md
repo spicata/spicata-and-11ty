@@ -10,6 +10,7 @@ In short, exothermic reactions have a loss of [[Enthalpy|enthalpy]] in their sys
 
 To easily determine if a reaction is endothermic or exothermic, the temperature of the surrounding can be measured. If it rises, its exothermic; if it drops, its endothermic
 ### Catalyst
-Catalysts lowers the activation energy that is needed for reaction
+Catalysts lowers the activation energy that is needed for reaction. 
+- are enzymes
 
 ##### [[Collision Theory]]
