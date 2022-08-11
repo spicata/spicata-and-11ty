@@ -23,7 +23,7 @@
 - Strong oral history of ancestors from north
 - Easier to come to Bird's Head than Kimberley
 
-![[Pasted image 20220805151547.png]]
+![[From Sunda to Sahul.png]]
 - 002b found a unique combo of 
 	- Data of people at that time
 	- Weather forecasts

@@ -2,7 +2,7 @@
   "legacyEditor": false,
   "livePreview": false,
   "strictLineBreaks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "showLineNumber": true,
@@ -13,6 +13,6 @@
   "spellcheckLanguages": [
     "en-GB"
   ],
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "showUnsupportedFiles": true
 }
