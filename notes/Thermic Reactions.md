@@ -1,4 +1,4 @@
-# ...thermic
+# ...thermic #raw
 Yet again, we need definitions.
 - A **system** is the reactants and the products of a reaction
 - **Surroundings** is everything outside of the system
@@ -18,5 +18,6 @@ To determine if a reaction is endothermic or exothermic, the temperature is meas
 
 Enthalpy profile diagram. Note that some energy must go into it for more to come out.
 ![[Pasted image 20220810122202.png]]
+![[Pasted image 20220810122650.png]]
 ### Catalyst
-Catalysts decreases the amount of activation energy that is needed for a 
+Catalysts decreases the amount of activation energy that is needed for reaction

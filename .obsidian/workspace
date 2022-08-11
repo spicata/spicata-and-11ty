@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "842e001e0a55d1a9",
+        "id": "70c1d661b29a1e11",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Thermic Reactions.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -72,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Thermic Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +84,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Thermic Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +110,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Thermic Reactions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,8 +120,16 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#raw",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": -1.5,
@@ -151,17 +152,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "842e001e0a55d1a9",
+  "active": "70c1d661b29a1e11",
   "lastOpenFiles": [
-    "notes/Thermic Reactions.md",
-    "notes/Collision Theory.md",
-    "notes/Enthalpy.md",
-    "notes/Thermic reactions.md",
-    "notes/Combustion.md",
-    "notes/index.md",
+    "notes/Maslow's Hierarchy of Needs.md",
+    "notes/Digital Gardens.md",
+    "notes/Overview of Oceania by A. P. Elkin.md",
+    "notes/Indigenous Dreaming.md",
     "notes/How did the Indigenous Australians Get Here.md",
-    "node_modules/send/node_modules/inherits/README.md",
-    "assets/Pasted image 20220805150200.png",
-    "notes/Overview of Oceania by A. P. Elkin.md"
+    "notes/Determinism.md",
+    "notes/Greeks and Democracy.md",
+    "notes/Socrates.md",
+    "notes/Chinese Grammar.md",
+    "notes/Distillation.md"
   ]
 }

@@ -17,3 +17,5 @@ In crude oil processing, a tall column is separated into different trays, which 
 2. It is then fed into the bottom layer of the column; any remaining liquid is collected (bitumen).
 3. As it rises, the temperature drops in each higher tray, so longer hydrocarbons condense.
 4. This processes repeat with shorter and shorter hydrocarbons as the height of the column increases.
+
+##### [[Organic Chemistry]]

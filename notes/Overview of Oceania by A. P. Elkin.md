@@ -1,4 +1,4 @@
-# Oceania by A. P. Elkin
+# Oceania by A. P. Elkin #raw
 > Is there an Indigenous Philosophy? - (essentially) Elkin
 
 Elkins posits that humans adapted to their environment not only physically, but also mentally; stating that humans across every culture has developed a theory about the world around them since pre-literate times[^2]. This is the roots of religion and philosophy - an aspect of human culture that, although widespread, is never the same. Seemingly inevitably, cosmogony and cosmology was formed over time.

@@ -1,4 +1,4 @@
-# Determinism
+# Determinism #raw
 Determinism is the philosophical belief that everything happens as a result of cause and effect (causally), and thus all human decisions and actions are causally inevitable; this entails that it is impossible for people to have choice the "other choice".
 - Incompatible with free will
 	- "Hard" determinists
