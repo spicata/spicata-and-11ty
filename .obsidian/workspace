@@ -7,8 +7,12 @@
         "id": "70c1d661b29a1e11",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Enthalpy.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -68,6 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Enthalpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Enthalpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/Enthalpy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,15 +161,15 @@
   },
   "active": "70c1d661b29a1e11",
   "lastOpenFiles": [
+    "notes/Thermic Reactions.md",
+    "notes/Enthalpy.md",
+    "notes/Collision Theory.md",
     "notes/Maslow's Hierarchy of Needs.md",
     "notes/Digital Gardens.md",
     "notes/Overview of Oceania by A. P. Elkin.md",
     "notes/Indigenous Dreaming.md",
     "notes/How did the Indigenous Australians Get Here.md",
     "notes/Determinism.md",
-    "notes/Greeks and Democracy.md",
-    "notes/Socrates.md",
-    "notes/Chinese Grammar.md",
-    "notes/Distillation.md"
+    "notes/Greeks and Democracy.md"
   ]
 }

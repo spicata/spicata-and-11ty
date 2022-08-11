@@ -1,4 +1,4 @@
-# Collision Theory
+# Collision Theory #raw
 - Particles must collide for reactions to occur
 - They must also have enough energy
 	- This is called activation energy
