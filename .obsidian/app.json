@@ -2,12 +2,15 @@
   "legacyEditor": false,
   "livePreview": false,
   "strictLineBreaks": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "showLineNumber": true,
   "promptDelete": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "spellcheckLanguages": [
+    "en-GB"
+  ]
 }

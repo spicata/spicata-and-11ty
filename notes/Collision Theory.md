@@ -3,7 +3,11 @@ The collision theory was proposed by both **Max Trautz** in 1916 and **William L
 1. The particles must collide with enough energy (activation energy)
 2. They must the right orientation for some reactions
 
-Due to collision theory
+Due to collision theory, there are some factors that influence reaction rate:
+- Concentration of the reactants;
+- Temperature;
+- Surface area; and
+- Presence of catalyst
 - Particles must collide for reactions to occur
 - They must also have enough energy
 	- This is called activation energy
