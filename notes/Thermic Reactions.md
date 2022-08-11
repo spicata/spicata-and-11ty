@@ -12,5 +12,6 @@ To easily determine if a reaction is endothermic or exothermic, the temperature 
 ### Catalyst
 Catalysts lowers the activation energy that is needed for reaction. 
 - are enzymes
+- 
 
 ##### [[Collision Theory]]

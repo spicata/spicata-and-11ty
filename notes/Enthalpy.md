@@ -9,5 +9,5 @@ When describing the enthalpy change from a reaction, please write it in the form
 ## Diagrams
 Enthalpy profile diagram. Note that some energy must go into it for more to come out.
 
-![](Enthalpy%20Profile%20Diagram%20-%20Endothermic.png)
-![](Enthalpy%20Profile%20Diagram%20-%20Exothermic.png)
+![](/notes/Enthalpy%20Profile%20Diagram%20-%20Endothermic.png)
+![](/notes/Enthalpy%20Profile%20Diagram%20-%20Exothermic.png)

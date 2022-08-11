@@ -12,5 +12,7 @@
   "attachmentFolderPath": "assets",
   "spellcheckLanguages": [
     "en-GB"
-  ]
+  ],
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
 }
