@@ -1,5 +1,5 @@
 # ...thermic #raw
-Yet again, we need definitions.
+Yet again, we meet definitions. I wonder when we will actually get a definitions page.
 - A **system** is the reactants and the products of a reaction
 - **Surroundings** is everything outside of the system
 
