@@ -79,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Science Inquiry Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Science Inquiry Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/Science Inquiry Skills.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,17 +175,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "a08472d533e10105",
+  "active": "a084779aeaaea367",
   "lastOpenFiles": [
+    "assets/Carbon Cycle.png",
+    "assets/Different Coals.png",
+    "notes/Science Inquiry Skills.md",
     "assets/Formation of Anthracite.png",
     "assets/Creation of Oil and Gas.png",
     "notes/Enthalpy Profile Diagram - Endothermic.png",
     "notes/Enthalpy Profile Diagram - Exothermic.png",
     "assets/Pasted image 20220810122148.png",
-    "notes/Science Inquiry Skills.md",
     "notes/index.md",
-    "notes/Enthalpy.md",
-    "notes/Catalyst.md",
-    "notes/Thermic Reactions.md"
+    "notes/Enthalpy.md"
   ]
 }

@@ -23,7 +23,7 @@
 	- This is since fossil fuels are the remnants of ancient animals and plants
 ### Fossil Fuels
 #### Coal
-![[Pasted image 20220725135421.png]]
+![[Different Coals.png]]
 - Coals are seperated into 4 types:
 	- Anthracite, these are awesome;
 	- Bituminous, these are good enough;
@@ -57,7 +57,7 @@
 
 > Oops
 
-![[Pasted image 20220725141635.png]]
+![[Carbon Cycle.png]]
 Carbon Cycle
 1. Sun produces infrared radiation
 2. Some infrared radiation reflects off the atmosphere into *space*

@@ -8,5 +8,16 @@
 
 **Accuracy** is the degree of closeness of measurements of a quantity to its actual true value.
 
-### Hypothesis
-In a hypothesis, please do not use "amount", instead use "number", and whatever you DO NOT USE "BECAUSE"
+## Hypothesis
+In a hypothesis, please do not use "amount", instead use "number", and whatever you DO NOT USE "BECAUSE".
+## Scientific Method
+### Graphing Rules
+1. The **independent** variable must go on the *x-axis*, **dependent** variable must go on the *y-axis*.
+2. Give your graph a **title**
+3. **Label** each axis
+4. Plot with **small dots**
+5. Use sharp pencil and ruler
+6. Use more than **half the space**
+7. Use a **key**
+### Writing Methods
+Write all materials in a list
