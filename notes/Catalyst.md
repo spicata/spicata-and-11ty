@@ -1,0 +1,2 @@
+# Catalyst
+Catalysts are commonly understood as an enzyme that makes a reaction take place faster. Although this is true, more accurately, a catalyst is an enzyme that lowers the activation energy that is needed for reaction.

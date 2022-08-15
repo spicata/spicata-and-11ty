@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa16c3209b22336",
+        "id": "a084779aeaaea367",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "notes/Enthalpy Profile Diagram - Exothermic.png"
+            "file": "notes/Science Inquiry Skills.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Enthalpy Profile Diagram - Exothermic.png",
+                "file": "notes/Science Inquiry Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Enthalpy Profile Diagram - Exothermic.png",
+                "file": "notes/Science Inquiry Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Enthalpy Profile Diagram - Exothermic.png",
+                "file": "notes/Science Inquiry Skills.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +155,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.15474933162372193,
+                  "scale": 0.33237945900667787,
                   "close": true
                 }
               }
@@ -165,17 +167,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "9fa16c3209b22336",
+  "active": "a084779aeaaea367",
   "lastOpenFiles": [
-    "notes/Thermic Reactions.md",
-    "notes/Enthalpy Profile Diagram - Exothermic.png",
     "notes/Enthalpy.md",
+    "notes/Catalyst.md",
+    "notes/Thermic Reactions.md",
     "notes/Collision Theory.md",
+    "notes/Enthalpy Profile Diagram - Exothermic.png",
     "notes/Enthalpy Profile Diagram - Endothermic.png",
     "notes/Enthalpy Profile Diagram - Endothermic.png.md",
     "notes/How did the Indigenous Australians Get Here.md",
     "assets/From Sunda to Sahul.png",
-    "index.md",
-    "notes/Maslow's Hierarchy of Needs.md"
+    "index.md"
   ]
 }
