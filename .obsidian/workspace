@@ -14,6 +14,14 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "a08472d533e10105",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Science Inquiry Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Science Inquiry Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Science Inquiry Skills.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +160,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.33237945900667787,
+                  "scale": 0.22631551989107213,
                   "close": true
                 }
               }
@@ -167,17 +172,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "a084779aeaaea367",
+  "active": "a08472d533e10105",
   "lastOpenFiles": [
+    "assets/Formation of Anthracite.png",
+    "assets/Creation of Oil and Gas.png",
+    "notes/Enthalpy Profile Diagram - Endothermic.png",
+    "notes/Enthalpy Profile Diagram - Exothermic.png",
+    "assets/Pasted image 20220810122148.png",
+    "notes/Science Inquiry Skills.md",
+    "notes/index.md",
     "notes/Enthalpy.md",
     "notes/Catalyst.md",
-    "notes/Thermic Reactions.md",
-    "notes/Collision Theory.md",
-    "notes/Enthalpy Profile Diagram - Exothermic.png",
-    "notes/Enthalpy Profile Diagram - Endothermic.png",
-    "notes/Enthalpy Profile Diagram - Endothermic.png.md",
-    "notes/How did the Indigenous Australians Get Here.md",
-    "assets/From Sunda to Sahul.png",
-    "index.md"
+    "notes/Thermic Reactions.md"
   ]
 }

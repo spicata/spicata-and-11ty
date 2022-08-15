@@ -30,7 +30,7 @@
 	- Sub-bituminous, these are not great; and
 	- Lignite, these are bad.
 
-![[Pasted image 20220725135546.png]]
+![[Formation of Anthracite.png]]
 - Coal Formation
 - There are large deposits of coal in USA, Russia, China, India, and Australia
 #### Crude Oil
@@ -42,7 +42,7 @@
 	- Heating Oil; and
 	- Jet Fuel
 
-![[Pasted image 20220725140142.png]]
+![[Creation of Oil and Gas.png]]
 - Kerogen -> Oil 
 - Reservoirs
 - Ancient organisms (such as plankton) die and settle on the ocean floor, where they turn into **kerogen** and eventually the extremely sought after **oil**

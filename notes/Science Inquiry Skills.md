@@ -6,4 +6,7 @@
 
 **Validity** is the extent to which the tests measure what was intended, which can be achieved by using *control variables* and *control groups*.
 
-**Accuracy**
+**Accuracy** is the degree of closeness of measurements of a quantity to its actual true value.
+
+### Hypothesis
+In a hypothesis, please do not use "amount", instead use "number", and whatever you DO NOT USE "BECAUSE"
