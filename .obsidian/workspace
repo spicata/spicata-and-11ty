@@ -14,14 +14,6 @@
             "source": true
           }
         }
-      },
-      {
-        "id": "a08472d533e10105",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -163,7 +155,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.22631551989107213,
+                  "scale": 0.15215689812563088,
                   "close": true
                 }
               }
@@ -175,11 +167,11 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "a084779aeaaea367",
+  "active": "8a5788f01af9efc6",
   "lastOpenFiles": [
+    "notes/Science Inquiry Skills.md",
     "assets/Carbon Cycle.png",
     "assets/Different Coals.png",
-    "notes/Science Inquiry Skills.md",
     "assets/Formation of Anthracite.png",
     "assets/Creation of Oil and Gas.png",
     "notes/Enthalpy Profile Diagram - Endothermic.png",
