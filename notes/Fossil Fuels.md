@@ -22,6 +22,7 @@
 	- Jet Fuel
 
 <img src="https://mint-garden.netlify.app/assets/Creation-of-Oil-and-Gas.png">
+
 - Kerogen -> Oil 
 - Reservoirs
 - Ancient organisms (such as plankton) die and settle on the ocean floor, where they turn into **kerogen** and eventually the extremely sought after **oil**
