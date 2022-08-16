@@ -14,6 +14,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "f5f90d154fe5402e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Template/Image Template.md",
+            "mode": "source",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Fossil Fuels.md",
+                "file": "Template/Image Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Fossil Fuels.md",
+                "file": "Template/Image Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Fossil Fuels.md",
+                "file": "Template/Image Template.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,10 +179,10 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "0b8acc42b4e5d5ab",
+  "active": "f5f90d154fe5402e",
   "lastOpenFiles": [
-    "assets/Creation-of-Oil-and-Gas.png",
     "notes/Fossil Fuels.md",
+    "assets/Creation-of-Oil-and-Gas.png",
     "assets/Formation-of-Anthracite.png",
     "Template/Image Template.md",
     "notes/Effect on Environment.md",

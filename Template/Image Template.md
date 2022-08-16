@@ -1,1 +1,1 @@
-<img src="https://mint-garden.netlify.app/assets/.png">
+<img src="https://mint-garden.netlify.app/assets/.png" style="width:100%;height:100%">
