@@ -8,7 +8,7 @@ When describing the enthalpy change from a reaction, please write it in the form
 
 ## Diagrams
 Enthalpy profile diagram. Note that some energy must go into it for more to come out.
-![[Enthalpy Profile Diagram - Exothermic.png]]
-![[Enthalpy Profile Diagram - Endothermic.png]]
+<img src="https://mint-garden.netlify.app/assets/Enthalpy-Profile-Diagram-Exothermic.png" style="width:100%;height:100%">
+<img src="https://mint-garden.netlify.app/assets/Enthalpy-Profile-Diagram-Endothermic.png" style="width:100%;height:100%">
 
 ##### [[Catalyst]]

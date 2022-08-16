@@ -1,5 +1,5 @@
 # How did the Indigenous Australians Get Here #raw
-![[Pasted image 20220805150200.png]]
+<img src="https://mint-garden.netlify.app/assets/Sunda-Sahul.png" style="width:100%;height:100%">
 
 ## 001
 - There was never a land bridge between Australia and Asia after 120,000 years ago
@@ -23,7 +23,8 @@
 - Strong oral history of ancestors from north
 - Easier to come to Bird's Head than Kimberley
 
-![[From Sunda to Sahul.png]]
+<img src="https://mint-garden.netlify.app/assets/From-Sunda-to-Sahul.png" style="width:100%;height:100%">
+
 - 002b found a unique combo of 
 	- Data of people at that time
 	- Weather forecasts

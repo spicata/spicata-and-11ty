@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b8acc42b4e5d5ab",
+        "id": "9de86328598d91ec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Fossil Fuels.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "f5f90d154fe5402e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Template/Image Template.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "![[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +45,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -83,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Image Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Image Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +118,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Image Template.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,17 +160,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "f5f90d154fe5402e",
+  "active": "9de86328598d91ec",
   "lastOpenFiles": [
-    "notes/Fossil Fuels.md",
-    "assets/Creation-of-Oil-and-Gas.png",
-    "assets/Formation-of-Anthracite.png",
-    "Template/Image Template.md",
-    "notes/Effect on Environment.md",
-    "notes/Energy.md",
+    "notes/Hydrocarbons.md",
+    "assets/Alk-ane-ene-yne.png",
+    "notes/How did the Indigenous Australians Get Here.md",
+    "assets/From-Sunda-to-Sahul.png",
+    "assets/Sunda-Sahul.png",
     "notes/Enthalpy.md",
-    "assets/Different-Coals.png",
-    "about.md",
-    "notes/Science Inquiry Skills.md"
+    "notes/Enthalpy-Profile-Diagram-Endothermic.png",
+    "notes/Enthalpy-Profile-Diagram-Exothermic.png",
+    "notes/Alkene.md",
+    "notes/Alkyne.md"
   ]
 }

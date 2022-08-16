@@ -3,7 +3,8 @@
 
 > Oops
 
-![[Carbon Cycle.png]]
+<img src="https://mint-garden.netlify.app/assets/Carbon-Cycle.png" style="width:100%;height:100%">
+
 Carbon Cycle
 1. Sun produces infrared radiation
 2. Some infrared radiation reflects off the atmosphere into *space*

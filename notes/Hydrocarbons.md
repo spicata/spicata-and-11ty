@@ -12,7 +12,7 @@ Name | Functional Group
 [[Alkene]] | At least one double bond, minimum 2 carbons
 [[Alkyne]] | At least one triple bond, minimum 2 carbons
 
-![[Pasted image 20220801113212.png]]
+<img src="https://mint-garden.netlify.app/assets/Alk-ane-ene-yne.png" style="width:100%;height:100%">
 
 ---
 Carbon is essential to hydrocarbons ~~who could have thought~~, and thus it is essential to know some properties of carbon. Carbon has a bonding capacity of 4, meaning that it can covalently share one electron with 4 other atoms, creating 4 single bonds. This is why alkanes have their distinct shape.

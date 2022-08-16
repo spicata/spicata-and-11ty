@@ -5,7 +5,8 @@ General formula:
 C<sub>n</sub>H<sub>2n</sub>
 
 ## Cis and trans
-![[Pasted image 20220804145031.png]]
+<img src="https://mint-garden.netlify.app/assets/Cis-Trans.png" style="width:100%;height:100%">
+
 Unlike single bonds, double bonds cannot be rotated, thus, there are difference depending 
 - cis -> CH<sub>3</sub> are on the same side
 - trans -> CH<sub>3</sub> on opposite sides
