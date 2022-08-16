@@ -45,12 +45,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -162,14 +162,14 @@
   },
   "active": "9de86328598d91ec",
   "lastOpenFiles": [
+    "assets/Enthalpy-Profile-Diagram-Exothermic.png",
+    "assets/Enthalpy-Profile-Diagram-Endothermic.png",
+    "notes/Enthalpy.md",
     "notes/Hydrocarbons.md",
     "assets/Alk-ane-ene-yne.png",
     "notes/How did the Indigenous Australians Get Here.md",
     "assets/From-Sunda-to-Sahul.png",
     "assets/Sunda-Sahul.png",
-    "notes/Enthalpy.md",
-    "notes/Enthalpy-Profile-Diagram-Endothermic.png",
-    "notes/Enthalpy-Profile-Diagram-Exothermic.png",
     "notes/Alkene.md",
     "notes/Alkyne.md"
   ]
