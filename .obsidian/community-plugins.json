@@ -5,5 +5,8 @@
   "obsidian-pandoc",
   "persistent-graph",
   "obsidian-style-settings",
-  "obsidian-html-tags-autocomplete"
+  "obsidian-html-tags-autocomplete",
+  "obsidian-better-command-palette",
+  "obsidian-better-internal-link-inserter",
+  "quick-latex"
 ]

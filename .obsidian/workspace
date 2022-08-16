@@ -9,10 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Naming Convention for Alkene.md",
+            "file": "notes/MathJax.md",
             "mode": "source",
             "source": true
           }
+        }
+      },
+      {
+        "id": "e60856c5424aed93",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -71,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Naming Convention for Alkene.md",
+                "file": "notes/MathJax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Naming Convention for Alkene.md",
+                "file": "notes/MathJax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Naming Convention for Alkene.md",
+                "file": "notes/MathJax.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,10 +175,10 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "9031433c1cc68c4f",
+  "active": "ce489c5679506979",
   "lastOpenFiles": [
-    "assets/3-methylbut-1-ane.png",
     "notes/Naming Convention for Alkene.md",
+    "assets/3-methylbut-1-ane.png",
     "notes/Maslow's Hierarchy of Needs.md",
     "assets/Maslows-Heirarchy.png",
     "notes/Science Inquiry Skills.md",
