@@ -4,19 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e4bdea416b4d5ca2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Effect on Environment.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3d29ad248004d7ba",
+        "id": "0b8acc42b4e5d5ab",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -179,17 +167,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "3d29ad248004d7ba",
+  "active": "0b8acc42b4e5d5ab",
   "lastOpenFiles": [
-    "notes/Energy.md",
-    "notes/Effect on Environment.md",
+    "assets/Creation-of-Oil-and-Gas.png",
     "notes/Fossil Fuels.md",
+    "assets/Formation-of-Anthracite.png",
+    "Template/Image Template.md",
+    "notes/Effect on Environment.md",
+    "notes/Energy.md",
     "notes/Enthalpy.md",
     "assets/Different-Coals.png",
     "about.md",
-    "notes/Science Inquiry Skills.md",
-    "notes/How did the Indigenous Australians Get Here.md",
-    "notes/Combustion.md",
-    "assets/Model Table.png"
+    "notes/Science Inquiry Skills.md"
   ]
 }

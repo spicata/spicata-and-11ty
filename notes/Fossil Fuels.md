@@ -1,7 +1,6 @@
 # Fossil Fuels #raw
 ## Coal
-![[Different-Coals.png]]
-<iframe src="https://mint-garden.netlify.app/assets/Different-Coals.png"></iframe>
+<img src="https://mint-garden.netlify.app/assets/Different-Coals.png">
 
 - Coals are separated into 4 types:
 	- Anthracite, these are awesome;
@@ -9,7 +8,8 @@
 	- Sub-bituminous, these are not great; and
 	- Lignite, these are bad.
 
-![[Formation of Anthracite.png]]
+<img src="https://mint-garden.netlify.app/assets/Formation-of-Anthracite.png">
+
 - Coal Formation
 - There are large deposits of coal in USA, Russia, China, India, and Australia
 ## Crude Oil
@@ -21,7 +21,7 @@
 	- Heating Oil; and
 	- Jet Fuel
 
-![[Creation of Oil and Gas.png]]
+<img src="https://mint-garden.netlify.app/assets/Creation-of-Oil-and-Gas.png">
 - Kerogen -> Oil 
 - Reservoirs
 - Ancient organisms (such as plankton) die and settle on the ocean floor, where they turn into **kerogen** and eventually the extremely sought after **oil**
