@@ -1,6 +1,8 @@
 # Fossil Fuels #raw
 ## Coal
 ![[Different-Coals.png]]
+<iframe src="https://www.mint-garden.netlify.app/assets/Different-Coals.png"></iframe>
+
 - Coals are separated into 4 types:
 	- Anthracite, these are awesome;
 	- Bituminous, these are good enough;

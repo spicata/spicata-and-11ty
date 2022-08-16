@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Energy.md",
+            "file": "notes/Fossil Fuels.md",
             "mode": "source",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Energy.md",
+                "file": "notes/Fossil Fuels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Energy.md",
+                "file": "notes/Fossil Fuels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Energy.md",
+                "file": "notes/Fossil Fuels.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,9 +181,9 @@
   },
   "active": "3d29ad248004d7ba",
   "lastOpenFiles": [
+    "notes/Energy.md",
     "notes/Effect on Environment.md",
     "notes/Fossil Fuels.md",
-    "notes/Energy.md",
     "notes/Enthalpy.md",
     "assets/Different-Coals.png",
     "about.md",
