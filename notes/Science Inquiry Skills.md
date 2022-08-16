@@ -49,6 +49,7 @@ Method should be clear enough so that another person should be able to replicate
 You write your observations here. They can be qualitative or quantitate. Use tables here.
 
 <img src="https://mint-garden.netlify.app/assets/Model-Table.png" style="width:100%;height:100%">
+
 ### Discussion
 Describe trends and patterns in your results, and support it with evidence, and refer to your background information here.
 
