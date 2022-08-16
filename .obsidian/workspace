@@ -7,8 +7,12 @@
         "id": "9de86328598d91ec",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Science Inquiry Skills.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Science Inquiry Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Science Inquiry Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/Science Inquiry Skills.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,15 +169,15 @@
   },
   "active": "9de86328598d91ec",
   "lastOpenFiles": [
+    "assets/Model-Table.png",
+    "notes/Science Inquiry Skills.md",
+    "about.md",
+    "notes/About these Notes.md",
     "assets/Enthalpy-Profile-Diagram-Exothermic.png",
     "assets/Enthalpy-Profile-Diagram-Endothermic.png",
     "notes/Enthalpy.md",
     "notes/Hydrocarbons.md",
     "assets/Alk-ane-ene-yne.png",
-    "notes/How did the Indigenous Australians Get Here.md",
-    "assets/From-Sunda-to-Sahul.png",
-    "assets/Sunda-Sahul.png",
-    "notes/Alkene.md",
-    "notes/Alkyne.md"
+    "notes/How did the Indigenous Australians Get Here.md"
   ]
 }
