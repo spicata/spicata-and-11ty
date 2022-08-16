@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "db33f830b5bbf07f",
+        "id": "570eeaa9e9422b87",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Science Inquiry Skills.md",
+            "file": "about.md",
             "mode": "source",
             "source": true
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Science Inquiry Skills.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Science Inquiry Skills.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Science Inquiry Skills.md",
+                "file": "about.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,17 +167,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "9031433c1cc68c4f",
+  "active": "570eeaa9e9422b87",
   "lastOpenFiles": [
-    "assets/Model Table.png",
     "notes/Science Inquiry Skills.md",
+    "notes/How did the Indigenous Australians Get Here.md",
+    "notes/Combustion.md",
+    "assets/Model Table.png",
     "CONTRIBUTING.md",
     "assets/Carbon Cycle.png",
     "assets/Different Coals.png",
     "assets/Formation of Anthracite.png",
     "assets/Creation of Oil and Gas.png",
-    "notes/Enthalpy Profile Diagram - Endothermic.png",
-    "notes/Enthalpy Profile Diagram - Exothermic.png",
-    "assets/Pasted image 20220810122148.png"
+    "notes/Enthalpy Profile Diagram - Endothermic.png"
   ]
 }
