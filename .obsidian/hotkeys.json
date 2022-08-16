@@ -1,13 +1,5 @@
 {
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
+  "app:delete-file": [],
   "app:go-back": [
     {
       "modifiers": [
