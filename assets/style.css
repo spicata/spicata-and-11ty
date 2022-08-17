@@ -123,6 +123,10 @@ table {
     width: 100%;
 }
 
+img {
+    align-self: center;
+}
+
 /* --- Colours --- */
 p,
 li,

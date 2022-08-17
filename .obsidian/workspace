@@ -14,18 +14,6 @@
             "source": true
           }
         }
-      },
-      {
-        "id": "f847bd6599d56b37",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Template/Image Template.md",
-            "mode": "source",
-            "source": true
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Image Template.md",
+                "file": "notes/Alkene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Image Template.md",
+                "file": "notes/Alkene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Image Template.md",
+                "file": "notes/Alkene.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,10 +168,10 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "f847bd6599d56b37",
+  "active": "7b7ee06da707c6e6",
   "lastOpenFiles": [
-    "notes/Alkene.md",
     "Template/Image Template.md",
+    "notes/Alkene.md",
     "notes/Energy Consumption.md",
     "notes/Food for Thought.md",
     "notes/Metamorphosis by Franz Kafka.md",
