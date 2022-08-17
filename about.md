@@ -8,5 +8,6 @@ Just a plant making a website.
 Email: pixelandian@gmail.com
 
 Discord: spicata#9966
-## Better Notes Group
-https://edsobsidiannotes.netlify.app/
+## Note Group
+- https://mint-garden.netlify.app/ by spicata
+- https://edsobsidiannotes.netlify.app/ by Edward

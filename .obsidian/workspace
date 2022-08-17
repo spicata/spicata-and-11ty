@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/MathJax.md",
+            "file": "about.md",
             "mode": "source",
             "source": true
           }
@@ -79,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MathJax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MathJax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +130,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/MathJax.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,17 +172,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "ce489c5679506979",
+  "active": "e60856c5424aed93",
   "lastOpenFiles": [
+    "about.md",
+    "notes/MathJax.md",
     "notes/Naming Convention for Alkene.md",
     "assets/3-methylbut-1-ane.png",
     "notes/Maslow's Hierarchy of Needs.md",
     "assets/Maslows-Heirarchy.png",
     "notes/Science Inquiry Skills.md",
     "assets/Model-Table.png",
-    "about.md",
     "notes/About these Notes.md",
-    "assets/Enthalpy-Profile-Diagram-Exothermic.png",
-    "assets/Enthalpy-Profile-Diagram-Endothermic.png"
+    "assets/Enthalpy-Profile-Diagram-Exothermic.png"
   ]
 }
