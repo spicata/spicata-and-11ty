@@ -1,6 +1,6 @@
 # Fossil Fuels #raw
 ## Coal
-<img src="https://mint-garden.netlify.app/assets/Different-Coals.png" style="width:100%;height:100%">
+<img src="https://mint-garden.netlify.app/assets/Different-Coals.png" style="max-width:100%;height:auto">
 
 - Coals are separated into 4 types:
 	- Anthracite, these are awesome;
@@ -8,7 +8,7 @@
 	- Sub-bituminous, these are not great; and
 	- Lignite, these are bad.
 
-<img src="https://mint-garden.netlify.app/assets/Formation-of-Anthracite.png" style="width:100%;height:100%">
+<img src="https://mint-garden.netlify.app/assets/Formation-of-Anthracite.png" style="max-width:100%;height:auto">
 
 - Coal Formation
 - There are large deposits of coal in USA, Russia, China, India, and Australia
@@ -21,7 +21,7 @@
 	- Heating Oil; and
 	- Jet Fuel
 
-<img src="https://mint-garden.netlify.app/assets/Creation-of-Oil-and-Gas.png" style="width:100%;height:100%">
+<img src="https://mint-garden.netlify.app/assets/Creation-of-Oil-and-Gas.png" style="max-width:100%;height:auto">
 
 - Kerogen -> Oil 
 - Reservoirs

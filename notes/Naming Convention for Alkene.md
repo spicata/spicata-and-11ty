@@ -3,7 +3,7 @@
 - It is numbered from the end which the C=C is closer
 	- But-2-ene
 
-<img src="https://mint-garden.netlify.app/assets/3-methylbut-1-ene.png" style="width:100%;height:100%">
+<img src="https://mint-garden.netlify.app/assets/3-methylbut-1-ene.png" style="max-width:100%;height:auto">
 
 3-methylbut-1-ene
 

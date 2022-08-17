@@ -3,7 +3,7 @@
 
 > Oops
 
-<img src="https://mint-garden.netlify.app/assets/Carbon-Cycle.png" style="width:100%;height:100%">
+<img src="https://mint-garden.netlify.app/assets/Carbon-Cycle.png" style="max-width:100%;height:auto">
 
 Carbon Cycle
 1. Sun produces infrared radiation

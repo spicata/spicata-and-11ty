@@ -1,7 +1,7 @@
 # Socrates
->"The unexamined life is not worth living" - Socrates
+> “The unexamined life is not worth living” - Socrates
 
-Socrates was born in Athens, Greece in 470 BC, well known for being put to death for his philosophy (399 BC). Most everything we know about Socrates was due to the *Socratic dialogue* by Plato.
+Socrates was born in Athens, Greece in 470 BC, well known for being put to death for his philosophy (399 BC). Most everything we know about Socrates was due to the *Socratic dialogue* by Plato. 
 
 ---
 Socrates believed that thinking logically would benefit humanity. He observed that his fellow Athenians often simply followed other - the majority or those of power. Instead, he believed that people should be confident in their own beliefs. 

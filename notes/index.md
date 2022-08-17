@@ -9,3 +9,4 @@ Learn:
 
 Brush up on:
 - [[Science Inquiry Skills]]
+- [[Food for Thought]]

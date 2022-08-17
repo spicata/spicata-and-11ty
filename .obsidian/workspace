@@ -4,23 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ce489c5679506979",
+        "id": "7b7ee06da707c6e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "notes/Alkene.md",
             "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "e60856c5424aed93",
+        "id": "f847bd6599d56b37",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Template/Image Template.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "img",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Template/Image Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Template/Image Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Template/Image Template.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,17 +180,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "e60856c5424aed93",
+  "active": "f847bd6599d56b37",
   "lastOpenFiles": [
-    "about.md",
-    "notes/MathJax.md",
-    "notes/Naming Convention for Alkene.md",
-    "assets/3-methylbut-1-ane.png",
-    "notes/Maslow's Hierarchy of Needs.md",
-    "assets/Maslows-Heirarchy.png",
-    "notes/Science Inquiry Skills.md",
-    "assets/Model-Table.png",
-    "notes/About these Notes.md",
-    "assets/Enthalpy-Profile-Diagram-Exothermic.png"
+    "notes/Alkene.md",
+    "Template/Image Template.md",
+    "notes/Energy Consumption.md",
+    "notes/Food for Thought.md",
+    "notes/Metamorphosis by Franz Kafka.md",
+    "notes/index.md",
+    "notes/Energy.md",
+    "index.md",
+    "notes/Socrates.md",
+    "notes/Philosophy.md"
   ]
 }
