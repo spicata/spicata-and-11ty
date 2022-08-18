@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7ee06da707c6e6",
+        "id": "ac1cb1932d7a9f3c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Alkene.md",
+            "file": "notes/Indigenous Dreaming.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "img",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Alkene.md",
+                "file": "notes/Indigenous Dreaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Alkene.md",
+                "file": "notes/Indigenous Dreaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Alkene.md",
+                "file": "notes/Indigenous Dreaming.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -156,7 +156,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.15215689812563088,
+                  "scale": 0.2568874310905239,
                   "close": true
                 }
               }
@@ -168,17 +168,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "7b7ee06da707c6e6",
+  "active": "ac1cb1932d7a9f3c",
   "lastOpenFiles": [
-    "Template/Image Template.md",
+    "notes/Overview of Oceania by A. P. Elkin.md",
+    "notes/Indigenous Dreaming.md",
+    "notes/Philosophy.md",
+    "notes/index.md",
+    "notes/TO BE NAMED.md",
     "notes/Alkene.md",
+    "Template/Image Template.md",
     "notes/Energy Consumption.md",
     "notes/Food for Thought.md",
-    "notes/Metamorphosis by Franz Kafka.md",
-    "notes/index.md",
-    "notes/Energy.md",
-    "index.md",
-    "notes/Socrates.md",
-    "notes/Philosophy.md"
+    "notes/Metamorphosis by Franz Kafka.md"
   ]
 }

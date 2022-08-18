@@ -1,3 +1,6 @@
+---
+banner: "![[img30.jpg]]"
+---
 # The Dreaming #raw
 - The Dreaming is very sophisticated
 - Moral point of view (care of the soul)
@@ -17,31 +20,28 @@
 - English is not great at representing Aboriginal culture [^2]
 ## Aboriginal Spirituality
 ### Animism
-Aboriginal Spirituality is animistic, meaning that there are intangible spirits that affect the course of nature
-- Nothing is inanimate
-- Human = nature = animals
-	- Respect
-- Respect for spirits creates gain
-	- Rain, hunting, eg
-- Disrespect causes loss [^1]
+: (noun) the attribution of souls to inanimate objects
+
+Aboriginal spirituality is animistic, which entails the attribution of spirits to nature, that can affect the course of it. This puts humans, nature, and animals on equal footing, thus respect is formed.
+
+Respect for the spirits creates gain for society, such that it may bring about rain or aid in hunting. Additionally, disrespect causes loss; an unbountiful harvest, an unfruitful hunt.
 
 ---
-- Pre-industrial communities have to take care of the environment
-	- *Not that they can do much to it though*
-- Animals and plants are living, breathing things; not resources to be used.
-- Everything is connected
-	- For the community [^2]
+Since Aboriginal communities were pre-industrial, the needed to take care of the environment, and treat animals and plants as living, breathing things; not resources to be used.
+### The Law
+*The Law*, also known as *The Lore* or *Aboriginal Customary Law* is a social contract that Aboriginal societies live by. These include things that people must or must not do, and, unlike European societies with their court structures, it is decided upon by the Elders of a community.
 ### Cosmogony
+
 - How the Earth came to be
 	- Explored in 'Dreamtime'
 		- Many deities (part human (mind), part animal (body), part supernatural (powers)) form the Universe
 - Interactions between deities (spirits?) made the Earth the way it is
 - Everything is made for a reason [^1]
 #### What is the Dreaming
-- In the beginning, the world was very "mixed up", very different to what it is now.
-- Ancestor (anthropomorphs) brought the world into order (from chaos)
-- They made life:
-	- Geographical features, animals, and humans, are all descendants of these ancestors [^2]
+The Dreaming, or the Dreamtime, is the Aboriginal's understanding of the world and its creation. It goes:
+> In the beginning, the world was very "mixed up", very different to what it is now, however, grand ancestor — anthropomorphs — brought the world into order. Geographical features, animals, and humans, are all descendants of these ancestors
+
+Thus totemism and animism are born.
 ### Earthly
 - It is sustainable, strict social contracts for life
 	- Respect of kin, of land, and for spirits
@@ -50,13 +50,9 @@ Aboriginal Spirituality is animistic, meaning that there are intangible spirits 
 ---
 - Equally as complex as other religions
 ### Totemic
-> A totem might make you a steward of a part of the environment.
+: (noun) relating to or resembling a totem or totems.
 
-- Totems are an inherited thing that represents a spirit
-	- Defines person's role in life
-- Responsible for the totems
-- Very important
-	- Can be decided before birth [^1]
+A totem is an inherited thing that represents a spirit, that defines person's role in life. A totem might make you a steward of a part of the environment; thus people are responsible for them. Interestingly, these totem can be decided before births.
 
 ---
 - Resting places and descendants of the great beings became totems
@@ -91,7 +87,7 @@ Aboriginal Spirituality is animistic, meaning that there are intangible spirits 
 - Religious practices inform actions in a Aboriginal person's day to day life.
 	- Known as "The Law" [^2]
 
-##### [[Overview of Oceania by A. P. Elkin]] [[Philosophy]]
+##### [[Overview of Oceania by A. P. Elkin]] / [[Philosophy]]
 
 [^1]: [Aboriginal spirituality | Australians Together](https://australianstogether.org.au/discover/indigenous-culture/aboriginal-spirituality)
 [^2]:[Aboriginal Wisdom & Philosophy | Culture | Awabakal | AMRHD | The University of Newcastle | Australia](https://downloads.newcastle.edu.au/library/cultural%20collections/awaba/culture/wisdom.html#:~:text=Aboriginal%20philosophy%20is%20a%20wholistic,of%20the%20conditions%20for%20survival)
