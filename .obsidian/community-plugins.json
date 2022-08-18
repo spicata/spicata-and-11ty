@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "sliding-panes-obsidian",
   "obsidian-plugin-todo",
   "obsidian-pandoc",
   "persistent-graph",
@@ -10,5 +9,6 @@
   "obsidian-better-internal-link-inserter",
   "quick-latex",
   "obsidian-smart-typography",
-  "obsidian-banners"
+  "obsidian-banners",
+  "sliding-panes-obsidian"
 ]

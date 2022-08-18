@@ -1,0 +1,2 @@
+### The Law
+*The Law*, also known as *The Lore* or *Aboriginal Customary Law* is a social contract that Aboriginal societies live by. These include things that people must or must not do, and, unlike European societies with their court structures, it is decided upon by the Elders of a community.

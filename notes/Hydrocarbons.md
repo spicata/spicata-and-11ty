@@ -1,3 +1,6 @@
+---
+banner: "![[img29.jpg]]"
+---
 # Hydrocarbons
 As with many things with science, we need to define a few terms before entering the meat of the topic.
 - **Functional groups** are an atom or groups of atoms (alkyl groups) that are responsible for the typical chemical properties of a molecule - these functional groups replaces hydrogen atoms within organic compounds.

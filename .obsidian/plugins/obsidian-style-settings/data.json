@@ -9,5 +9,18 @@
   "primary-ceciliamay@@header-color__preset": "header-color__normal",
   "primary-ceciliamay@@h1-border": false,
   "primary-ceciliamay@@h1-background": false,
-  "primary-ceciliamay@@h1-border-radius": 17
+  "primary-ceciliamay@@h1-border-radius": 17,
+  "obsidian-california-coast-theme@@cc-transparent-popover": false,
+  "obsidian-california-coast-theme@@cc-show-vault-name": true,
+  "obsidian-california-coast-theme@@cc-trim-table-cols": false,
+  "obsidian-california-coast-theme@@cc-fancy-cursor": false,
+  "obsidian-california-coast-theme@@cc-editor-heading-hash": false,
+  "obsidian-california-coast-theme@@cc-lp-editor-heading-hash": false,
+  "obsidian-california-coast-theme@@cc-em-strong": false,
+  "obsidian-california-coast-theme@@cc-no-custom-icons": false,
+  "obsidian-california-coast-theme@@cc-no-file-icons": false,
+  "obsidian-california-coast-theme@@cc-no-folder-icons": false,
+  "obsidian-california-coast-theme@@cc-header-spacing": false,
+  "obsidian-california-coast-theme@@cc-soft-wrap-code-blocks": false,
+  "obsidian-california-coast-theme@@cc-seamless-embed": false
 }

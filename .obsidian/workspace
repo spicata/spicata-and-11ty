@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6fc1ce090496c4f7",
+        "id": "c97f9f8b37cf6f04",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "notes/Aboriginal Spirituality.md",
             "mode": "source",
             "source": true
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -72,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "notes/Aboriginal Spirituality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "notes/Aboriginal Spirituality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "about.md",
+                "file": "notes/Aboriginal Spirituality.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +155,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2568874310905239,
+                  "scale": 0.38859989839525966,
                   "close": true
                 }
               }
@@ -168,17 +167,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "6fc1ce090496c4f7",
+  "active": "c97f9f8b37cf6f04",
   "lastOpenFiles": [
-    "notes/Indigenous Dreaming.md",
-    "about.md",
-    "notes/Overview of Oceania by A. P. Elkin.md",
-    "notes/Philosophy.md",
-    "notes/index.md",
     "notes/TO BE NAMED.md",
-    "notes/Alkene.md",
-    "Template/Image Template.md",
-    "notes/Energy Consumption.md",
-    "notes/Food for Thought.md"
+    "notes/Aboriginal Spirituality.md",
+    "Wallpaper/Windows/img0.jpg",
+    "Wallpaper/Windows/img19.jpg",
+    "Wallpaper/ThemeD/img32.jpg",
+    "Wallpaper/ThemeD/img33.jpg",
+    "Wallpaper/ThemeD/img34.jpg",
+    "Wallpaper/ThemeD/img35.jpg",
+    "Wallpaper/ThemeC/img28.jpg",
+    "Wallpaper/ThemeC/img29.jpg"
   ]
 }

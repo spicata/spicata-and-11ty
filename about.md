@@ -11,6 +11,8 @@ Email: pixelandian@gmail.com
 
 Discord: spicata#9966
 ## Note Group
+##### Netlify-Obsidian
 - https://mint-garden.netlify.app/ by 'spicata'
 - https://edsobsidiannotes.netlify.app/ by Edward
+##### Wix
 - https://harperb160.wixsite.com/notes-moment by 'Notes Moment'

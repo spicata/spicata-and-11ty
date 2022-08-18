@@ -3,6 +3,9 @@ This is the GitHub repository to my [website](https://mint-garden.netlify.app/),
 
 This is made possible due to [this repository](https://github.com/binyamin/eleventy-garden) as well as [Netlify](https://www.netlify.com/).
 
-Also, see my "competitor" EddieTheEd's [website](https://edsobsidiannotes.netlify.app/) and [repository](https://github.com/EddieTheEd/obsidianmindgarden) as well.
+[We](https://mint-garden.netlify.app/about/) are making online notes because:
+1. It helps people who need it; 
+2. Information and education should be free; or
+3. We are just making a point
 ## Roadmap
 - Nothing yet

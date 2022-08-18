@@ -1,3 +1,6 @@
+---
+banner: "![[img24.jpg]]"
+---
 # Naming convention
 Alkane | Chemical Formula
 --- | ---
