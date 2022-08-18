@@ -54,7 +54,8 @@ Thus totemism and animism are born.
 
 A totem is an inherited thing that represents a spirit, that defines person's role in life. A totem might make you a steward of a part of the environment; thus people are responsible for them. Interestingly, these totem can be decided before births.
 
----
+Totems are often the resting places and descendants of the great beings, which creates a sense of identity in Indigenous culture by allowing them to understand themselves in terms of the totems.
+
 - Resting places and descendants of the great beings became totems
 - Totems create a sense of identity in Indigenous culture
 	- through understanding themselves in terms of totems
