@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c97f9f8b37cf6f04",
+        "id": "aea1fcef24fa7459",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Aboriginal Spirituality.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "8ba50f59dd165b4e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Anime.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -83,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Anime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Anime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +118,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Anime.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,7 +148,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.38859989839525966,
+                  "scale": 0.26571564590292635,
                   "close": true
                 }
               }
@@ -179,17 +160,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "8ba50f59dd165b4e",
+  "active": "aea1fcef24fa7459",
   "lastOpenFiles": [
-    "about.md",
+    "notes/Overview of Oceania by A. P. Elkin.md",
     "notes/Aboriginal Spirituality.md",
+    "about.md",
+    "notes/Anime.md",
     "notes/TO BE NAMED.md",
     "Wallpaper/Windows/img0.jpg",
     "Wallpaper/Windows/img19.jpg",
     "Wallpaper/ThemeD/img32.jpg",
     "Wallpaper/ThemeD/img33.jpg",
-    "Wallpaper/ThemeD/img34.jpg",
-    "Wallpaper/ThemeD/img35.jpg",
-    "Wallpaper/ThemeC/img28.jpg"
+    "Wallpaper/ThemeD/img34.jpg"
   ]
 }
