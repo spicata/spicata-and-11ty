@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
-            "mode": "source",
+            "file": "notes/Anime.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "notes/Anime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "notes/Anime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "about.md",
+                "file": "notes/Anime.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,8 +179,9 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "8a5788f01af9efc6",
+  "active": "8ba50f59dd165b4e",
   "lastOpenFiles": [
+    "about.md",
     "notes/Aboriginal Spirituality.md",
     "notes/TO BE NAMED.md",
     "Wallpaper/Windows/img0.jpg",
@@ -189,7 +190,6 @@
     "Wallpaper/ThemeD/img33.jpg",
     "Wallpaper/ThemeD/img34.jpg",
     "Wallpaper/ThemeD/img35.jpg",
-    "Wallpaper/ThemeC/img28.jpg",
-    "Wallpaper/ThemeC/img29.jpg"
+    "Wallpaper/ThemeC/img28.jpg"
   ]
 }
