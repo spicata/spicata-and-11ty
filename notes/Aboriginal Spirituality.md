@@ -1,7 +1,7 @@
 ---
 banner: "![[img30.jpg]]"
 ---
-# Aboriginal Spirituality #raw
+# Aboriginal Spirituality
 Aboriginal spirituality is an incredibly sophisticated “religion” of sorts, containing the famous **Dreamtime**, a moral point of view passed on by oral stories containing virtues that has been passed down for tens of thousands of years. Aboriginal spirituality is many differences from the more familiar Western cultures from the wildly different geography and its isolation for an extremely long time.
 
 However, many of these incredibly deep cultures collapsed due to the colonisation of Australia, and has been lost to time forever, leaving only a fraction of these cultures remaining. However, these cultures maintain a high knowledge barrier, and is insulated/closed off from other cultures. Sadly, English fails to do Aboriginal culture justice, however, as I cannot write any of the Aboriginal languages, this article is in English.
@@ -18,7 +18,9 @@ Since Aboriginal communities were pre-industrial, the needed to take care of the
 *The Law*, also known as *The Lore* or *Aboriginal Customary Law* is a social contract that Aboriginal societies live by. These include things that people must or must not do, and, unlike European societies with their court structures, it is decided upon by the Elders of a community. However, this Law was fixed, immutable, and constant, much like God in Western religions.
 ## The Dreaming
 The Dreaming, or the Dreamtime, is the Aboriginal's understanding of the world and its creation. It goes:
-> In the beginning, the world was very "mixed up", very different to what it is now, however, grand ancestor — anthropomorphs — brought the world into order. Geographical features, animals, and humans, are all descendants of these ancestors
+> In the beginning, the world was very "mixed up", very different to what it is now, however, grand ancestor — anthropomorphs — brought the world into order. Geographical features, animals, and humans, are all descendants of these ancestors[^3]
+
+[^3]: Despite my formatting, this is **not** a quote and is extremely simplistic, and fails to capture the depth of the Dreamtime.
 
 Thus totemism and animism are born.
 
