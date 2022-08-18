@@ -13,4 +13,4 @@ Discord: spicata#9966
 ## Note Group
 - https://mint-garden.netlify.app/ by 'spicata'
 - https://edsobsidiannotes.netlify.app/ by Edward
-- https://harperb160.wixsite.com/notes-moment/lit-victorian by 'Notes Moment'
+- https://harperb160.wixsite.com/notes-moment by 'Notes Moment'
