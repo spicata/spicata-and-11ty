@@ -27,7 +27,7 @@ Thus totemism and animism are born.
 ---
 These deities were believed to be part human (mind), part animal (body), and part supernatural (powers).
 ## Totemic
-: (noun) relating to or resembling a totem or totems.
+: (adjective) relating to or resembling a totem or totems.
 
 A totem is an inherited thing that represents a spirit, that defines person's role in life. A totem might make you a steward of a part of the environment; thus people are responsible for them. Interestingly, these totem can be decided before births.
 
@@ -44,7 +44,7 @@ There are many totemic ceremonies that can be found in Aboriginal culture, such 
 ## The Colonial Lens
 European colonist described Aboriginal cultures as many things, such as stone-age-like, pre-literate, undeveloped, and rudimentary. However, this is because we judged them with capitalist-consumer lens. Rather, if we were to judge them using longevity, we would find that Aboriginal culture would be much older. In fact, [[How did the Indigenous Australians Get Here|Aboriginal culture is now widely accepted to the longest continuous culture(s) in the history of the world. (50,000-65,000 years)]]
 
-This, to some extent, is because they were able to overcome the risk of over-exploiting nature, but utilising and living by the stories of Dreamtime.
+This, to some extent, is because they were able to overcome the risk of over-exploiting nature, by utilising and living by the stories of Dreamtime.
 
 ##### [[Overview of Oceania by A. P. Elkin]] / [[Philosophy]]
 

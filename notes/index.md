@@ -2,12 +2,11 @@
 title: Featured
 ---
 # Featured
+Learn some science, such as [[Organic Chemistry|organic chemistry]], [[Energy|energy]], and [[Science Inquiry Skills|science inquiry skills]].
 Learn:
 - [[Philosophy|Philosophy]]
-- [[Organic Chemistry|Organic Chemistry]]
 - [[Chinese Grammar|Chinese Grammar]]
 - [[Tools of Blender]]
 
 Brush up on:
-- [[Science Inquiry Skills]]
 - [[Food for Thought]]
