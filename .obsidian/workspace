@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Natural Gas.md",
+            "file": "notes/Crude Oil.md",
             "mode": "source",
             "source": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Natural Gas.md",
+                "file": "notes/Crude Oil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Natural Gas.md",
+                "file": "notes/Crude Oil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Natural Gas.md",
+                "file": "notes/Crude Oil.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -151,12 +151,12 @@
                   "textFadeMultiplier": -1.5,
                   "nodeSizeMultiplier": 3.03357785602504,
                   "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
+                  "collapse-forces": false,
+                  "centerStrength": 0.497794750430293,
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6729140497482095,
+                  "scale": 0.1840070334969533,
                   "close": true
                 }
               }
@@ -168,17 +168,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "e40d422ccb45d2c3",
+  "active": "79216ca039f67b55",
   "lastOpenFiles": [
-    "notes/Crude Oil.md",
-    "notes/Coal.md",
-    "notes/Fossil Fuels.md",
-    "notes/Energy Consumption.md",
-    "notes/Energy.md",
-    "index.md",
     "notes/Organic Chemistry.md",
+    "notes/Crude Oil.md",
+    "notes/Fossil Fuels.md",
+    "notes/Distillation.md",
     "notes/index.md",
-    "notes/Alkene.md",
+    "notes/Metamorphosis by Franz Kafka.md",
+    "notes/Food for Thought.md",
+    "notes/Tools of Blender.md",
+    "notes/Energy.md",
     "notes/Aboriginal Spirituality.md"
   ]
 }

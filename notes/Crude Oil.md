@@ -1,12 +1,11 @@
-# Crude Oil #raw
-- Also known as petroleum (and quite liquid as well)
-- Can be broken into fractions (?) by fractional distillation (?)
-- Turned into:
-	- Gasoline;
-	- Diesel;
-	- Heating Oil; and
-	- Jet Fuel
+# Crude Oil #raw 
+Crude oil, also known as petroleum, is a liquid form of fossil fuels, which accounts for the majority of the fossil fuels used (32% of global consumption). Crude oil is a versatile resource, which can be turned into:
+- Gasoline;
+- Diesel;
+- Heating oil; and more
 
+[[Fractional Distillation|This is achieved through a process known as fractional distillation, where hydrocarbons of different lengths are separated]].
+## Creation of Crude oils
 <img src="https://mint-garden.netlify.app/assets/Creation-of-Oil-and-Gas.png" style="max-width:100%;height:auto">
 
 - Kerogen -> Oil 
