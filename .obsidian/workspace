@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "5368a6e788505d51",
+        "id": "b459e6773da21d4c",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -148,7 +148,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.37908532819505647,
+                  "scale": 0.20897914087634645,
                   "close": true
                 }
               }
@@ -160,17 +160,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "5368a6e788505d51",
+  "active": "b459e6773da21d4c",
   "lastOpenFiles": [
+    "notes/Naming Convention for Alkene.md",
+    "assets/3-methylbut-1-ane.png",
+    "about.md",
+    "notes/Organic Chemistry.md",
+    "notes/Energy.md",
     "notes/Melting and Boiling points - ane, ene, yne.md",
     "notes/Greenhouse Gases.md",
     "index.md",
     "notes/Greenhouse Effect.md",
-    "about.md",
-    "notes/Hydrocarbons.md",
-    "notes/Alkene.md",
-    "notes/Coal.md",
-    "notes/Alkyne.md",
-    "notes/Alkane.md"
+    "notes/Hydrocarbons.md"
   ]
 }
