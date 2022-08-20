@@ -7,30 +7,34 @@
         "id": "e6d2608a4470338d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "6b62829f0a0b60f5",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Coal.md",
-            "mode": "source",
+            "file": "notes/Creation of Oils and Gases.md",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "864f8a941eafab94",
+        "id": "4b8422f47c63db8a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "about.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f34fe210a0327d0f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Coal.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -185,19 +189,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.10455322265625
+    "width": 446.10455322265625,
+    "collapsed": true
   },
-  "active": "864f8a941eafab94",
+  "active": "4b8422f47c63db8a",
   "lastOpenFiles": [
-    "assets/Notes-Coalition.png",
-    "about.md",
-    "notes/About these Notes.md",
+    "notes/Creation of Oils and Gases.md",
     "notes/Coal.md",
-    "notes/Natural Gas.md",
+    "notes/Alkene.md",
+    "notes/Socrates.md",
+    "notes/Philosophy.md",
     "notes/Crude Oil.md",
-    "assets/natural-gas-proved-reserves.png",
-    "notes/Aboriginal Spirituality.md",
-    "notes/Downloading.md",
-    "notes/MathJax.md"
+    "notes/index.md",
+    "notes/Fractional Distillation.md",
+    "about.md",
+    "assets/Notes-Coalition.png"
   ]
 }

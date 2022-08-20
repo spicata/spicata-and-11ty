@@ -10,8 +10,8 @@ Just a plant making a website.
 Email: pixelandian@gmail.com
 
 Discord: spicata#9966
-## <img src="https://mint-garden.netlify.app/assets/Notes-Coalition.png" style="width:0.8em;height:0.8em"> Notes Coalition
-- https://mint-garden.netlify.app/ by ‘spicata’
+## <img src="https://mint-garden.netlify.app/assets/Notes-Coalition.png" style="width:1em;height:1em"> Notes Coalition
+- <img src="https://mint-garden.netlify.app/assets/avatar.png" style="width:1em;height:1em"> https://mint-garden.netlify.app/ by ‘spicata’
 - https://edsobsidiannotes.netlify.app/ by Edward
 - https://harperb160.wixsite.com/notes-moment by ‘Notes Moment’
 - https://notes.notmario.net/ by ‘not mario’
