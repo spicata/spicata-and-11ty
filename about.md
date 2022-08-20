@@ -10,7 +10,7 @@ Just a plant making a website.
 Email: pixelandian@gmail.com
 
 Discord: spicata#9966
-## Notes Coalition
+## <img src="https://mint-garden.netlify.app/assets/Notes-Coalition.png" style="width:0.8em;height:0.8em"> Notes Coalition
 - https://mint-garden.netlify.app/ by ‘spicata’
 - https://edsobsidiannotes.netlify.app/ by Edward
 - https://harperb160.wixsite.com/notes-moment by ‘Notes Moment’
