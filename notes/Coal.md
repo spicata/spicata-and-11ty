@@ -14,6 +14,7 @@ Coal is formed as organic matter is compacted under millions of year worth of pr
 
 <img src="https://mint-garden.netlify.app/assets/Formation-of-Anthracite.png" style="max-width:100%;height:auto">
 
+---
 There are major deposits of coal in the USA, Russia, China, India, and Australia.
 
 <img src="https://mint-garden.netlify.app/assets/coal-production-by-country.png" style="max-width:100%;height:auto">
