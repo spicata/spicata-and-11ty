@@ -13,7 +13,7 @@ Name | Functional Group
 --- | ---
 [[Alkane]] | None
 [[Alkene]] | At least one double bond, minimum 2 carbons
-[[Alkyne]] | At least one triple bond, minimum 2 carbons
+Alkyne | At least one triple bond, minimum 2 carbons
 
 <img src="https://mint-garden.netlify.app/assets/Alk-ane-ene-yne.png" style="max-width:100%;height:auto">
 

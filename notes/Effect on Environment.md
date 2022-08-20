@@ -1,21 +1,2 @@
-# Effect on Environment #raw
-- *You already know this.* Increases CO<sub>2</sub> in the air.
-
-> Oops
-
-<img src="https://mint-garden.netlify.app/assets/Carbon-Cycle.png" style="max-width:100%;height:auto">
-
-Carbon Cycle
-1. Sun produces infrared radiation
-2. Some infrared radiation reflects off the atmosphere into *space*
-3. Some infrared radiation gets absorbed by the Earth
-4. The Earth reradiates it as heat.
-	1. Most of the heat is absorbed by the greenhouse gasses and reflected back into Earth (increases kinetic energy)
-## Greenhouse Gases
-Greenhouse gasses are gasses that trap infrared radiation, thus trapping heat. Some of them include:
-- Water Vapor
-- Carbon Dioxide - very important part of atmosphere, controls weather, but too much is bad
-- Methane - better at heat retention than carbon dioxide, but also rarer. Come from manufacturing and animals
-- Nitrous Oxide - from factories and farming, very potent
-- CFC - 100 percent artificial, kills the ozone layer
-- HCFC
+# Effect on Environment
+The burning of fossil fuels have negatively impacted the environment during this past century, as the burning releases CO<sub>2</sub> in the air. Due to [[Greenhouse Gases|carbon dioxide’s nature as a greenhouse gas]], it heats Earth when present in the atmosphere. Normally this would be great, allowing Earth to maintain a temperature that is hospitable for life, however, as humans have experienced, the [[Greenhouse Effect|sudden rise in carbon dioxide concentration in the atmosphere has also created a sudden rise in global temperatures.]]

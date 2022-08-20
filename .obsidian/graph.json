@@ -11,7 +11,7 @@
       "query": "tag:#raw",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11291107
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.24522555850831787,
+  "scale": 0.2124222859277015,
   "close": true
 }
