@@ -6,9 +6,59 @@
       {
         "id": "b459e6773da21d4c",
         "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "b459e6773da21d4c",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"assets/Structural-Positional-Isomers.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b459e6773da21d4c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Naming Convention for Alkene.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":12},\"to\":{\"line\":14,\"ch\":12}},\"scroll\":4.876429744517083}"
+            }
+          ]
+        },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Naming Convention for Alkene.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a7ac46b8f774081b",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a7ac46b8f774081b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Naming Conventions for Alkanes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":11},\"to\":{\"line\":29,\"ch\":11}},\"scroll\":7.5973439805767775}"
+            },
+            {
+              "leaf": "a7ac46b8f774081b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Alkane.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":419},\"to\":{\"line\":4,\"ch\":419}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Naming Conventions for Alkanes.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -25,6 +75,10 @@
           {
             "id": "9031433c1cc68c4f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -33,6 +87,10 @@
           {
             "id": "79216ca039f67b55",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
@@ -64,9 +122,14 @@
           {
             "id": "46057ce80371597f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Naming Convention for Alkene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,9 +143,14 @@
           {
             "id": "ae65f52a2efa7f64",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Naming Convention for Alkene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,14 +159,22 @@
           {
             "id": "759b98dcbff15ce9",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           },
           {
-            "id": "8a5788f01af9efc6",
+            "id": "5be52378d315b7e6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -115,9 +191,14 @@
           {
             "id": "0112a032dbd714ba",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/Naming Convention for Alkene.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -148,7 +229,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.20897914087634645,
+                  "scale": 0.4124987673884365,
                   "close": true
                 }
               }
@@ -162,15 +243,15 @@
   },
   "active": "b459e6773da21d4c",
   "lastOpenFiles": [
+    "assets/Structural-Positional-Isomers.png",
     "notes/Naming Convention for Alkene.md",
+    "notes/Naming Conventions for Alkanes.md",
+    "notes/Alkane.md",
+    "notes/Hydrocarbons.md",
+    "notes/Aboriginal Spirituality.md",
+    "notes/Philosophy.md",
     "assets/3-methylbut-1-ane.png",
     "about.md",
-    "notes/Organic Chemistry.md",
-    "notes/Energy.md",
-    "notes/Melting and Boiling points - ane, ene, yne.md",
-    "notes/Greenhouse Gases.md",
-    "index.md",
-    "notes/Greenhouse Effect.md",
-    "notes/Hydrocarbons.md"
+    "notes/Organic Chemistry.md"
   ]
 }
