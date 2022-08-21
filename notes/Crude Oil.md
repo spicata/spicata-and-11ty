@@ -1,4 +1,4 @@
 # Crude Oil
 Crude oil, also known as petroleum, is a liquid form of fossil fuels, which accounts for the majority of the fossil fuels used (32% of global consumption). Crude oil is a versatile resource, which can be turned into: gasoline, diesel, heating oil, and more, [[Fractional Distillation| through a process known as fractional distillation, where hydrocarbons of different lengths are separated]]. [[Creation of Oils and Gases|Over time, major oil reserves have formed]] in countries such as Venezuela, Russia, Canada, and Saudi Arabia.
 
-<img src="https://mint-garden.netlify.app/assets/image/oil-proved-reserves.png" style="max-width:100%;height:auto">
+<img src="https://mint-garden.netlify.app/assets/oil-proved-reserves.png" style="max-width:100%;height:auto">

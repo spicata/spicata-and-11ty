@@ -13,7 +13,7 @@
               "leaf": "8e9d3d6ba04cceee",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}}}"
+              "eState": "{}"
             },
             {
               "leaf": "8e9d3d6ba04cceee",
@@ -46,6 +46,29 @@
           "state": {
             "file": "roadmap.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "14ce0b73c023dcbe",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "14ce0b73c023dcbe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":1.6608924164859642}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "about.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -117,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmap.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "roadmap.md",
+                "file": "about.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +228,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.03606125333470636,
+                  "scale": 0.4038789657067567,
                   "close": true
                 }
               }
@@ -217,17 +240,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "8e9d3d6ba04cceee",
+  "active": "14ce0b73c023dcbe",
   "lastOpenFiles": [
-    "index.md",
     "roadmap.md",
     "about.md",
+    "notes/Melting and Boiling points - ane, ene, yne.md",
+    "index.md",
     "Template/Image Template.md",
     "notes/Aboriginal Spirituality.md",
     "notes/Philosophy.md",
     "notes/Formatting.md",
     "assets/160favicon.png",
-    "notes/Naming Conventions for Alkanes.md",
-    "notes/Melting and Boiling points - ane, ene, yne.md"
+    "notes/Naming Conventions for Alkanes.md"
   ]
 }

@@ -2,7 +2,7 @@
 layout: default
 ---
 # Roadmap
-- [ ] Theme Switcher
-- [ ] Banner Photos
-- [ ] “Rush Mode”
-- [ ] Getting a niche
+- Theme Switcher
+- Banner Photos
+- “Rush Mode”
+- Getting a niche
