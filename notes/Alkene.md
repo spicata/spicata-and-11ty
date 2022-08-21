@@ -5,4 +5,4 @@ Alkenes are a group of hydrocarbons that make up a homologous series that each c
 
 Unlike single bonds, double bonds cannot be rotated, thus, there are difference depending on which way the parent chain continues. These are cis and trans isomers. Cis isomers have the parent chain on the same “side” of the double bond, whilst trans isomers continue the parent chain on opposite sides.
 
-##### [[Melting and Boiling points - ane, ene, yne|Melting and Boiling points]] / [[Organic Chemistry]] [[Naming Convention for Alkene]]
+##### [[Melting and Boiling points - ane, ene, yne|Melting and Boiling points]] / [[Organic Chemistry]] [[Naming Convention for Alkene and Alkyne]]

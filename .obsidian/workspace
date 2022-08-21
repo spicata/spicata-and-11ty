@@ -18,16 +18,16 @@
             {
               "leaf": "b459e6773da21d4c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Naming Convention for Alkene.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":377},\"to\":{\"line\":7,\"ch\":377}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Naming Convention for Alkene and Alkyne.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":23.68181818181818}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Naming Convention for Alkene.md",
-            "mode": "source",
+            "file": "notes/Naming Convention for Alkene and Alkyne.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -42,7 +42,7 @@
               "leaf": "a7ac46b8f774081b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Naming Conventions for Alkanes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":11},\"to\":{\"line\":29,\"ch\":11}},\"scroll\":7.5973439805767775}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":102},\"to\":{\"line\":21,\"ch\":65}},\"scroll\":0}"
             },
             {
               "leaf": "a7ac46b8f774081b",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Naming Convention for Alkene.md",
+                "file": "notes/Naming Convention for Alkene and Alkyne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,22 +150,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Naming Convention for Alkene.md",
+                "file": "notes/Naming Convention for Alkene and Alkyne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "759b98dcbff15ce9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
             }
           },
           {
@@ -181,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "c620534039166d03",
@@ -198,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Naming Convention for Alkene.md",
+                "file": "notes/Naming Convention for Alkene and Alkyne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +217,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4124987673884365,
+                  "scale": 0.533720612812605,
                   "close": true
                 }
               }
@@ -243,9 +231,9 @@
   },
   "active": "b459e6773da21d4c",
   "lastOpenFiles": [
-    "assets/Structural-Positional-Isomers.png",
-    "notes/Naming Convention for Alkene.md",
     "notes/Naming Conventions for Alkanes.md",
+    "notes/Naming Convention for Alkene and Alkyne.md",
+    "assets/Structural-Positional-Isomers.png",
     "notes/Alkane.md",
     "notes/Hydrocarbons.md",
     "notes/Aboriginal Spirituality.md",
