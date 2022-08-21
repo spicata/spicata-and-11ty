@@ -14,6 +14,14 @@ To scale it on only certain axes, you simply have to press `X`, `Y`, `Z`, `Shift
 ## Zooming, Panning, and Rotating
 These are three different tools, however, these are essential to moving around the view in the editor.
 
-To zoom, you can just use the scroll wheel, scrolling up to zoom in and scrolling down to zoom out. This will make the viewing camera to come closer or further in reference to the focal point.
-
-To rotate the camera view, you use the middle-mouse button, which rotates you around the focal point
+You scroll on the `MB2` (also known as middle mouse button or `MMB`) to zoom in and to zoom out. This will make the viewing camera to come closer or further in reference to the focal point. To rotate the camera view, hold `MB2` and drag around in the view, which rotates you around the focal point. To pan, hold `Shift+MB2` and drag to pan around.
+## Numpad Shortcuts
+The numpad is an extremely useful tool in Blender, as it contains many camera controls that streamlines creation. 
+### `NumPad 1`, `NumPad 3`, `NumPad 7`, `NumPad 9`
+These four keys align the view camera to certain angles based on the 3D-cartesian plane, and switches the type of projection to orthographic. This is used to get a side-on, front-on, top-on, or bottom-on view of the project, which is especially useful when only manipulating objects in certain axes or when editing an object.
+### `NumPad 2`, `NumPad 4`, `NumPad 6`, `NumPad 8`
+These four keys move the view camera around the focal point by constant increment. `NumPad 2` and `NumPad 8` rotates the camera in an downwardly or upwardly direction respectively. On the other hand,`NumPad 4` and `NumPad 6` rotates the camera towards the left or right direction.
+### `NumPad 5`
+This button changes the view from perspective to orthographic and vice versa.
+### `NumPad 0`
+This button changes the focal point to a selected object.
