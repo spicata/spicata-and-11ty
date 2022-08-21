@@ -12,14 +12,24 @@
             {
               "leaf": "a6abf092fb370437",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":61},\"to\":{\"line\":15,\"ch\":61}},\"scroll\":12.103070138258312}"
+            },
+            {
+              "leaf": "a6abf092fb370437",
+              "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "about.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -90,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "about.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
