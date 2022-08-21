@@ -1,11 +1,11 @@
 {
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "strictLineBreaks": true,
   "useMarkdownLinks": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
-  "showLineNumber": true,
+  "showLineNumber": false,
   "promptDelete": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
@@ -21,5 +21,12 @@
     "margin": "0",
     "downscalePercent": 80
   },
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "showFrontmatter": false,
+  "readableLineLength": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showIndentGuide": true,
+  "lineWrap": true,
+  "rightToLeft": false
 }

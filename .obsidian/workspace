@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a6abf092fb370437",
+        "id": "8e9d3d6ba04cceee",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "a6abf092fb370437",
+              "leaf": "8e9d3d6ba04cceee",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":61},\"to\":{\"line\":15,\"ch\":61}},\"scroll\":12.103070138258312}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":24},\"to\":{\"line\":3,\"ch\":24}}}"
             },
             {
-              "leaf": "a6abf092fb370437",
+              "leaf": "8e9d3d6ba04cceee",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/roadmap.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":6},\"to\":{\"line\":4,\"ch\":6}}}"
+            },
+            {
+              "leaf": "8e9d3d6ba04cceee",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":6.406828814565277}"
+            },
+            {
+              "leaf": "8e9d3d6ba04cceee",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Template/Image Template.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -26,9 +38,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "notes/roadmap.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -78,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -100,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "notes/roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "notes/roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "about.md",
+                "file": "notes/roadmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +199,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.43578105553214275,
+                  "scale": 0.18488799164599903,
                   "close": true
                 }
               }
@@ -200,17 +211,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "a6abf092fb370437",
+  "active": "8e9d3d6ba04cceee",
   "lastOpenFiles": [
-    "notes/Naming Conventions for Alkanes.md",
-    "notes/Melting and Boiling points - ane, ene, yne.md",
-    "notes/Naming Convention for Alkene and Alkyne.md",
-    "assets/Structural-Positional-Isomers.png",
-    "notes/Alkane.md",
-    "notes/Hydrocarbons.md",
+    "about.md",
+    "notes/roadmap.md",
+    "Template/Image Template.md",
     "notes/Aboriginal Spirituality.md",
     "notes/Philosophy.md",
-    "assets/3-methylbut-1-ane.png",
-    "about.md"
+    "notes/Formatting.md",
+    "assets/160favicon.png",
+    "notes/Naming Conventions for Alkanes.md",
+    "notes/Melting and Boiling points - ane, ene, yne.md",
+    "notes/Naming Convention for Alkene and Alkyne.md"
   ]
 }

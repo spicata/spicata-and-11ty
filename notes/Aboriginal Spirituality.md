@@ -38,7 +38,7 @@ Through the use of totemism, everything in Aboriginal culture became a part of t
 ---
 There are many totemic ceremonies that can be found in Aboriginal culture, such as:
 1. Increase ceremonies, increasing the ties that Aboriginals have to the land;
-2. Initiation rites, intitiating people into Aboriginal culture;
+2. Initiation rites, intitiating people into Aboriginal culture;**
 3. Mourning ceremonies, which guides spirits back to their totem site; and
 4. Healing and harming ceremonies, which calls on the power of spirits to assist.
 ## The Colonial Lens

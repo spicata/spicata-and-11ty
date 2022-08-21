@@ -9,7 +9,7 @@ As alkenes and alkynes have one C=C and C≡C functional groups respectively, th
 
 On the top, we can see but-2-ene, and below, we can see but-1-ene.
 
-<img src="https://mint-garden.netlify.app/assets/Structural-Positional-Isomers.png" style="max-width:100%;height:auto">
+<img src="https://mint-garden.netlify.app/assets/image/Structural-Positional-Isomers.png" style="max-width:100%;height:auto">
 
 ---
 For branched chains, we follow the naming conventions for alkane but with slight modifications:
@@ -25,4 +25,4 @@ For branched chains, we follow the naming conventions for alkane but with slight
 6. Add them all together, e.g. 5-ethyl-3-methyloctane
 
 For example, below shows a 3-methylbut-1-ene
-<img src="https://mint-garden.netlify.app/assets/3-methylbut-1-ane.png" style="max-width:100%;height:auto">
+<img src="https://mint-garden.netlify.app/assets/image/3-methylbut-1-ane.png" style="max-width:100%;height:auto">

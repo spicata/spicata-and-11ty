@@ -1,5 +1,5 @@
 # Maslow's Hierarchy of Needs
-<img src="https://mint-garden.netlify.app/assets/Maslows-Heirarchy.png" style="max-width:100%;height:auto">
+<img src="https://mint-garden.netlify.app/assets/image/Maslows-Heirarchy.png" style="max-width:100%;height:auto">
 
 Maslow's Hierarchy of Needs (depicted above) is a diagram by Abraham Maslow depicting 5 tiers of human needs (sometimes containing 8 tiers), where each subsequent tier requiring the ones below it to be achieved before being able to be achieved itself. From bottom to top, the tiers are:
 1. **Physiological needs** which are requirements for basic survival, such as water, food, and shelter;

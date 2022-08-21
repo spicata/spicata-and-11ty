@@ -48,7 +48,7 @@ Method should be clear enough so that another person should be able to replicate
 ### Results
 You write your observations here. They can be qualitative or quantitate. Use tables here.
 
-<img src="https://mint-garden.netlify.app/assets/Model-Table.png" style="max-width:100%;height:auto">
+<img src="https://mint-garden.netlify.app/assets/image/Model-Table.png" style="max-width:100%;height:auto">
 
 ### Discussion
 Describe trends and patterns in your results, and support it with evidence, and refer to your background information here.

@@ -7,14 +7,14 @@ Coals are a solid form of fossil fuels, which constitutes 22% of the world’s e
 
 [^peat]: Peat is not actually a form of coal, however, it gets transformed into coal, so I decided to include it.
 
-<img src="https://mint-garden.netlify.app/assets/Different-Coals.png" style="max-width:100%;height:auto">
+<img src="https://mint-garden.netlify.app/assets/image/Different-Coals.png" style="max-width:100%;height:auto">
 
 ## Formation
 Coal is formed as organic matter is compacted under millions of year worth of pressure and heat exerted by the Earth. This process begins when: plant matter begins to oxidised to water and carbon dioxide, however, if there is not enough oxygen, the plant matter will not be able to fully decompose, forming peat. Eventually, its carbon concentration continues to rise as more and more as it undergoes more pressure and heat.
 
-<img src="https://mint-garden.netlify.app/assets/Formation-of-Anthracite.png" style="max-width:100%;height:auto">
+<img src="https://mint-garden.netlify.app/assets/image/Formation-of-Anthracite.png" style="max-width:100%;height:auto">
 
 ---
 There are major deposits of coal in the USA, Russia, China, India, and Australia.
 
-<img src="https://mint-garden.netlify.app/assets/coal-production-by-country.png" style="max-width:100%;height:auto">
+<img src="https://mint-garden.netlify.app/assets/image/coal-production-by-country.png" style="max-width:100%;height:auto">
