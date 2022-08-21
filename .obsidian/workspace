@@ -18,8 +18,8 @@
             {
               "leaf": "8e9d3d6ba04cceee",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/roadmap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":6},\"to\":{\"line\":4,\"ch\":6}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":21}}}"
             },
             {
               "leaf": "8e9d3d6ba04cceee",
@@ -38,7 +38,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/roadmap.md",
+            "file": "roadmap.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/roadmap.md",
+                "file": "roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/roadmap.md",
+                "file": "roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/roadmap.md",
+                "file": "roadmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +199,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18488799164599903,
+                  "scale": 0.03606125333470636,
                   "close": true
                 }
               }
@@ -211,10 +211,10 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "8e9d3d6ba04cceee",
+  "active": "9031433c1cc68c4f",
   "lastOpenFiles": [
     "about.md",
-    "notes/roadmap.md",
+    "roadmap.md",
     "Template/Image Template.md",
     "notes/Aboriginal Spirituality.md",
     "notes/Philosophy.md",
