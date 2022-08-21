@@ -4,61 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b459e6773da21d4c",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "b459e6773da21d4c",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"assets/Structural-Positional-Isomers.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b459e6773da21d4c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Naming Convention for Alkene and Alkyne.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":23.68181818181818}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Naming Convention for Alkene and Alkyne.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "a7ac46b8f774081b",
+        "id": "a6abf092fb370437",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "a7ac46b8f774081b",
+              "leaf": "a6abf092fb370437",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Naming Conventions for Alkanes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":102},\"to\":{\"line\":21,\"ch\":65}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a7ac46b8f774081b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Alkane.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":419},\"to\":{\"line\":4,\"ch\":419}},\"scroll\":0}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Naming Conventions for Alkanes.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -129,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Naming Convention for Alkene and Alkyne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Naming Convention for Alkene and Alkyne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Naming Convention for Alkene and Alkyne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +175,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.533720612812605,
+                  "scale": 0.43578105553214275,
                   "close": true
                 }
               }
@@ -229,9 +187,10 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "b459e6773da21d4c",
+  "active": "a6abf092fb370437",
   "lastOpenFiles": [
     "notes/Naming Conventions for Alkanes.md",
+    "notes/Melting and Boiling points - ane, ene, yne.md",
     "notes/Naming Convention for Alkene and Alkyne.md",
     "assets/Structural-Positional-Isomers.png",
     "notes/Alkane.md",
@@ -239,7 +198,6 @@
     "notes/Aboriginal Spirituality.md",
     "notes/Philosophy.md",
     "assets/3-methylbut-1-ane.png",
-    "about.md",
-    "notes/Organic Chemistry.md"
+    "about.md"
   ]
 }
