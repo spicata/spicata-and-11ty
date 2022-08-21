@@ -140,6 +140,7 @@ small {
 svg {
     fill: var(--quarterly);
     transition: 0.3s;
+    width: 16px;
 }
 
 svg:hover {

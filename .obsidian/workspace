@@ -7,19 +7,25 @@
         "id": "8e9d3d6ba04cceee",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "8e9d3d6ba04cceee",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":24},\"to\":{\"line\":3,\"ch\":24}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}}}"
+            },
+            {
+              "leaf": "8e9d3d6ba04cceee",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "8e9d3d6ba04cceee",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":21}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":7},\"to\":{\"line\":3,\"ch\":7}}}"
             },
             {
               "leaf": "8e9d3d6ba04cceee",
@@ -211,17 +217,17 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "9031433c1cc68c4f",
+  "active": "8e9d3d6ba04cceee",
   "lastOpenFiles": [
-    "about.md",
+    "index.md",
     "roadmap.md",
+    "about.md",
     "Template/Image Template.md",
     "notes/Aboriginal Spirituality.md",
     "notes/Philosophy.md",
     "notes/Formatting.md",
     "assets/160favicon.png",
     "notes/Naming Conventions for Alkanes.md",
-    "notes/Melting and Boiling points - ane, ene, yne.md",
-    "notes/Naming Convention for Alkene and Alkyne.md"
+    "notes/Melting and Boiling points - ane, ene, yne.md"
   ]
 }

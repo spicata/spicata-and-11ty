@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Roadmap
 - [ ] Theme Switcher
 - [ ] Banner Photos
