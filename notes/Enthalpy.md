@@ -1,3 +1,6 @@
+---
+banner: "![[05_ettyimages-157731734_high_resized.jpg]]"
+---
 # Enthalpy
 Enthalpy is the total amount of energy that is in a system, and is often represented by the variable *H*. *ΔH* is used to show enthalpy change, and is calculated by:
 > *ΔH = H of product - H of reactants*
