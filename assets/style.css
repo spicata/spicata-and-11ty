@@ -36,7 +36,7 @@ main {
     width: 70ch;
     margin: 0 auto;
     padding-top: 50px;
-    word-wrap: break-word;
+    hyphens: auto;
 }
 
 .page-header {
