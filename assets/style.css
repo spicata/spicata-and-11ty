@@ -32,11 +32,11 @@ body {
 
 main {
     flex-grow: 1;
-    max-width: 80%;
+    max-width: 90%;
     width: 70ch;
     margin: 0 auto;
     padding-top: 50px;
-    hyphens: auto;
+    word-wrap: break-word;
 }
 
 .page-header {
