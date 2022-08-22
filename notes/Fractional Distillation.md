@@ -4,7 +4,7 @@ Some terms that will be useful when learning fractional distillation are:
 - **Volatility**: The tendency of a substance to vaporize. At a given temperature a more volatile substance will more readily turn to gas at the molecules escape from the surface.
 - **Flammability**: Ability to support combustion
 - **Flammability relating to volatility**: volatile compounds combust more readily and spontaneously than less volatile compound
-- **Viscosity**: A liquid's ability to flow.
+- **Viscosity**: A substance’s resistance to flow.
 
 ## What is Fractional Distillation
 Fractional distillation is distillation that separates a mixture into a number of different parts called fractions. This can be used in all sorts of places, but we will focus on the processing of crude oil.
