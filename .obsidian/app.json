@@ -5,7 +5,7 @@
   "useMarkdownLinks": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
-  "showLineNumber": false,
+  "showLineNumber": true,
   "promptDelete": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,

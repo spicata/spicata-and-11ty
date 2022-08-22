@@ -238,5 +238,14 @@
       ],
       "key": "1"
     }
+  ],
+  "pane-relief:go-prev": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }

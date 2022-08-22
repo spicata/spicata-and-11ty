@@ -1,5 +1,6 @@
 ---
 banner: "![[img30.jpg]]"
+alias: Indigenous Spirituality
 ---
 # Aboriginal Spirituality
 Aboriginal spirituality is an incredibly sophisticated “religion” of sorts, containing the famous **Dreamtime**, a moral point of view passed on by oral stories containing virtues that has been passed down for tens of thousands of years. Aboriginal spirituality is many differences from the more familiar Western cultures from the wildly different geography and its isolation for an extremely long time.
@@ -42,7 +43,7 @@ There are many totemic ceremonies that can be found in Aboriginal culture, such 
 3. Mourning ceremonies, which guides spirits back to their totem site; and
 4. Healing and harming ceremonies, which calls on the power of spirits to assist.
 ## The Colonial Lens
-European colonist described Aboriginal cultures as many things, such as stone-age-like, pre-literate, undeveloped, and rudimentary. However, this is because we judged them with capitalist-consumer lens. Rather, if we were to judge them using longevity, we would find that Aboriginal culture would be much older. In fact, [[How did the Indigenous Australians Get Here|Aboriginal culture is now widely accepted to the longest continuous culture(s) in the history of the world. (50,000-65,000 years)]]
+European colonist described Aboriginal cultures as many things, [[Different, Not Rudimentary|such as stone-age-like, pre-literate, undeveloped, and rudimentary]]. However, this is because we judged them with capitalist-consumer lens. Rather, if we were to judge them using longevity, we would find that Aboriginal culture would be much older. In fact, [[How did the Indigenous Australians Get Here|Aboriginal culture is now widely accepted to the longest continuous culture(s) in the history of the world. (50,000-65,000 years)]]
 
 This, to some extent, is because they were able to overcome the risk of over-exploiting nature, by utilising and living by the stories of Dreamtime.
 

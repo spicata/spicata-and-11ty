@@ -1,3 +1,6 @@
+---
+banner: "![[12 gettyimages-918032668_resized.jpg]]"
+---
 # Oceania by A. P. Elkin #raw
 > Is there an Indigenous Philosophy? - (essentially) Elkin
 
@@ -9,7 +12,7 @@ In 1969, it was widely accept that Indigenous Australians were not only pre-lite
 
 [^1]: Colonialists believed that Indigenous Australian culture was extremely rudimentary, despite having intelligence.
 
-This tied into the European beliefs that philosophy required logical thought and ability to create abstraction, and the former belief caused colonists to believe that Indigenous Australians lacked a philosophy.
+This tied into the European beliefs that philosophy required logical  thought and ability to create abstraction, and the former belief caused colonists to believe that Indigenous Australians lacked a philosophy.
 
 ---
 Nobody has a true comprehension of what came before the Big Bang, the creation of the universe[^3]. This is similarly true for the Indigenous Australians, who believed that the world as we know it now originated from a time of chaos, without form and void; an extremely common belief in religions around the world. 

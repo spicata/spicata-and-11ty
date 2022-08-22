@@ -4,61 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "43ff36f1d8ace6be",
+        "id": "3caad3e3628a18b0",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "43ff36f1d8ace6be",
+              "leaf": "3caad3e3628a18b0",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Aboriginal Spirituality.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":36.36258233183174}"
-            },
-            {
-              "leaf": "43ff36f1d8ace6be",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Different, Not Rudimentary.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "43ff36f1d8ace6be",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Overview of Oceania by A. P. Elkin.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Aboriginal Spirituality.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "45d48d3d3f14c79d",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "45d48d3d3f14c79d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Different, Not Rudimentary.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Different, Not Rudimentary.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -141,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Different, Not Rudimentary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Different, Not Rudimentary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,31 +143,38 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Different, Not Rudimentary.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#raw",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11026150
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "nodeSizeMultiplier": 2.20184487951807,
+                  "lineSizeMultiplier": 5,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.7193261554973679,
+                  "close": true
                 }
               }
             }
@@ -219,15 +185,15 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "45d48d3d3f14c79d",
+  "active": "3caad3e3628a18b0",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "roadmap.md",
-    "notes/Different, Not Rudimentary.md",
     "notes/Aboriginal Spirituality.md",
+    "notes/Different, Not Rudimentary.md",
     "notes/Overview of Oceania by A. P. Elkin.md",
+    "roadmap.md",
     "notes/MathJax.md",
     "notes/Greenhouse Effect.md",
     "about.md",
