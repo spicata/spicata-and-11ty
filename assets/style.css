@@ -35,13 +35,18 @@ main {
     max-width: 70ch;
     width: 100%;
     margin: 0 auto;
+    padding-top: 50px;
 }
 
 .page-header {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: center;
+    align-items: center;;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    z-index: 2;
 
     background-color: var(--secondary);
 }
@@ -201,6 +206,11 @@ small,
 td {
     font-family: 'Roboto Slab', sans-serif;
     font-weight: 400;
+}
+
+p,
+li {
+    text-align: justify;
 }
 
 p {
