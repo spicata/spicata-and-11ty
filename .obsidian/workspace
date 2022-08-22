@@ -13,7 +13,7 @@
               "leaf": "3caad3e3628a18b0",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Tools of Blender.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":82},\"to\":{\"line\":28,\"ch\":82}},\"scroll\":18.419139968708}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":338},\"to\":{\"line\":30,\"ch\":338}},\"scroll\":0.15962231599448892}"
             }
           ]
         },
@@ -179,7 +179,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.33774507529547587,
+                  "scale": 0.24835252748495212,
                   "close": true
                 }
               }

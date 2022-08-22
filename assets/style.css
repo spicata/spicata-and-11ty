@@ -4,8 +4,12 @@
     --tertiary: #a1a1a1; /* Foreground */
     --quarterly: #303030; /* Text and things */
 
-    --emphasis1: #0008a4; /* Links and emphasis */
-    --emphasis2: #a00093; /* Visited links and emphasis*/
+    --link1: #0008a4; /* Links */
+    --link2: #a00093; /* Visited links */
+
+    --bold: #303030;
+    --italics: #303030;
+    --strikethrough: #303030;
 }
 
 html {
@@ -169,24 +173,24 @@ nav a {
 
 a:link:not(nav a) {
     border-radius: 0.25em;
-    color: var(--emphasis1);
+    color: var(--link1);
     transition: all 0.3s ease;
 }
 
 a:visited:not(nav a) {
     border-radius: 0.25em;
-    color: var(--emphasis2);
+    color: var(--link2);
     transition: all 0.3s ease;
 }
 
 a:hover:not(nav a):not(:visited) {
     color: var(--secondary);
-    background-color: var(--emphasis1);
+    background-color: var(--link1);
 }
 
 a:hover:visited:not(nav a) {
     color: var(--secondary);
-    background-color: var(--emphasis2);
+    background-color: var(--link2);
 }
 
 mark {
