@@ -4,71 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "8e9d3d6ba04cceee",
+        "id": "43ff36f1d8ace6be",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "8e9d3d6ba04cceee",
+              "leaf": "43ff36f1d8ace6be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Aboriginal Spirituality.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":36.36258233183174}"
+            },
+            {
+              "leaf": "43ff36f1d8ace6be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Different, Not Rudimentary.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "8e9d3d6ba04cceee",
+              "leaf": "43ff36f1d8ace6be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"index.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8e9d3d6ba04cceee",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":7},\"to\":{\"line\":3,\"ch\":7}}}"
-            },
-            {
-              "leaf": "8e9d3d6ba04cceee",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":6.406828814565277}"
-            },
-            {
-              "leaf": "8e9d3d6ba04cceee",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Template/Image Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Overview of Oceania by A. P. Elkin.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "roadmap.md",
-            "mode": "source",
+            "file": "notes/Aboriginal Spirituality.md",
+            "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "14ce0b73c023dcbe",
+        "id": "45d48d3d3f14c79d",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "14ce0b73c023dcbe",
+              "leaf": "45d48d3d3f14c79d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":1.6608924164859642}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Different, Not Rudimentary.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
-            "mode": "preview",
+            "file": "notes/Different, Not Rudimentary.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -115,23 +103,36 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
     "type": "split",
     "children": [
       {
-        "id": "96edea13ec8ee058",
+        "id": "c620534039166d03",
         "type": "tabs",
-        "dimension": 39.26247288503254,
         "children": [
           {
-            "id": "46057ce80371597f",
+            "id": "a7a7b491a6adc637",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "66d899a4ef477941",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "notes/Different, Not Rudimentary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             }
           },
           {
-            "id": "ae65f52a2efa7f64",
+            "id": "8822e43fe7eb2d44",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -161,34 +162,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "notes/Different, Not Rudimentary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "5be52378d315b7e6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "c620534039166d03",
+        "id": "fecf014fc2446536",
         "type": "tabs",
-        "dimension": 60.73752711496746,
         "children": [
           {
-            "id": "0112a032dbd714ba",
+            "id": "5f63a354411791c3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -197,39 +184,31 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "about.md",
+                "file": "notes/Different, Not Rudimentary.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#raw",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11026150
-                      }
-                    }
-                  ],
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.5,
-                  "nodeSizeMultiplier": 3.03357785602504,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": false,
-                  "centerStrength": 0.497794750430293,
-                  "repelStrength": 20,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4038789657067567,
-                  "close": true
+                  "scale": 1,
+                  "close": false
                 }
               }
             }
@@ -240,17 +219,20 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "14ce0b73c023dcbe",
+  "active": "45d48d3d3f14c79d",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": true
+  },
   "lastOpenFiles": [
     "roadmap.md",
-    "about.md",
-    "notes/Melting and Boiling points - ane, ene, yne.md",
-    "index.md",
-    "Template/Image Template.md",
+    "notes/Different, Not Rudimentary.md",
     "notes/Aboriginal Spirituality.md",
-    "notes/Philosophy.md",
-    "notes/Formatting.md",
-    "assets/160favicon.png",
-    "notes/Naming Conventions for Alkanes.md"
+    "notes/Overview of Oceania by A. P. Elkin.md",
+    "notes/MathJax.md",
+    "notes/Greenhouse Effect.md",
+    "about.md",
+    "notes/Fractional Distillation.md",
+    "notes/Enthalpy.md",
+    "notes/Tools of Blender.md"
   ]
 }
