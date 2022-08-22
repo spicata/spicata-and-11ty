@@ -12,14 +12,18 @@
             {
               "leaf": "3caad3e3628a18b0",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Tools of Blender.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":82},\"to\":{\"line\":28,\"ch\":82}},\"scroll\":18.419139968708}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Tools of Blender.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -64,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Tools of Blender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Tools of Blender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,8 +148,9 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/Tools of Blender.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -153,7 +159,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#raw",
@@ -163,17 +169,17 @@
                       }
                     }
                   ],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 2.20184487951807,
                   "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7193261554973679,
+                  "scale": 0.33774507529547587,
                   "close": true
                 }
               }
@@ -190,15 +196,15 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "about.md",
+    "Template/Inline Image.md",
+    "notes/Tools of Blender.md",
+    "Template/Image Template.md",
     "notes/Aboriginal Spirituality.md",
     "notes/Different, Not Rudimentary.md",
     "notes/Overview of Oceania by A. P. Elkin.md",
     "roadmap.md",
     "notes/MathJax.md",
-    "notes/Greenhouse Effect.md",
-    "about.md",
-    "notes/Fractional Distillation.md",
-    "notes/Enthalpy.md",
-    "notes/Tools of Blender.md"
+    "notes/Greenhouse Effect.md"
   ]
 }

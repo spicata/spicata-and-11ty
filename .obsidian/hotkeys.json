@@ -128,14 +128,6 @@
       "key": "B"
     }
   ],
-  "obsidian-git:commit-specified-message": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "highlightr-plugin:Yellow": [],
   "highlightr-plugin:Red": [],
   "highlightr-plugin:Pink": [],
@@ -246,6 +238,15 @@
         "Shift"
       ],
       "key": "Tab"
+    }
+  ],
+  "obsidian-banners:banners:addIcon": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
     }
   ]
 }
