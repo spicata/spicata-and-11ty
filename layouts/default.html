@@ -62,6 +62,17 @@
         a.replaceWith(img, document.createElement("br"));
     }
     });
+
+    [...document.body.querySelectorAll("p")].forEach((a,i)=>{
+    var resultInner = "";
+    a.innerHTML.split("%%").forEach((b,j)=>{
+        if (j > 0 && j%2==0) resultInner += "<\/span>";
+        if (j > 0 && j%2==1) resultInner += "<span style=\"display:none;\">";
+        resultInner += b;
+        if (j%2==1 && j == a.innerHTML.split("%%").length-1) resultInner += "<\/span>";
+    })
+    a.innerHTML = resultInner;
+    })
     </script>
 </body>
 </html>
