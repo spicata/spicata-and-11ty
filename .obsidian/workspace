@@ -4,14 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de04a071d3e98092",
+        "id": "3caad3e3628a18b0",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "de04a071d3e98092",
+              "leaf": "3caad3e3628a18b0",
               "group": null,
+<<<<<<< HEAD
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Trigonometric Function.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
@@ -32,13 +33,21 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":2.074194850068559}"
+=======
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Tools of Blender.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":338},\"to\":{\"line\":30,\"ch\":338}},\"scroll\":0.15962231599448892}"
+>>>>>>> parent of 4859f48 (CSS Theme switcher (please work))
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "notes/Trigonometric Function.md",
+=======
+            "file": "notes/Tools of Blender.md",
+>>>>>>> parent of 4859f48 (CSS Theme switcher (please work))
             "mode": "source",
             "source": false
           }
@@ -123,7 +132,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/Trigonometric Function.md",
+=======
+                "file": "notes/Tools of Blender.md",
+>>>>>>> parent of 4859f48 (CSS Theme switcher (please work))
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/Trigonometric Function.md",
+=======
+                "file": "notes/Tools of Blender.md",
+>>>>>>> parent of 4859f48 (CSS Theme switcher (please work))
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +183,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/Trigonometric Function.md",
+=======
+                "file": "notes/Tools of Blender.md",
+>>>>>>> parent of 4859f48 (CSS Theme switcher (please work))
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +218,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.8050949776463576,
+                  "scale": 0.24835252748495212,
                   "close": true
                 }
               }
@@ -209,20 +230,29 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "de04a071d3e98092",
+  "active": "3caad3e3628a18b0",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "notes/Maths Cheat sheet.md",
     "notes/index.md",
+=======
+>>>>>>> parent of 4859f48 (CSS Theme switcher (please work))
     "about.md",
-    "notes/Different, but not Rudimentary.md",
-    "notes/Aboriginal Spirituality.md",
-    "notes/Tools of Blender.md",
     "Template/Inline Image.md",
+    "notes/Tools of Blender.md",
     "Template/Image Template.md",
+    "notes/Aboriginal Spirituality.md",
+    "notes/Different, Not Rudimentary.md",
     "notes/Overview of Oceania by A. P. Elkin.md",
+<<<<<<< HEAD
     "roadmap.md"
+=======
+    "roadmap.md",
+    "notes/MathJax.md",
+    "notes/Greenhouse Effect.md"
+>>>>>>> parent of 4859f48 (CSS Theme switcher (please work))
   ]
 }
