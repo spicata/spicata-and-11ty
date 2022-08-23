@@ -12,8 +12,14 @@
             {
               "leaf": "de04a071d3e98092",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Maths Cheat sheet.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Trigonometric Function.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de04a071d3e98092",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Maths Cheat sheet.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":2},\"to\":{\"line\":1,\"ch\":2}}}"
             },
             {
               "leaf": "de04a071d3e98092",
@@ -32,8 +38,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Maths Cheat sheet.md",
-            "mode": "preview",
+            "file": "notes/Trigonometric Function.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -117,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Maths Cheat sheet.md",
+                "file": "notes/Trigonometric Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Maths Cheat sheet.md",
+                "file": "notes/Trigonometric Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Maths Cheat sheet.md",
+                "file": "notes/Trigonometric Function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,6 +214,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "notes/Maths Cheat sheet.md",
     "notes/index.md",
     "about.md",
     "notes/Different, but not Rudimentary.md",
@@ -216,7 +223,6 @@
     "Template/Inline Image.md",
     "Template/Image Template.md",
     "notes/Overview of Oceania by A. P. Elkin.md",
-    "roadmap.md",
-    "notes/MathJax.md"
+    "roadmap.md"
   ]
 }
