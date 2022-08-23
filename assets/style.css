@@ -133,7 +133,7 @@ table {
     width: 100%;
 }
 
-img :not(img.favicon) {
+img:not(img.favicon) {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -147,13 +147,23 @@ small {
     color: var(--quarterly);
 }
 
-svg {
+svg:not(.homesvg) {
     fill: var(--quarterly);
     transition: 0.3s;
     width: 16px;
 }
 
-svg:hover {
+svg:hover:not(.homesvg) {
+    fill: var(--primary)
+}
+
+svg.homesvg {
+    fill: var(--quarterly);
+    transition: 0.3s;
+    width: 20px;
+}
+
+svg.homesvg:hover {
     fill: var(--primary)
 }
 
