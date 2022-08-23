@@ -4,15 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "bb2ebec5221964bd",
+        "id": "cdbd35f0b5439bac",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "bb2ebec5221964bd",
+              "leaf": "cdbd35f0b5439bac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Trigonometric Functions.md\",\"mode\":\"preview\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Testing.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":12},\"to\":{\"line\":6,\"ch\":12}}}"
+            },
+            {
+              "leaf": "cdbd35f0b5439bac",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Testing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6938228db9c9522a",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6938228db9c9522a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Images.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{\"scroll\":0}"
             }
           ]
@@ -20,43 +49,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Trigonometric Functions.md",
+            "file": "notes/Images.md",
             "mode": "preview",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "3bfb253936d7acc1",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "3bfb253936d7acc1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Probability.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "3bfb253936d7acc1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rushmode.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "3bfb253936d7acc1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Probability.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "diff-view",
-          "state": {
-            "file": "notes/Probability.md",
-            "staged": false
           }
         }
       }
@@ -140,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Trigonometric Functions.md",
+                "file": "notes/Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Trigonometric Functions.md",
+                "file": "notes/Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Trigonometric Functions.md",
+                "file": "notes/Images.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,6 +197,20 @@
                         "a": 1,
                         "rgb": 11026150
                       }
+                    },
+                    {
+                      "query": "tag:#parent",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11854408
+                      }
+                    },
+                    {
+                      "query": "tag:#rushmode",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13848146
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -214,7 +223,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.547116336308624,
+                  "scale": 0.14161485728512874,
                   "close": true
                 }
               }
@@ -226,20 +235,20 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "3bfb253936d7acc1",
+  "active": "6938228db9c9522a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "notes/Probability.md",
+    "notes/Testing.md",
+    "CONTRIBUTING.md",
+    "README.md",
     "roadmap.md",
     "rushmode.md",
-    "notes/Trigonometric Functions.md",
-    "assets/A-prime.png",
-    "assets/A-cup-B.png",
-    "assets/A-cap-B.png",
+    "notes/Probability.md",
+    "index.md",
     "notes/index.md",
-    "notes/Maths Cheat sheet.md",
-    "notes/Tools of Blender.md"
+    "about.md",
+    "notes/Maths Cheat sheet.md"
   ]
 }

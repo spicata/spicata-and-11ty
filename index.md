@@ -1,5 +1,7 @@
 ---
 layout: default
+tags: parent
+alias: Home
 ---
 # My garden bed
 Hello. Have fun copying my notes.
@@ -11,3 +13,6 @@ Also, this website is completely safe, and respects your privacy. We do not sell
 As well as that, I know that this is a part of the [Notes Coalition, and is found on the HubNote](https://notes-coalition.github.io/), and I am also aware that I essentially started this “Notes Coalition” thing, however, I continue to work on these notes independently.
 
 You may ask: “Why is everything only connected by hyperlinks? Can you not just make an easy organising system?” To that, I say: “No.”
+
+
+%%[[rushmode]]/[[notes/index]]/[[about]]/[[roadmap]]%%

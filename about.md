@@ -4,6 +4,7 @@ title: About Me
 banner: "![[img25.jpg]]"
 banner_y: 0.04839
 alias: Favicon
+tags: parent
 ---
 # About Me
 Just a plant making a website.

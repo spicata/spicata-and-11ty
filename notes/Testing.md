@@ -4,3 +4,4 @@ These pages are specifically for testing:
 - [[MathJax|MathJax/Latex]]
 - [[Downloading|Downloads]]
 - [[Line-testing|Line-thickness testing]]
+- [[Images]]

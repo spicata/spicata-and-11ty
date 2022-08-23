@@ -1,2 +1,0 @@
-- [[Trigonometric Functions]]
-- 
