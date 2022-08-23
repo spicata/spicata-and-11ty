@@ -147,23 +147,13 @@ small {
     color: var(--quarterly);
 }
 
-svg:not(.homesvg) {
+svg {
     fill: var(--quarterly);
     transition: 0.3s;
     width: 16px;
 }
 
-svg:hover:not(.homesvg) {
-    fill: var(--primary)
-}
-
-svg.homesvg {
-    fill: var(--quarterly);
-    transition: 0.3s;
-    width: 20px;
-}
-
-svg.homesvg:hover {
+svg:hover {
     fill: var(--primary)
 }
 
