@@ -40,7 +40,14 @@
         </nav>
     </header>
     <main>
-        {{content}}
+        <input type="radio" id="light" name="colors" value="light" checked>
+        <input type="radio" id="dark" name="colors" value="dark">
+ 
+        <div class="color-palette">
+            <label for="light"></label>
+            <label for="dark"></label>
+        </div>
+        {{content}}     
     </main>
     
     <footer class="page-footer">

@@ -1,15 +1,27 @@
 :root {
-    --primary: #f2f2f2; /* For background */
-    --secondary: #d1d1d1; /* For midground? */
-    --tertiary: #a1a1a1; /* Foreground */
-    --quarterly: #303030; /* Text and things */
+    --primary-light: #f2f2f2; /* For background */
+    --secondary-light: #d1d1d1; /* For midground? */
+    --tertiary-light: #a1a1a1; /* Foreground */
+    --quarterly-light: #303030; /* Text and things */
 
-    --link1: #0008a4; /* Links */
-    --link2: #a00093; /* Visited links */
+    --link1-light: #0008a4; /* Links */
+    --link2-light: #a00093; /* Visited links */
 
-    --bold: #303030;
-    --italics: #303030;
-    --strikethrough: #303030;
+    --bold-light: #303030;
+    --italics-light: #303030;
+    --strikethrough-light: #303030;
+    /* -------------------------------------------------------------- */
+    --primary-dark: #303030; /* For background */
+    --secondary-dark: #595959; /* For midground? */
+    --tertiary-dark: #d1d1d1; /* Foreground */
+    --quarterly-dark: #f2f2f2; /* Text and things */
+
+    --link1-dark: #0008a4; /* Links */
+    --link2-dark: #a00093; /* Visited links */
+
+    --bold-dark: #f2f2f2;
+    --italics-dark: #f2f2f2;
+    --strikethrough-dark: #f2f2f2;
 }
 
 html {
@@ -30,8 +42,6 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-
-    background-color: var(--primary);
 }
 
 main {
@@ -52,8 +62,6 @@ main {
     width: 100%;
     position: fixed;
     z-index: 2;
-
-    background-color: var(--secondary);
 }
 
 nav div {
@@ -78,14 +86,14 @@ nav div {
 pre {
     padding: 10px;
     border-radius:5px;
-    background-color: var(--quarterly);
-    color: var(--primary);
+    background-color: var(--quarterly-light);
+    color: var(--primary-light);
 }
 
 /* Quotes */
 blockquote {
     padding: 10px;
-    border: 1px solid var(--quarterly);
+    border: 1px solid var(--quarterly-light);
     border-radius: 5px;
 }
 
@@ -102,30 +110,43 @@ body {
 /* Lines */
 hr {
     height: 0.1em;
-    background-color: var(--secondary);
+    background-color: var(--secondary-light);
     border: none;
 }
 
 /* Theme Switcher */
-.theme-switches {
-    display: flex;
-    justify-content: center;
+[type="radio"] {
+    position: fixed;
+    left: -9999px;
 }
-  
-.switch {
-    border: 2px solid black;
-    border-radius: 50px;
-    height: 30px;
-    width: 30px;
-    margin: 10px;
+   
+label {
     cursor: pointer;
+}
+
+.color-palette {
+    position: fixed;
+    top: 100px;
+    right: 15px;
+    display: grid;
+    grid-row-gap: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.4);
+}
+   
+.color-palette label {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
 }
 
 /* Tables */
 th, td {
     padding: 8px;
     text-align: left;
-    border: 0.1em solid var(--secondary);
+    border: 0.1em solid var(--secondary-light);
 }  
 
 table {
@@ -140,61 +161,128 @@ img :not(img.favicon) {
 }
 
 /* --- Colours --- */
-p,
-li,
-::marker,
-small {
-    color: var(--quarterly);
+#light:checked ~ body {
+    background-color: var(--primary-light);
 }
 
-svg {
-    fill: var(--quarterly);
+#dark:checked ~ body {
+    background-color: var(--primary-dark);
+}
+
+#light:checked ~ .page-header {
+    background-color: var(--secondary-light);
+}
+
+#dark:checked ~ .page-header {
+    background-color: var(--secondary-dark);
+}
+
+
+#light:checked ~ p,
+#light:checked ~ li,
+#light:checked ~ ::marker,
+#light:checked ~ small {
+    color: var(--quarterly-light);
+}
+
+#dark:checked ~ p,
+#dark:checked ~ li,
+#dark:checked ~ ::marker,
+#dark:checked ~ small {
+    color: var(--quarterly-dark);
+}
+
+#light:checked ~ s /* strikethrough-light */ { 
+    color: var(--strikethrough-light)
+}
+
+#dark:checked ~ s /* strikethrough-light */ { 
+    color: var(--strikethrough-dark)
+}
+
+#light:checked ~ em /* italics-light */ { 
+    color: var(--italics-light)
+}
+
+#dark:checked ~ em /* italics-light */ { 
+    color: var(--italics-dark)
+}
+
+#light:checked ~ strong /* bold-light */ { 
+    color: var(--bold-light)
+}
+
+#dark:checked ~ strong /* bold-light */ { 
+    color: var(--bold-dark)
+}
+
+#light:checked ~ svg {
+    fill: var(--quarterly-light);
     transition: 0.3s;
     width: 16px;
 }
 
-svg:hover {
-    fill: var(--primary)
+#light:checked ~ svg:hover {
+    fill: var(--primary-light)
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-th,
-td {
-    color: var(--quarterly);
+#dark:checked ~ svg {
+    fill: var(--quarterly-dark);
+    transition: 0.3s;
+    width: 16px;
 }
 
+#dark:checked ~ svg:hover {
+    fill: var(--primary-dark)
+}
+
+#light:checked ~ h1,
+#light:checked ~ h2,
+#light:checked ~ h3,
+#light:checked ~ h4,
+#light:checked ~ h5,
+#light:checked ~ th,
+#light:checked ~ td {
+    color: var(--quarterly-light);
+}
+
+#dark:checked ~ h1,
+#dark:checked ~ h2,
+#dark:checked ~ h3,
+#dark:checked ~ h4,
+#dark:checked ~ h5,
+#dark:checked ~ th,
+#dark:checked ~ td {
+    color: var(--quarterly-dark);
+}
 nav a {
     color: transparent;
 }
 
 a:link:not(nav a) {
     border-radius: 0.25em;
-    color: var(--link1);
+    color: var(--link1-light);
     transition: all 0.3s ease;
 }
 
 a:visited:not(nav a) {
     border-radius: 0.25em;
-    color: var(--link2);
+    color: var(--link2-light);
     transition: all 0.3s ease;
 }
 
 a:hover:not(nav a):not(:visited) {
-    color: var(--secondary);
-    background-color: var(--link1);
+    color: var(--secondary-light);
+    background-color: var(--link1-light);
 }
 
 a:hover:visited:not(nav a) {
-    color: var(--secondary);
-    background-color: var(--link2);
+    color: var(--secondary-light);
+    background-color: var(--link2-light);
 }
 
 mark {
-  --lowlight-background: var(--primary);
+  --lowlight-background: var(--primary-light);
   border-radius: 0;
   background-image: linear-gradient(
     360deg,

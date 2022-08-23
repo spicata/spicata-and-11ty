@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "3caad3e3628a18b0",
+        "id": "de04a071d3e98092",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "3caad3e3628a18b0",
+              "leaf": "de04a071d3e98092",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Tools of Blender.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":338},\"to\":{\"line\":30,\"ch\":338}},\"scroll\":0.15962231599448892}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Maths Cheat sheet.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "de04a071d3e98092",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/index.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "de04a071d3e98092",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"about.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":2.074194850068559}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Tools of Blender.md",
-            "mode": "source",
+            "file": "notes/Maths Cheat sheet.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Tools of Blender.md",
+                "file": "notes/Maths Cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Tools of Blender.md",
+                "file": "notes/Maths Cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Tools of Blender.md",
+                "file": "notes/Maths Cheat sheet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +191,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.24835252748495212,
+                  "scale": 2.8050949776463576,
                   "close": true
                 }
               }
@@ -191,20 +203,20 @@
     "direction": "horizontal",
     "width": 446.10455322265625
   },
-  "active": "3caad3e3628a18b0",
+  "active": "de04a071d3e98092",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "notes/index.md",
     "about.md",
-    "Template/Inline Image.md",
-    "notes/Tools of Blender.md",
-    "Template/Image Template.md",
+    "notes/Different, but not Rudimentary.md",
     "notes/Aboriginal Spirituality.md",
-    "notes/Different, Not Rudimentary.md",
+    "notes/Tools of Blender.md",
+    "Template/Inline Image.md",
+    "Template/Image Template.md",
     "notes/Overview of Oceania by A. P. Elkin.md",
     "roadmap.md",
-    "notes/MathJax.md",
-    "notes/Greenhouse Effect.md"
+    "notes/MathJax.md"
   ]
 }
