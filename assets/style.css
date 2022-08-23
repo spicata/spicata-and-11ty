@@ -142,6 +142,14 @@ label {
     border-radius: 50%;
 }
 
+[id="light"] ~ .page-wrapper [for="light"] {
+    background: var(--primary-light);
+  }
+   
+[id="dark"] ~ .page-wrapper [for="dark"] {
+    background: var(--primary-dark);
+}
+
 /* Tables */
 th, td {
     padding: 8px;
@@ -161,19 +169,19 @@ img :not(img.favicon) {
 }
 
 /* --- Colours --- */
-#light:checked ~ body {
+#light:checked ~ body::after {
     background-color: var(--primary-light);
 }
 
-#dark:checked ~ body {
+#dark:checked ~ body::after {
     background-color: var(--primary-dark);
 }
 
-#light:checked ~ .page-header {
+#light:checked ~ .page-header::after {
     background-color: var(--secondary-light);
 }
 
-#dark:checked ~ .page-header {
+#dark:checked ~ .page-header::after {
     background-color: var(--secondary-dark);
 }
 
@@ -181,14 +189,14 @@ img :not(img.favicon) {
 #light:checked ~ p,
 #light:checked ~ li,
 #light:checked ~ ::marker,
-#light:checked ~ small {
+#light:checked ~ small::after {
     color: var(--quarterly-light);
 }
 
 #dark:checked ~ p,
 #dark:checked ~ li,
 #dark:checked ~ ::marker,
-#dark:checked ~ small {
+#dark:checked ~ small::after {
     color: var(--quarterly-dark);
 }
 
@@ -216,23 +224,23 @@ img :not(img.favicon) {
     color: var(--bold-dark)
 }
 
-#light:checked ~ svg {
+#light:checked ~ svg::after {
     fill: var(--quarterly-light);
     transition: 0.3s;
     width: 16px;
 }
 
-#light:checked ~ svg:hover {
+#light:checked ~ svg:hover::after {
     fill: var(--primary-light)
 }
 
-#dark:checked ~ svg {
+#dark:checked ~ svg::after {
     fill: var(--quarterly-dark);
     transition: 0.3s;
     width: 16px;
 }
 
-#dark:checked ~ svg:hover {
+#dark:checked ~ svg:hover::after {
     fill: var(--primary-dark)
 }
 
