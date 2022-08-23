@@ -1,12 +1,15 @@
+---
+banner: "![[13 gettyimages-951988656_resized.jpg]]"
+---
 # Probability #rushmode 
 ## Notation
 - $P(x)$ means probability that event $x$ will occur.
 - $P(x')$ means probability that event $x$ will not occur. (**NOT**)
-	- ![[A-prime.png]]
+	- <img src="https://mint-garden.netlify.app/assets/A-prime.png" style="max-width:100%;height:auto">
 - $P(A\cap B)$ means $A$ i**n**tersection $B$, meaning that the probability that $A$ and $B$ occur. (**AND**)
-	- ![[A-cap-B.png]]
+	- <img src="https://mint-garden.netlify.app/assets/A-cap-B.png" style="max-width:100%;height:auto">
 - $P(A\cup B)$ means $A$ **u**nion $B$, meaning that the probability that $A$ or $B$ occur. (**OR**)
-	- ![[A-cup-B.png]]
+	- <img src="https://mint-garden.netlify.app/assets/A-cup-B.png" style="max-width:100%;height:auto">
 - $P(A|B)$ means $A$ given $B$, meaning that the probability that $A$ occurs given that $B$ also occurs.
 ## Equations
 - $P(A\cap B)=P(A|B)\times P(B)=P(B|A)\times P(A)$ (multiplication rule)

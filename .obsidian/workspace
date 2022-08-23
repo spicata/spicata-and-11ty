@@ -35,8 +35,14 @@
             {
               "leaf": "3bfb253936d7acc1",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Probability.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "3bfb253936d7acc1",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rushmode.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "3bfb253936d7acc1",
@@ -47,11 +53,10 @@
           ]
         },
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "rushmode.md",
-            "mode": "source",
-            "source": false
+            "file": "notes/Probability.md",
+            "staged": false
           }
         }
       }
@@ -88,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "![[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,11 +102,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -133,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rushmode.md",
+                "file": "notes/Trigonometric Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rushmode.md",
+                "file": "notes/Trigonometric Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "rushmode.md",
+                "file": "notes/Trigonometric Functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,14 +232,14 @@
   },
   "lastOpenFiles": [
     "notes/Probability.md",
+    "roadmap.md",
+    "rushmode.md",
     "notes/Trigonometric Functions.md",
     "assets/A-prime.png",
     "assets/A-cup-B.png",
     "assets/A-cap-B.png",
-    "rushmode.md",
     "notes/index.md",
     "notes/Maths Cheat sheet.md",
-    "notes/Tools of Blender.md",
-    "about.md"
+    "notes/Tools of Blender.md"
   ]
 }

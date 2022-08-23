@@ -7,9 +7,9 @@
     --link1: #0008a4; /* Links */
     --link2: #a00093; /* Visited links */
 
-    --bold: #303030;
-    --italics: #303030;
-    --strikethrough: #303030;
+    --bold: #950000;
+    --italics: #006a7a;
+    --strikethrough: #575757;
 }
 
 html {
@@ -145,6 +145,18 @@ li,
 ::marker,
 small {
     color: var(--quarterly);
+}
+
+em {
+    color: var(--italics)
+}
+
+strong {
+    color: var(--bold);
+}
+
+s {
+    color: var(--strikethrough);
 }
 
 svg {
