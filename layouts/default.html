@@ -56,7 +56,7 @@
     if (a.innerHTML.indexOf(".png") != -1) {
     // convert to image.
     let img = document.createElement("img");
-    img.src = "/Images/" + a.innerHTML;
+    img.src = "https://mint-garden.netlify.app/assets/" + a.innerHTML;
     a.previousSibling.nodeValue = a.previousSibling.nodeValue.split("\n!")[0];
     if (a.previousSibling.nodeValue == "!") a.previousSibling.nodeValue = "";
         a.replaceWith(img, document.createElement("br"));
