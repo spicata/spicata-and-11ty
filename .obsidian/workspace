@@ -35,15 +35,21 @@
             {
               "leaf": "3bfb253936d7acc1",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rushmode.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3bfb253936d7acc1",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Probability.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Probability.md",
+            "file": "rushmode.md",
             "mode": "source",
             "source": false
           }
@@ -127,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Probability.md",
+                "file": "rushmode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Probability.md",
+                "file": "rushmode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Probability.md",
+                "file": "rushmode.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,8 +224,8 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "notes/Trigonometric Functions.md",
     "notes/Probability.md",
+    "notes/Trigonometric Functions.md",
     "assets/A-prime.png",
     "assets/A-cup-B.png",
     "assets/A-cap-B.png",
