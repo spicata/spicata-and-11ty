@@ -7,12 +7,12 @@ alias: Home
 Hello. Have fun copying my notes.
 
 ---
-Very happy birthday to a certain “Prawn” and “an egg on frying pan”. I wish they have a great day today, and that continues on for the rest of the year as well. Best wishes; good luck.
+Very happy birthday to a certain “Prawn”. I wish he has a great day today, and I hope that that continues on for the rest of the year as well. Best wishes; good luck.
 
 Have a good one,
 \- spicata :)
 
-p.s. Blob Farmer will never come out.
+p.s. I am very bad ay writing birthday messages & Blob Farmer will never come out.
 
 %%Although, you should note some things about this place. First of all, notes marked with "#raw" means that they are raw notes, littered with bullet points and incomplete sentences. These notes, are not particularly useful, only useful for me, so you may want to keep on the non-raw notes.%%
 
