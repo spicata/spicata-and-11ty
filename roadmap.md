@@ -12,12 +12,12 @@ tags: parent
 	- ~~Sticky header~~
 	- Theme Switcher (← This broke me)
 	- Banner Photos
-- Better: 
-	- ~~**bold**, ~~
-	- ~~*italics*, ~~
-	- ~~strikethrough~~ (check?), 
+- Better:
+	- ~~**bold**~~
+	- ~~*italics*,~~
+	- ~~strikethrough (check?),~~
 	- link, and 
-	- <mark style="background: #398D42A6;">“highlight”</mark> ~~styling.~~
+	- ~~<mark style="background: #398D42A6;">“highlight”</mark> styling.~~
 - Bug Fixes:
 	- No highlight + other formatting compatibility
 	- ~~Strange ratio on some mobile devices.~~

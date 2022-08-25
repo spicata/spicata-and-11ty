@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
-    "theme"
+    "theme",
+    "mark fixer"
   ],
   "translucency": false,
   "theme": "obsidian",

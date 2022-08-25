@@ -22,5 +22,14 @@
   "obsidian-california-coast-theme@@cc-no-folder-icons": false,
   "obsidian-california-coast-theme@@cc-header-spacing": false,
   "obsidian-california-coast-theme@@cc-soft-wrap-code-blocks": false,
-  "obsidian-california-coast-theme@@cc-seamless-embed": false
+  "obsidian-california-coast-theme@@cc-seamless-embed": false,
+  "pane-relief@@pane-relief-pane-numbering": true,
+  "pane-relief@@pane-relief-disable-counts": false,
+  "things-style@@floating-button-off": false,
+  "things-style@@macOS-translucent": false,
+  "things-style@@minimal-icons-off": false,
+  "things-style@@full-file-names": false,
+  "things-style@@show-mobile-hamburger": false,
+  "things-style@@default-font-color": false,
+  "things-style@@text": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif"
 }

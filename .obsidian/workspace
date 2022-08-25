@@ -4,31 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "6938228db9c9522a",
+        "id": "9f63bb156b1e9cdf",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "6938228db9c9522a",
+              "leaf": "9f63bb156b1e9cdf",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"index.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "6cc3d9111ecd6734",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6cc3d9111ecd6734",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Experiences of Science.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "6938228db9c9522a",
+              "leaf": "6cc3d9111ecd6734",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Images.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "notes/Experiences of Science.md",
             "mode": "source",
-            "source": false
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "cbf177111c557245",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "cbf177111c557245",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Metamorphosis by Franz Kafka.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":37},\"to\":{\"line\":8,\"ch\":37}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Metamorphosis by Franz Kafka.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -112,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "notes/Metamorphosis by Franz Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "notes/Metamorphosis by Franz Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +184,7 @@
         ]
       },
       {
-        "id": "fecf014fc2446536",
+        "id": "49f0ab6d7f9459c6",
         "type": "tabs",
         "children": [
           {
@@ -155,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "notes/Metamorphosis by Franz Kafka.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +242,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.14161485728512874,
+                  "scale": 0.2773319874689972,
                   "close": true
                 }
               }
@@ -210,22 +252,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.10455322265625
+    "width": 457.5
   },
-  "active": "6938228db9c9522a",
+  "active": "cbf177111c557245",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "notes/Testing.md",
-    "index.md",
-    "notes/Images.md",
-    "CONTRIBUTING.md",
-    "README.md",
-    "roadmap.md",
-    "rushmode.md",
-    "notes/Probability.md",
+    "notes/Experiences of Science.md",
+    "notes/Representation of Gregor Samsa.md",
+    "notes/Metamorphosis by Franz Kafka.md",
+    "notes/Themes in Metamorphosis.md",
+    "notes/Overview of Oceania by A. P. Elkin.md",
     "notes/index.md",
-    "about.md"
+    "notes/Food for Thought.md",
+    "notes/Insects in Metamorphosis.md",
+    "notes/Metamorphosis & Marx.md",
+    "notes/contains significant depth.md"
   ]
 }

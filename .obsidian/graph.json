@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#food4thought",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -35,10 +42,10 @@
   "nodeSizeMultiplier": 5,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.400152582159624,
+  "centerStrength": 0.496833712984055,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15549021463326337,
+  "scale": 0.17207820922495803,
   "close": true
 }
