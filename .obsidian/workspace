@@ -4,38 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9f63bb156b1e9cdf",
+        "id": "a421c6b0b75ea196",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "9f63bb156b1e9cdf",
+              "leaf": "a421c6b0b75ea196",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"index.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "6cc3d9111ecd6734",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "6cc3d9111ecd6734",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Experiences of Science.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "6cc3d9111ecd6734",
+              "leaf": "a421c6b0b75ea196",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
@@ -45,30 +26,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Experiences of Science.md",
+            "file": "index.md",
             "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "cbf177111c557245",
+        "id": "a37906afd7088a2f",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "cbf177111c557245",
+              "leaf": "a37906afd7088a2f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Metamorphosis by Franz Kafka.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":37},\"to\":{\"line\":8,\"ch\":37}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Metamorphosis by Franz Kafka.md",
+            "file": "roadmap.md",
             "mode": "source",
             "source": true
           }
@@ -154,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Metamorphosis by Franz Kafka.md",
+                "file": "roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Metamorphosis by Franz Kafka.md",
+                "file": "roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Metamorphosis by Franz Kafka.md",
+                "file": "roadmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,20 +235,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "cbf177111c557245",
+  "active": "a37906afd7088a2f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "index.md",
+    "notes/index.md",
+    "notes/Tools of Blender.md",
     "notes/Experiences of Science.md",
     "notes/Representation of Gregor Samsa.md",
     "notes/Metamorphosis by Franz Kafka.md",
-    "notes/Themes in Metamorphosis.md",
-    "notes/Overview of Oceania by A. P. Elkin.md",
-    "notes/index.md",
-    "notes/Food for Thought.md",
     "notes/Insects in Metamorphosis.md",
     "notes/Metamorphosis & Marx.md",
-    "notes/contains significant depth.md"
+    "notes/Themes in Metamorphosis.md",
+    "about.md"
   ]
 }

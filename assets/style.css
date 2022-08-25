@@ -147,16 +147,16 @@ small {
     color: var(--quarterly);
 }
 
+s {
+    color: var(--strikethrough) !important;
+}
+
 em {
     color: var(--italics)
 }
 
 strong {
     color: var(--bold);
-}
-
-s {
-    color: var(--strikethrough);
 }
 
 svg {
