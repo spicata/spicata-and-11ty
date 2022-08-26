@@ -16,5 +16,7 @@
   "obsidian-sortable",
   "obsidian-latex-suite",
   "obsidian-text-format",
-  "obsidian-autocomplete-plugin"
+  "obsidian-autocomplete-plugin",
+  "obsidian-paste-image-rename",
+  "obsidian-hotkeys-for-templates"
 ]

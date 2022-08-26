@@ -1,2 +1,0 @@
-# Going Backwards
-But they can't get you out completely, or at least, not immediately. You'll often find yourself meandering through a hypertext garden. It may not be the fastest path, but it's the one that you will have to take. In most cases however, it will [[Digital Gardens|just loop back]]

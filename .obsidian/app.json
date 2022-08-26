@@ -11,7 +11,8 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
   "spellcheckLanguages": [
-    "en-AU"
+    "en-AU",
+    "en-GB"
   ],
   "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,

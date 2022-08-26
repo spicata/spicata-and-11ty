@@ -58,14 +58,7 @@
       "key": ";"
     }
   ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
+  "obsidian-git:push2": [],
   "persistent-graph:save-node-positions": [
     {
       "modifiers": [

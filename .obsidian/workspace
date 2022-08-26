@@ -4,19 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a421c6b0b75ea196",
+        "id": "65a80d352dd3dfe2",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "a421c6b0b75ea196",
+              "leaf": "65a80d352dd3dfe2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Indigenous Philosophies by Miguel van der Velden.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "a421c6b0b75ea196",
+              "leaf": "65a80d352dd3dfe2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Digital Gardening and Notes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+            },
+            {
+              "leaf": "65a80d352dd3dfe2",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
@@ -26,30 +32,36 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
-            "mode": "source",
+            "file": "notes/Indigenous Philosophies by Miguel van der Velden.md",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "a37906afd7088a2f",
+        "id": "67bc9035503d1f4c",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "a37906afd7088a2f",
+              "leaf": "67bc9035503d1f4c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"roadmap.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Digital Gardening and Notes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":13},\"to\":{\"line\":18,\"ch\":13}},\"scroll\":2.650000254313151}"
+            },
+            {
+              "leaf": "67bc9035503d1f4c",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "roadmap.md",
+            "file": "notes/Digital Gardening and Notes.md",
             "mode": "source",
             "source": true
           }
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap.md",
+                "file": "notes/Digital Gardening and Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmap.md",
+                "file": "notes/Digital Gardening and Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "roadmap.md",
+                "file": "notes/Digital Gardening and Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,20 +247,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "a37906afd7088a2f",
+  "active": "67bc9035503d1f4c",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "index.md",
-    "notes/index.md",
-    "notes/Tools of Blender.md",
-    "notes/Experiences of Science.md",
-    "notes/Representation of Gregor Samsa.md",
+    "notes/Indigenous Philosophies by Miguel van der Velden.md",
+    "notes/Digital Gardening and Notes.md",
     "notes/Metamorphosis by Franz Kafka.md",
-    "notes/Insects in Metamorphosis.md",
-    "notes/Metamorphosis & Marx.md",
-    "notes/Themes in Metamorphosis.md",
-    "about.md"
+    "notes/Overview of Oceania by A. P. Elkin.md",
+    "notes/Hydrocarbons.md",
+    "roadmap.md",
+    "index.md",
+    "notes/Digital Gardens.md",
+    "notes/About these Notes.md",
+    "notes/Learning.md"
   ]
 }
