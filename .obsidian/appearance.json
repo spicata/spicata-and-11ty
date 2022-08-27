@@ -4,7 +4,7 @@
     "theme",
     "mark fixer"
   ],
-  "translucency": false,
+  "translucency": true,
   "theme": "obsidian",
   "baseFontSize": 19,
   "textFontFamily": ""

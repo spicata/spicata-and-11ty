@@ -4,23 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "7ac514480e6b3694",
+        "id": "a488b62df0b024c5",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "7ac514480e6b3694",
+              "leaf": "a488b62df0b024c5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":123},\"to\":{\"line\":10,\"ch\":123}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Marxism (L).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":114},\"to\":{\"line\":4,\"ch\":114}}}"
+            },
+            {
+              "leaf": "a488b62df0b024c5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Indigenous Philosophies (L).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "notes/2 Literature Notes/Marxism (L).md",
             "mode": "source",
             "source": true
           }
@@ -104,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/2 Literature Notes/Marxism (L).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/2 Literature Notes/Marxism (L).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "notes/2 Literature Notes/Marxism (L).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,20 +210,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "7ac514480e6b3694",
+  "active": "a488b62df0b024c5",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "notes/2 Literature Notes/Indigenous Philosophies (L).md",
+    "notes/2 Literature Notes/Marxism (L).md",
+    "README.md",
     "notes/archive/Catalyst.md",
     "notes/archive/Alkane.md",
     "notes/archive/Aboriginal Spirituality.md",
     "notes/archive/Organic Chemistry.md",
     "notes/archive/Natural Gas.md",
     "notes/archive/Representation of Gregor Samsa.md",
-    "notes/archive/Metamorphosis by Franz Kafka.md",
-    "notes/archive/Metamorphosis & Marx.md",
-    "notes/archive/Indigenous Philosophies by Miguel van der Velden.md",
-    "notes/archive/Digital Gardening and Notes.md"
+    "notes/archive/Metamorphosis by Franz Kafka.md"
   ]
 }

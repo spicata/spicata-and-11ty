@@ -31,5 +31,8 @@
   "things-style@@full-file-names": false,
   "things-style@@show-mobile-hamburger": false,
   "things-style@@default-font-color": false,
-  "things-style@@text": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif"
+  "things-style@@text": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+  "things-style@@em-color": "#FF8354",
+  "Yin and Yang@@rainbow-headers": true,
+  "Yin and Yang@@macOS-translucent": false
 }
