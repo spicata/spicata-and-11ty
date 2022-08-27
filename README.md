@@ -7,5 +7,6 @@ This is made possible due to [this repository](https://github.com/binyamin/eleve
 1. It helps people who need it; 
 2. Information and education should be free; or
 3. We are just making a point
-## Roadmap
-- Nothing yet
+## Alternatives for websites
+- https://github.com/mathieudutour/gatsby-digital-garden/ (result @ https://mathieudutour.github.io/gatsby-digital-garden/)
+- https://github.com/ppeetteerrs/obsidian-zola (result @ https://peteryuen.netlify.app/)

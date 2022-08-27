@@ -4,53 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d15fe48146b8d45f",
+        "id": "7ac514480e6b3694",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "d15fe48146b8d45f",
+              "leaf": "7ac514480e6b3694",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Organic Chemistry.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d15fe48146b8d45f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Natural Gas.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d15fe48146b8d45f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Aboriginal Spirituality.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d15fe48146b8d45f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Representation of Gregor Samsa.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d15fe48146b8d45f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Metamorphosis by Franz Kafka.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":37},\"to\":{\"line\":8,\"ch\":37}}}"
-            },
-            {
-              "leaf": "d15fe48146b8d45f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Metamorphosis & Marx.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":123},\"to\":{\"line\":10,\"ch\":123}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/archive/Organic Chemistry.md",
+            "file": "README.md",
             "mode": "source",
             "source": true
           }
@@ -134,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/archive/Organic Chemistry.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/archive/Organic Chemistry.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/archive/Organic Chemistry.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,20 +204,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "d15fe48146b8d45f",
+  "active": "7ac514480e6b3694",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "notes/archive/Natural Gas.md",
+    "notes/archive/Catalyst.md",
+    "notes/archive/Alkane.md",
     "notes/archive/Aboriginal Spirituality.md",
+    "notes/archive/Organic Chemistry.md",
+    "notes/archive/Natural Gas.md",
     "notes/archive/Representation of Gregor Samsa.md",
     "notes/archive/Metamorphosis by Franz Kafka.md",
     "notes/archive/Metamorphosis & Marx.md",
     "notes/archive/Indigenous Philosophies by Miguel van der Velden.md",
-    "notes/archive/Digital Gardening and Notes.md",
-    "notes/archive/Overview of Oceania by A. P. Elkin.md",
-    "notes/archive/Hydrocarbons.md",
-    "roadmap.md"
+    "notes/archive/Digital Gardening and Notes.md"
   ]
 }
