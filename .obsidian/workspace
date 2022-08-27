@@ -4,27 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "65a80d352dd3dfe2",
+        "id": "d15fe48146b8d45f",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "65a80d352dd3dfe2",
+              "leaf": "d15fe48146b8d45f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Indigenous Philosophies by Miguel van der Velden.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Organic Chemistry.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             },
             {
-              "leaf": "65a80d352dd3dfe2",
+              "leaf": "d15fe48146b8d45f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Digital Gardening and Notes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Natural Gas.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             },
             {
-              "leaf": "65a80d352dd3dfe2",
+              "leaf": "d15fe48146b8d45f",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Aboriginal Spirituality.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d15fe48146b8d45f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Representation of Gregor Samsa.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d15fe48146b8d45f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Metamorphosis by Franz Kafka.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":37},\"to\":{\"line\":8,\"ch\":37}}}"
+            },
+            {
+              "leaf": "d15fe48146b8d45f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/archive/Metamorphosis & Marx.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -32,36 +50,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Indigenous Philosophies by Miguel van der Velden.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "67bc9035503d1f4c",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "67bc9035503d1f4c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Digital Gardening and Notes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":13},\"to\":{\"line\":18,\"ch\":13}},\"scroll\":2.650000254313151}"
-            },
-            {
-              "leaf": "67bc9035503d1f4c",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Digital Gardening and Notes.md",
+            "file": "notes/archive/Organic Chemistry.md",
             "mode": "source",
             "source": true
           }
@@ -109,13 +98,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Digital Gardening and Notes.md",
+                "file": "notes/archive/Organic Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Digital Gardening and Notes.md",
+                "file": "notes/archive/Organic Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Digital Gardening and Notes.md",
+                "file": "notes/archive/Organic Chemistry.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,20 +234,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "67bc9035503d1f4c",
+  "active": "d15fe48146b8d45f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "notes/Indigenous Philosophies by Miguel van der Velden.md",
-    "notes/Digital Gardening and Notes.md",
-    "notes/Metamorphosis by Franz Kafka.md",
-    "notes/Overview of Oceania by A. P. Elkin.md",
-    "notes/Hydrocarbons.md",
-    "roadmap.md",
-    "index.md",
-    "notes/Digital Gardens.md",
-    "notes/About these Notes.md",
-    "notes/Learning.md"
+    "notes/archive/Natural Gas.md",
+    "notes/archive/Aboriginal Spirituality.md",
+    "notes/archive/Representation of Gregor Samsa.md",
+    "notes/archive/Metamorphosis by Franz Kafka.md",
+    "notes/archive/Metamorphosis & Marx.md",
+    "notes/archive/Indigenous Philosophies by Miguel van der Velden.md",
+    "notes/archive/Digital Gardening and Notes.md",
+    "notes/archive/Overview of Oceania by A. P. Elkin.md",
+    "notes/archive/Hydrocarbons.md",
+    "roadmap.md"
   ]
 }

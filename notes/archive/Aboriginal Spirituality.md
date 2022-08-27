@@ -1,5 +1,8 @@
 ---
 banner: "![[img30.jpg]]"
+---
+---
+banner: "![[img30.jpg]]"
 alias: Indigenous Spirituality
 ---
 # Aboriginal Spirituality

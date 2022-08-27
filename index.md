@@ -15,4 +15,4 @@ As well as that, I know that this is a part of the [Notes Coalition, and is foun
 You may ask: “Why is everything only connected by hyperlinks? Can you not just make an easy organising system?” To that, I say: “No.”
 
 
-%%[[rushmode]]/[[notes/index]]/[[about]]/[[roadmap]]%%
+%%[[rushmode]]/[[notes/archive/index]]/[[about]]/[[roadmap]]%%
