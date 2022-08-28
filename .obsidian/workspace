@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "a488b62df0b024c5",
+        "id": "4d06d5df7bfcdd8a",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "a488b62df0b024c5",
+              "leaf": "4d06d5df7bfcdd8a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Marxism (L).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":114},\"to\":{\"line\":4,\"ch\":114}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/Marxism (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             },
             {
-              "leaf": "a488b62df0b024c5",
+              "leaf": "4d06d5df7bfcdd8a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Indigenous Philosophies (L).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Aboriginal Worldview (L).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/2 Literature Notes/Marxism (L).md",
+            "file": "notes/3 Permanent Notes/Marxism (P).md",
             "mode": "source",
             "source": true
           }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2 Literature Notes/Marxism (L).md",
+                "file": "notes/3 Permanent Notes/Marxism (P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2 Literature Notes/Marxism (L).md",
+                "file": "notes/3 Permanent Notes/Marxism (P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/2 Literature Notes/Marxism (L).md",
+                "file": "notes/3 Permanent Notes/Marxism (P).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,20 +211,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "a488b62df0b024c5",
+  "active": "4d06d5df7bfcdd8a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "notes/2 Literature Notes/Aboriginal Worldview (L).md",
+    "notes/3 Permanent Notes/Marxism (P).md",
     "notes/2 Literature Notes/Indigenous Philosophies (L).md",
+    "notes/3 Permanent Notes/Indigenous Philosophies (P).md",
     "notes/2 Literature Notes/Marxism (L).md",
     "README.md",
     "notes/archive/Catalyst.md",
     "notes/archive/Alkane.md",
     "notes/archive/Aboriginal Spirituality.md",
-    "notes/archive/Organic Chemistry.md",
-    "notes/archive/Natural Gas.md",
-    "notes/archive/Representation of Gregor Samsa.md",
-    "notes/archive/Metamorphosis by Franz Kafka.md"
+    "notes/archive/Organic Chemistry.md"
   ]
 }

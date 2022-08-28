@@ -9,7 +9,6 @@
   "quick-latex",
   "obsidian-smart-typography",
   "obsidian-banners",
-  "obsidian-tabs",
   "highlightr-plugin",
   "pane-relief",
   "lapel",
@@ -20,5 +19,6 @@
   "obsidian-paste-image-rename",
   "obsidian-hotkeys-for-templates",
   "obsidian-grandfather",
-  "OA-file-hider"
+  "OA-file-hider",
+  "obsidian-footnotes"
 ]

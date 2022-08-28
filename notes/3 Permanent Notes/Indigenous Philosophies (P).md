@@ -1,0 +1,2 @@
+# Indigenous Philosophies #Permanent 
+,
