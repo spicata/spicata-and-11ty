@@ -3,8 +3,6 @@ Marxism is a philosophy that was based on Karl Marx and Friedrich Engel’s publ
 
 Marxists posit that due to the way capitalism works, is creates an inevitable alienation[^2] between the workers, their jobs, and their lives, as it benefits the bourgeoise first and workers second. Furthermore, they postulate that the bourgeoise, with their considerable influence, were able to utilise institutions to keep proletariats under the capitalist regime[^3]. They believed that this conflict between ideals would boil over into full blown revolution (a process undergoing, albeit slowly in the left-wing-isation of younger generations[^4]).
 
-[[Marxism (L)]]
-
 [^1]: Why then, do there still exist capitalist structures today? And why are they the majority of economic structures?
 [^2]: Is my belief that everyone should be doing their jobs well and properly, as well as enjoying it a result of the capitalist system? Or is it a by-product of my cultural background?
 [^3]: Seen in modern society, where large businessmen get away with abusing institutions, e.g. evading taxes and lobbying against minimum wage

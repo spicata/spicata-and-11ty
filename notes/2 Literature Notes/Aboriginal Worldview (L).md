@@ -4,6 +4,11 @@
 - Massive and ancient spirits, awakened from their slumber, formed the land through their actions among each other, and taught humanity about the Law. They would become the ancestors of everything in Australia.
 - Everyone contains a part of the powers of these spirits, and therefore responsible for the descendants of them.
 - Aboriginal’s worldview is focused on the long-term benefits and detriments, and how this can be integrated into society.
+- Commenting on the disconnect between Western spirituality and society. If such disconnect were to exist in Aboriginal society, it would be disastrous, leading to the loss of identity and societal ruin.
+- Unlike the Aboriginal society, Western society lacks a collective worldview, thus leading to disharmony, and the lack of a “Law”
+- It is posited that altruism is a more developed for of possession, with altruism being a commonplace belief in Aboriginal society, where excess is not sough after, rather is distributed.
+- Aboriginal spirituality is separate from ideology. Ideology must come where a “true way” exists, however, this is not present in Aboriginal spirituality.
+- In Western culture, a natural law is a law that describes a part of the universe, like the law of thermodynamics, whilst positive law is legislation enforced by society. These laws are influenceable by humans. Aboriginal customary law, is by the spiritual ancestors, and thus is immutable.
 
 ---
 # Bibliography

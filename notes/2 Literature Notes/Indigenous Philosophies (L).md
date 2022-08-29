@@ -8,6 +8,8 @@
 - It allows the integration of Indigenous people into society by forming a more familiar social landscape.
 - Allows for sustainable growth through the wisdom of multitudes of generations before, who had lived off the land.
 
+[[Indigenous Philosophies (P)]]
+
 ---
 # Bibliography
 _Indigenous Philosophies | Issue 127 | Philosophy Now_. (n.d.). Retrieved August 27, 2022, from [https://philosophynow.org/issues/127/Indigenous_Philosophies](https://philosophynow.org/issues/127/Indigenous_Philosophies)

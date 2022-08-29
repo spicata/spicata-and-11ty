@@ -4,6 +4,8 @@
 - Bourgeoise used institutions to keep the proletariats under their control.
 - Marx believed that this treatment towards proletariats would eventually boil over into a full blown revolution.
 
+[[Marxism (P)]]
+
 ---
 # Bibliography
 _Marxism: What It Is and Comparison to Communism, Socialism, and Capitalism_. (n.d.). Investopedia. Retrieved August 27, 2022, from [https://www.investopedia.com/terms/m/marxism.asp](https://www.investopedia.com/terms/m/marxism.asp)
