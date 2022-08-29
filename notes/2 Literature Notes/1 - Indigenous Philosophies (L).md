@@ -1,4 +1,4 @@
-# Indigenous Philosophies #Literature
+# 1 - Indigenous Philosophies #Literature
 - Actions are either not paved by philosophy (since mismanagement), or there is a fundamental piece we are missing (since conflict).
 - *Is God **inside** or **outside** of the world. Alternatively, is God the world?*
 - There are many of these philosophies, but they are afraid of becoming a homogenised group through the facets of language.
@@ -8,7 +8,7 @@
 - It allows the integration of Indigenous people into society by forming a more familiar social landscape.
 - Allows for sustainable growth through the wisdom of multitudes of generations before, who had lived off the land.
 
-[[Indigenous Philosophies (P)]]
+[[1 - Indigenous Philosophies (P)]]
 
 ---
 # Bibliography

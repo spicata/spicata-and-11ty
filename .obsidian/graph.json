@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:notes/archive -tag:#parent  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,28 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#raw",
-      "color": {
-        "a": 1,
-        "rgb": 11291107
-      }
-    },
-    {
-      "query": "tag:#parent",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#rushmode",
+      "query": "tag:#Fleeting",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#food4thought",
+      "query": "tag:#Literature",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Permanent",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Index",
       "color": {
         "a": 1,
         "rgb": 5431378
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13990910046377963,
+  "scale": 0.2207743581195776,
   "close": true
 }

@@ -1,4 +1,4 @@
-# Indigenous Philosophies #Permanent 
+# 1 - Indigenous Philosophies #Permanent 
 Actions cannot be paved by philosophy. This statement is self-evident since otherwise, why would there be environmental collapse and wars caused by humanity? Either this is accepted, or there is a fundamental piece of philosophy that we are missing.[^1] Indigenous philosophies are a possible solution to a global, collective philosophy that can patch up some of these problems.[^2]
 
  Being Indigenous has more than just being first[^3], but also to have maintained a strong bond to the land[^4]. There are many of these Indigenous cultures that exist, yet they are all equally afraid of becoming a homogenised group through the facets of language. [^5]%%**Elaborate on this fear**%%
@@ -7,7 +7,7 @@ In Western and Eastern religions, God is either placed inside or outside of the 
 
 As philosophy acts as a culmination of different perspectives[^8], the adoption of Indigenous Philosophy benefits philosophic growth. It would also allow for the integration of Indigenous people into society and for sustainable growth through the wisdom found in Indigenous philosophies. %%**Elaborate**%%
 
-[[Aboriginal Worldview (P)]] »
+« None | [[2 - Aboriginal Worldview, Land (P)]] »
 
 [^1]: Either we must accept that our philosophies are perfect but actions are not based on them; or that our philosophies are not perfect, thus our actions are imperfect.
 [^2]: To be honest, do we need a perfect philosophy? Much like Aboriginal spirituality, could we not just accept the fact that complexities exist in the world.

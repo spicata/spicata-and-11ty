@@ -263,6 +263,12 @@
         "Alt"
       ],
       "key": "F"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
     }
   ],
   "obsidian-tidy-footnotes:tidy-footnotes": [
@@ -287,6 +293,22 @@
         "Alt"
       ],
       "key": "V"
+    }
+  ],
+  "luhman:new-child-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ],
+  "luhman:new-sibling-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
     }
   ]
 }

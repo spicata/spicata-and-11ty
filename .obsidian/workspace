@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9759815986ee4ee1",
+        "id": "693523182c012cbc",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "9759815986ee4ee1",
+              "leaf": "693523182c012cbc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/1 Fleeting Notes/2022-08-29 Science (F).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":38},\"to\":{\"line\":7,\"ch\":66}}}"
-            },
-            {
-              "leaf": "9759815986ee4ee1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Untitled.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/1 Fleeting Notes/2022-08-29 Science (F).md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "bd6b0de4b45fe871",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "bd6b0de4b45fe871",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Alpha Decay (L).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Alpha Decay (L).md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -134,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Alpha Decay (L).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Alpha Decay (L).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +142,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Alpha Decay (L).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,20 +198,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "bd6b0de4b45fe871",
+  "active": "693523182c012cbc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
     "notes/1 Fleeting Notes/2022-08-29 Science (F).md",
-    "notes/Alpha Decay (L).md",
-    "notes/Untitled.md",
-    "notes/2 Literature Notes/Indigenous Philosophies (L).md",
-    "notes/3 Permanent Notes/Marxism (P).md",
-    "notes/2 Literature Notes/Marxism (L).md",
-    "notes/3 Permanent Notes/Indigenous Philosophies (P).md",
-    "notes/Aboriginal Worldview (P).md",
     "notes/2 Literature Notes/Aboriginal Worldview (L).md",
-    "README.md"
+    "notes/3 - Aboriginal Worldview, Society (P).md",
+    "notes/3 Permanent Notes/2 - Aboriginal Worldview, Land (P).md",
+    "notes/3 Permanent Notes/1 - Indigenous Philosophies (P).md",
+    "notes/3,a - The Law (P).md",
+    "notes/3,b - Western Laws (P).md",
+    "notes/2 Literature Notes/1 - Indigenous Philosophies (L).md",
+    "notes/2b⁝  Language with a B.md",
+    "notes/2a⁝  Language.md"
   ]
 }
