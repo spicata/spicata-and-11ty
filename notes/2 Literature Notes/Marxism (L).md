@@ -4,7 +4,7 @@
 - Bourgeoise used institutions to keep the proletariats under their control.
 - Marx believed that this treatment towards proletariats would eventually boil over into a full blown revolution.
 
-[[Marxism (P)]]
+[[5 - Marxism (P)]]
 
 ---
 # Bibliography

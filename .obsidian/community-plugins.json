@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "obsidian-pandoc",
-  "persistent-graph",
   "obsidian-style-settings",
   "obsidian-html-tags-autocomplete",
   "obsidian-better-command-palette",
@@ -22,5 +21,7 @@
   "OA-file-hider",
   "obsidian-footnotes",
   "obsidian-tidy-footnotes",
-  "better-word-count"
+  "better-word-count",
+  "obsidian42-brat",
+  "obsidian-quickshare"
 ]

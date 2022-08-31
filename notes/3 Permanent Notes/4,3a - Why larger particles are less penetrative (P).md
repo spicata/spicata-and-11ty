@@ -1,0 +1,2 @@
+# 4,3a - Why larger particles are less penetrative #Permanent 
+$\alpha$ particles are significantly larger than $\beta$ particles and $\gamma$ rays, but also has significantly less penetration. However, this (may) seem counter-intuitive. A wrecking ball can more easily break through a wall than a bullet, and still have more energy left over. However, this is not what penetration is. 

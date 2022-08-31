@@ -4,22 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "693523182c012cbc",
+        "id": "6493088d04644cf0",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "693523182c012cbc",
+              "leaf": "6493088d04644cf0",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "6493088d04644cf0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/4 - Alpha Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6493088d04644cf0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/4,2a - Beta Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6493088d04644cf0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6493088d04644cf0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/4,2a - Beta Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":46},\"to\":{\"line\":5,\"ch\":46}}}"
+            },
+            {
+              "leaf": "6493088d04644cf0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/4 - Alpha Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6493088d04644cf0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/4,2a - Beta Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":7},\"to\":{\"line\":11,\"ch\":7}}}"
+            },
+            {
+              "leaf": "6493088d04644cf0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/4 - Alpha Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -101,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,20 +247,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "693523182c012cbc",
+  "active": "6493088d04644cf0",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "notes/1 Fleeting Notes/2022-08-29 Science (F).md",
+    "notes/3 Permanent Notes/4 - Alpha Decay (P).md",
+    "notes/3 Permanent Notes/4,2a - Beta Decay (P).md",
+    "notes/2 Literature Notes/Beta Decay (L).md",
+    "notes/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
+    "notes/2 Literature Notes/Alpha Decay (L).md",
+    "notes/1 Fleeting Notes/2022-08-30 Science (F).md",
     "notes/2 Literature Notes/Aboriginal Worldview (L).md",
-    "notes/3 - Aboriginal Worldview, Society (P).md",
-    "notes/3 Permanent Notes/2 - Aboriginal Worldview, Land (P).md",
-    "notes/3 Permanent Notes/1 - Indigenous Philosophies (P).md",
-    "notes/3,a - The Law (P).md",
-    "notes/3,b - Western Laws (P).md",
-    "notes/2 Literature Notes/1 - Indigenous Philosophies (L).md",
-    "notes/2b⁝  Language with a B.md",
-    "notes/2a⁝  Language.md"
+    "notes/1 Fleeting Notes/2022-08-29 Science (F).md",
+    "notes/3 Permanent Notes/4,a - Why does it release alpha particles.md",
+    "notes/2 Literature Notes/Teaching and Aboriginal Languages (L).md"
   ]
 }
