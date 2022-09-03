@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "obsidian-pandoc",
-  "obsidian-style-settings",
   "obsidian-html-tags-autocomplete",
   "obsidian-better-command-palette",
   "obsidian-better-internal-link-inserter",
@@ -18,10 +17,12 @@
   "obsidian-paste-image-rename",
   "obsidian-hotkeys-for-templates",
   "obsidian-grandfather",
-  "OA-file-hider",
   "obsidian-footnotes",
   "obsidian-tidy-footnotes",
   "better-word-count",
+  "obsidian-quickshare",
   "obsidian42-brat",
-  "obsidian-quickshare"
+  "obsidian-style-settings",
+  "garble-text",
+  "obsidian-image-toolkit"
 ]

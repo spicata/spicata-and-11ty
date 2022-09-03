@@ -29,5 +29,6 @@
   "foldIndent": false,
   "showIndentGuide": true,
   "lineWrap": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "fileSortOrder": "alphabetical"
 }

@@ -4,52 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "da99a9e12e145040",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "da99a9e12e145040",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Marxism and Metamorphosis (L).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "da99a9e12e145040",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/6 - Marxism (P).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/3 Permanent Notes/6 - Marxism (P).md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "e90a726e056faf9f",
+        "id": "6e2b7d2ab640cb02",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "e90a726e056faf9f",
+              "leaf": "6e2b7d2ab640cb02",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Marxism 2 (L).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":23},\"to\":{\"line\":6,\"ch\":74}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Nuclear Reactor & Waste (L).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/2 Literature Notes/Marxism 2 (L).md",
+            "file": "notes/2 Literature Notes/Nuclear Reactor & Waste (L).md",
             "mode": "source",
             "source": true
           }
@@ -101,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 262.5033760070801
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -134,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/3 Permanent Notes/6 - Marxism (P).md",
+                "file": "notes/2 Literature Notes/Nuclear Reactor & Waste (L).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/3 Permanent Notes/6 - Marxism (P).md",
+                "file": "notes/2 Literature Notes/Nuclear Reactor & Waste (L).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/3 Permanent Notes/6 - Marxism (P).md",
+                "file": "notes/2 Literature Notes/Nuclear Reactor & Waste (L).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,20 +204,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "da99a9e12e145040",
+  "active": "6e2b7d2ab640cb02",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "index.md",
-    "notes/3 Permanent Notes/6 - Marxism (P).md",
-    "notes/2 Literature Notes/Marxism 2 (L).md",
-    "notes/2 Literature Notes/Marxism and Metamorphosis (L).md",
-    "notes/archive/Metamorphosis & Marx.md",
-    "notes/3 Permanent Notes/5 - Marxism (P).md",
     "notes/3 Permanent Notes/4 - Alpha Decay (P).md",
-    "notes/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
-    "notes/3 Permanent Notes/4,2a - Beta Decay (P).md",
-    "notes/2 Literature Notes/Beta Decay (L).md"
+    "notes/3 Permanent Notes/4,5a - The Helium Nucleus.md",
+    "notes/1 Fleeting Notes/Helium Stability (F).md",
+    "notes/2 Literature Notes/The Helium Nucleus.md",
+    "notes/2 Literature Notes/What undergoes Beta Decay or Alpha Decay.md",
+    "assets/Pasted image 20220903091529.png",
+    "assets/Type of Decay graph.png",
+    "CONTRIBUTING.md",
+    "Wallpaper/Windows/img19.jpg",
+    "about.md"
   ]
 }

@@ -1,5 +1,5 @@
 # 4 - Alpha Decay #Permanent 
-Radioactive decay is the process that atoms undergo to become more stable by releasing energy or particles. A type of this is alpha decay, which releases alpha particles ([[4,a - Why does it release alpha particles]]) ($\alpha$ particles), which is identical to a helium nucleus[^1] (two protons and two neutrons.)
+Radioactive decay is the process that atoms undergo to become more stable by releasing energy or particles ([[4,4a - After Decay (P)]]). A type of this is alpha decay, which releases alpha particles ([[4,a - Why does it release alpha particles]]) ($\alpha$ particles), which is identical to a helium nucleus ([[4,5a - The Helium Nucleus]]) (two protons and two neutrons.)
 
 ![[Alpha-Particle.png]]
 
@@ -11,6 +11,5 @@ Alpha Decay | $^A_{Z}X\to^{A-4}_{Z-2}Y+^4_{2}\alpha$
 
 [[4,2a - Beta Decay (P)]] »
 
-[^1]: Why is it specifically a helium nucleus?
 [^2]: What does ionisation actually do? *It makes a atom into an ion.*
 [^3]: What are the side effects to exposure to $\alpha$ particles?

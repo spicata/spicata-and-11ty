@@ -1,6 +1,6 @@
 # 4,2b - Beta Decay Unlimited #Permanent 
 > [!WARNING]
-> Everything here on out is extension. However this extension can lose you marks, as you are not meant to know this stuff. Do not put it in exams.
+> Everything here on out is extension.
 
 Throw everything you know about positrons and beta decay out, because it is all wrong[^1]. Positrons are actually positively charged electrons, an “anti-electron”. Beta decay is a simplification, and does not make a positron and an electron.
 

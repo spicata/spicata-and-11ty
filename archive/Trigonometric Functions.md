@@ -1,4 +1,4 @@
-# Trigonometric Functions #rushmode
+# Trigonometric Functions #rushmode 
 - **Period** is the length of a “wave”. A period is measured as the distance from one peak to the next. 
 - **Amplitude** is size “waved”. Amplitude is the distance from the average a wave goes, and it is **always positive**. 
 - **Frequency** is amount “waved”. Frequency is calculated by dividing the period by $2\pi$ ($\frac{2\pi}{\text{Period}}$).

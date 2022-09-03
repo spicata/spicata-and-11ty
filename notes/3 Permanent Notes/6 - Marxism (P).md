@@ -5,3 +5,6 @@ Marx posited that, paradoxically, the more output the worker produces, the more 
 
 Another question that Marx asks is: if humans produce more than what is needed to sustain themselves, where does the rest go? Marx beckons that this excess produces is not only goes to the bourgeoise, but also unnecessary; it does both harm to the environment and people, only to support the economy.
 
+There were two types of revolutions that Marx believed were possible: a violet one, or a permanent one. In a permanent revolution is a form of revolution where a secondary government is formed by the proletariats, for the proletariats, until all the power eventually comes into the hands of them.
+
+« [[5 - Marxism (P)]]

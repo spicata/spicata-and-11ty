@@ -3,7 +3,7 @@ Marxism is a philosophy that was based on Karl Marx and Friedrich Engel’s publ
 
 Marxists posit that due to the way capitalism works, is creates an inevitable alienation[^3] between the workers, their jobs, and their lives, as it benefits the bourgeoise first and workers second. Furthermore, they postulate that the bourgeoise, with their considerable influence, were able to utilise institutions to keep proletariats under the capitalist regime[^4]. They believed that this conflict between ideals would boil over into full blown revolution (a process undergoing, albeit slowly in the left-wing-isation of younger generations[^5]).
 
-« None | [[6 - Marxism (P)]] »
+[[6 - Marxism (P)]] »
 
 [^1]: Why then, do there still exist capitalist structures today? And why are they the majority of economic structures?
 [^2]: Why did this have such a large impact on literature?
