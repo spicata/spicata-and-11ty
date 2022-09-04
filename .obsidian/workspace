@@ -4,15 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "6e2b7d2ab640cb02",
+        "id": "795e0c4f2f4d1fed",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "6e2b7d2ab640cb02",
+              "leaf": "795e0c4f2f4d1fed",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Nuclear Reactor & Waste (L).md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/8 - How a Nuclear Reactor Works.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+            },
+            {
+              "leaf": "795e0c4f2f4d1fed",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Thorium.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "795e0c4f2f4d1fed",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -20,7 +32,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/2 Literature Notes/Nuclear Reactor & Waste (L).md",
+            "file": "notes/2 Literature Notes/Thorium.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a9f4ff3037e4acbe",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a9f4ff3037e4acbe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/8,a,c - Thorium.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/3 Permanent Notes/8,a,c - Thorium.md",
             "mode": "source",
             "source": true
           }
@@ -59,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "![[",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801
+    "width": 262.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -104,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2 Literature Notes/Nuclear Reactor & Waste (L).md",
+                "file": "notes/3 Permanent Notes/8,a,c - Thorium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2 Literature Notes/Nuclear Reactor & Waste (L).md",
+                "file": "notes/3 Permanent Notes/8,a,c - Thorium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/2 Literature Notes/Nuclear Reactor & Waste (L).md",
+                "file": "notes/3 Permanent Notes/8,a,c - Thorium.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,20 +240,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "6e2b7d2ab640cb02",
+  "active": "a9f4ff3037e4acbe",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "notes/3 Permanent Notes/4 - Alpha Decay (P).md",
-    "notes/3 Permanent Notes/4,5a - The Helium Nucleus.md",
-    "notes/1 Fleeting Notes/Helium Stability (F).md",
-    "notes/2 Literature Notes/The Helium Nucleus.md",
-    "notes/2 Literature Notes/What undergoes Beta Decay or Alpha Decay.md",
-    "assets/Pasted image 20220903091529.png",
-    "assets/Type of Decay graph.png",
-    "CONTRIBUTING.md",
-    "Wallpaper/Windows/img19.jpg",
-    "about.md"
+    "notes/2 Literature Notes/Thorium.md",
+    "notes/1 Fleeting Notes/Kafka Personal Life (F).md",
+    "notes/2 Literature Notes/Breeder Reactors.md",
+    "notes/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
+    "notes/3 Permanent Notes/8,a,c - Thorium.md",
+    "notes/3 Permanent Notes/8,a,b - Breeder Reactors.md",
+    "notes/3 Permanent Notes/8 - How a Nuclear Reactor Works.md",
+    "archive/Socrates.md",
+    "notes/3 Permanent Notes/8,a - Nuclear Waste.md",
+    "notes/3 Permanent Notes/8,a,a - Nuclear Recycling.md"
   ]
 }

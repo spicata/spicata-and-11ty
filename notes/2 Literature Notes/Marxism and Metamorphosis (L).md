@@ -4,8 +4,9 @@
 - The chief-clerk is quintessential example of a bourgeoise: clearly having no work for himself, and primarily concerned with the output of his employees.
 - Every relationship was tied to a monetary purpose, similarly to how Marx portrayed relationship in *The Communist Manifesto*. Familial relationships breakdown as Gregor is unable to support his family, and the chief-clerk abandons him as soon as he cannot produce anymore output.
 	- As he was a financial burden, the passing of him is **CELEBRATED** 🤨.
-- 
+
+[[5,a - Marxism and Metamorphosis]]
 
 ---
 # Bibliography
-_Marxist Theory in The Metamorphosis_. (n.d.). RobertJamesReese.Com. Retrieved August 29, 2022, from [https://robertjamesreese.com/essays/marxist-theory-in-the-metamorphosis](https://robertjamesreese.com/essays/marxist-theory-in-the-metamorphosis)
+- Robert James Reese. (2004). _Marxist Theory in The Metamorphosis_. RobertJamesReese.Com. [https://robertjamesreese.com/essays/marxist-theory-in-the-metamorphosis](https://robertjamesreese.com/essays/marxist-theory-in-the-metamorphosis)

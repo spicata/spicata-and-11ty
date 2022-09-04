@@ -1,5 +1,5 @@
 # 4,2a - Beta Decay #Permanent 
-Beta decay is another way that unstable nuclei can achieve stability[^1]. It occurs when neutrons transform into a proton (positron) and a electron (negatron)[^2], increasing stability by increasing the proton to neutron ratio. The electron is tiny, and so it can be ejected from the nucleus as an incredibly high speed[^3]. This is the $\beta$ particle.
+Beta decay is another way that unstable nuclei can achieve stability ([[4,2a,a - Beta or Alpha decay]]). It occurs when neutrons transform into a proton (positron) and a electron (negatron)[^2], increasing stability by increasing the proton to neutron ratio. The electron is tiny, and so it can be ejected from the nucleus as an incredibly high speed[^3]. This is the $\beta$ particle.
 
 Beta decay has higher penetration, as the smaller particle allows it to fit through more gaps in a surface than the $\alpha$ particle. However, it has a lower ionisation ability as it needs to not only be closer due its size[^4], but also because it has a weaker charge.[^5]
 

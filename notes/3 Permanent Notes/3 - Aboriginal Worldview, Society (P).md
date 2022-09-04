@@ -5,7 +5,7 @@ The Aboriginal society is incredibly spiritualistic. If such a disconnect (betwe
 
 Aboriginal society is a deeply altruistic one[^5], where it is commonplace for people to distribute excess things, instead of keeping it for personal gain[^6]. For example, if plenty of fish is caught during a fishing trip, they would distribute it to the community for free, instead of keeping it. It is posited that altruism may be a more developed idea than possession.
 
-« [[2 - Aboriginal Worldview, Land (P)]] | None »
+« [[2 - Aboriginal Worldview, Land (P)]] | [[3,a - The Law (P)]] »
 
 [^1]: **Elaborate**: Why would that happen?
 [^2]: Is this a reason why spirituality has become more minor in modern society? Does the manipulation of spirituality through ideology shake the faith in it?

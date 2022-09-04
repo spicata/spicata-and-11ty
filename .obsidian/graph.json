@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:notes/archive -tag:#parent  ",
+  "search": "-path:archive",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "tag:#Project",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4159979812035221,
+  "scale": 0.26586252463568916,
   "close": true
 }

@@ -1,0 +1,2 @@
+# 8,a,c - Thorium #Permanent 
+The use of thorium-232 in nuclear reactors is an interesting proposition that has a lot of potential in the future to replace the standard uranium-235 reactors, and it comes with a variety of advantages, as well as some disadvantages.

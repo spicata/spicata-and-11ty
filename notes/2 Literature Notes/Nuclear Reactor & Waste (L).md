@@ -14,6 +14,8 @@
 
 ![[Nuclear Waste Lifecycle.png]]
 
+[[8 - How a Nuclear Reactor Works]]
+
 ---
 # Bibliography
 - _NUCLEAR 101: How Does a Nuclear Reactor Work?_ (2021, March 29). Energy.Gov. [https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work](https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work)

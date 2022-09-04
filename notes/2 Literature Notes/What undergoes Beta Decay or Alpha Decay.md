@@ -5,6 +5,8 @@
 
 ![[Type of Decay graph.png|400]]
 
+[[4,2a,a - Beta or Alpha decay]]
+
 ---
 # Bibliography
 - By Table_isotopes.svg: Napy1kenobiderivative work: Sjlegg (talk) - Table_isotopes.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6703703

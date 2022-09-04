@@ -5,6 +5,8 @@
 
 ![[Binding-Energy.png]]
 
+[[4,5a - The Helium Nucleus]]
+
 ---
 # Bibliography
 - Alpha decay. (2022). In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=Alpha_decay&oldid=1097448218](https://en.wikipedia.org/w/index.php?title=Alpha_decay&oldid=1097448218)
