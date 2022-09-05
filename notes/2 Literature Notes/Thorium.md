@@ -12,6 +12,8 @@
 - It also largely mitigated the ability to use it as a bomb.
 - **Check out molten salt reactors**
 
+[[8,a,c - Thorium]]
+
 ---
 # Bibliography
 - By Nandamohan - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113704694

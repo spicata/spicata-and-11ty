@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:archive",
+  "search": "-path:archive -path:Wallpaper",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.26586252463568916,
+  "scale": 0.48227101510539655,
   "close": true
 }

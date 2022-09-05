@@ -2,7 +2,8 @@
   "cssTheme": "Things",
   "enabledCssSnippets": [
     "theme",
-    "mark fixer"
+    "mark fixer",
+    "testing"
   ],
   "translucency": true,
   "theme": "obsidian",
