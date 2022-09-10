@@ -12,4 +12,4 @@
 # Bibliography
 - Pappas, S. (2022, March 9). _Facts About Uranium_. Livescience.Com. [https://www.livescience.com/39773-facts-about-uranium.html](https://www.livescience.com/39773-facts-about-uranium.html)
 - Touran, N. (n.d.). _What is Nuclear Recycling?_ What Is Nuclear? Retrieved 3 September 2022, from [https://whatisnuclear.com/recycling.html](https://whatisnuclear.com/recycling.html)
-- engineering), N. T., Ph D. (nuclear. (n.d.). _Nuclear fuel will last us for 4 billion years_. What Is Nuclear? Retrieved 3 September 2022, from [https://whatisnuclear.com/blog/2020-10-28-nuclear-energy-is-longterm-sustainable.html](https://whatisnuclear.com/blog/2020-10-28-nuclear-energy-is-longterm-sustainable.html)
+- Touran, N. (n.d.). _Nuclear fuel will last us for 4 billion years_. What Is Nuclear? Retrieved 3 September 2022, from [https://whatisnuclear.com/blog/2020-10-28-nuclear-energy-is-longterm-sustainable.html](https://whatisnuclear.com/blog/2020-10-28-nuclear-energy-is-longterm-sustainable.html)

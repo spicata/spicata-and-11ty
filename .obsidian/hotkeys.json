@@ -318,5 +318,23 @@
       ],
       "key": "B"
     }
-  ]
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-key-sequence-shortcut:open-key-sequence-palette": [],
+  "obsidian-key-sequence-shortcut:insert-command-id": []
 }

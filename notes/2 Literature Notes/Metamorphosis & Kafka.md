@@ -4,3 +4,6 @@
 - Kafka had a strenuous bond with his father, reflected in the story. Gregor’s father is named Herr, while Kafka’s is Hermann
 
 [[5,b - Metamorphosis and Kafka]]
+
+---
+# Bibliography

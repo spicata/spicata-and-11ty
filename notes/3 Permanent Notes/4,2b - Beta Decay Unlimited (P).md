@@ -6,7 +6,7 @@ Throw everything you know about positrons and beta decay out, because it is all 
 
 There exists three different modes of beta decay: positive beta decay ($\beta^+$), negative beta decay ($\beta^-$), and electron capture. Negative beta decay is the most common of these, and is the one in [[4,2a - Beta Decay (P)]]. It occurs when a neutron transforms into a proton, releasing an electron and an anti-neutrino[^2], with the general formula of: $^A_{Z}X\to^A_{Z+1}Y+^0_{-1}\beta+^0_{0}\overline{\nu}$.
 
-Positive decay is when a proton transforms into a neutron[^3] and releases a positron and a neutrino, coming in the general formula: $^A_{Z}X\to^A_{Z-1}Y+^0_{+1}\beta+^0_{0}\nu$. Electron capture is also when a proton transforms into a neutron, however, it consumes one of the electrons in the inner (K) electron shell, only releasing a neutrino. It’s general formula is: $^A_{Z}X+^0_{-1}e\to^A_{Z-1}Y+^0_{0}\nu$
+Positive decay is when a proton transforms into a neutron[^3] and releases a positron and a neutrino, coming in the general formula: $^A_{Z}X\to^A_{Z-1}Y+^0_{+1}\beta+^0_{0}\nu$. Electron capture is also when a proton transforms into a neutron, however, it consumes one of the electrons in the inner (K) electron shell, only releasing a neutrino. It’s general formula is: $^A_{Z}X+^0_{-1}e\to^A_{Z-1}Y+^0_{0}\nu$ 
 
 [^1]: Why would they teach you incorrect information?
 [^2]: Neutrinos and antineutrinos are high-energy particles. Why are they released?

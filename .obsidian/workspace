@@ -4,15 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "22a03157d57676e2",
+        "id": "71b0e13fd2a866fb",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "22a03157d57676e2",
+              "leaf": "71b0e13fd2a866fb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/8,a,a - Nuclear Recycling.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/2 Literature Notes/Teaching and Aboriginal (L).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "71b0e13fd2a866fb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/4 - Alpha Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "71b0e13fd2a866fb",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -20,7 +32,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/3 Permanent Notes/8,a,a - Nuclear Recycling.md",
+            "file": "notes/2 Literature Notes/Teaching and Aboriginal (L).md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "0d112d2f1c3c8f1d",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0d112d2f1c3c8f1d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3 Permanent Notes/3,c - Teaching and Aboriginal (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/3 Permanent Notes/3,c - Teaching and Aboriginal (P).md",
             "mode": "source",
             "source": true
           }
@@ -59,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pedagogies",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801
+    "width": 262.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -104,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/3 Permanent Notes/8,a,a - Nuclear Recycling.md",
+                "file": "notes/3 Permanent Notes/3,c - Teaching and Aboriginal (P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/3 Permanent Notes/8,a,a - Nuclear Recycling.md",
+                "file": "notes/3 Permanent Notes/3,c - Teaching and Aboriginal (P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +176,14 @@
             },
             "state": {
               "type": "toggl-report",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7258a853a197e96",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
               "state": {}
             }
           }
@@ -159,10 +203,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/3 Permanent Notes/8,a,a - Nuclear Recycling.md",
+                "file": "notes/3 Permanent Notes/3,c - Teaching and Aboriginal (P).md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "",
+                  "search": "-path:archive -path:Wallpaper",
                   "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -173,24 +217,38 @@
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "tag:#raw",
+                      "query": "tag:#Fleeting",
                       "color": {
                         "a": 1,
-                        "rgb": 11026150
+                        "rgb": 14701138
                       }
                     },
                     {
-                      "query": "tag:#parent",
+                      "query": "tag:#Literature",
                       "color": {
                         "a": 1,
-                        "rgb": 11854408
+                        "rgb": 14725458
                       }
                     },
                     {
-                      "query": "tag:#rushmode",
+                      "query": "tag:#Permanent",
                       "color": {
                         "a": 1,
-                        "rgb": 13848146
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "tag:#Index",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    },
+                    {
+                      "query": "tag:#Project",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
                       }
                     }
                   ],
@@ -204,7 +262,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2773319874689972,
+                  "scale": 0.20461219752433032,
                   "close": true
                 }
               }
@@ -216,20 +274,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "22a03157d57676e2",
+  "active": "0d112d2f1c3c8f1d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "notes/2022-09-05 - Science.md",
-    "notes/3 Permanent Notes/8,a,c - Thorium.md",
-    "notes/Testing.md",
-    "notes/2 Literature Notes/How to Geometric Series.md",
-    "notes/2 Literature Notes/Metamorphosis & Kafka.md",
-    "notes/2 Literature Notes/Marxism and Metamorphosis (L).md",
-    "notes/3 Permanent Notes/8,c - Repositories.md",
+    "notes/2 Literature Notes/Teaching and Aboriginal (L).md",
+    "notes/3 Permanent Notes/3,c - Teaching and Aboriginal (P).md",
+    "notes/3 Permanent Notes/4 - Alpha Decay (P).md",
+    "notes/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
+    "notes/3 Permanent Notes/4,2a - Beta Decay (P).md",
+    "notes/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
+    "notes/2 Literature Notes/Gamma Decay.md",
     "notes/5,b - Metamorphosis and Kafka.md",
-    "notes/3 Permanent Notes/5,a - Marxism and Metamorphosis.md",
-    "notes/Repositories.md"
+    "notes/3 Permanent Notes/4,4a - After Decay (P).md",
+    "notes/2 Literature Notes/Beta Decay (L).md"
   ]
 }
